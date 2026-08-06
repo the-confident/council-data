@@ -11,7 +11,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Cavan County Council",
@@ -39,7 +39,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Cork County Council",
@@ -53,7 +53,7 @@
       "cms_variant": "",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Donegal County Council",
@@ -67,7 +67,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Dún Laoghaire–Rathdown County Council",
@@ -95,7 +95,7 @@
       "cms_variant": "",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Galway County Council",
@@ -123,7 +123,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "CookieYes"
   },
   {
     "name": "Kildare County Council",
@@ -137,7 +137,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Kilkenny County Council",
@@ -151,7 +151,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Laois County Council",
@@ -165,7 +165,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "CookieYes"
   },
   {
     "name": "Leitrim County Council",
@@ -193,7 +193,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Longford County Council",
@@ -207,7 +207,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Louth County Council",
@@ -249,7 +249,7 @@
       "cms_variant": "",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Monaghan County Council",
@@ -263,7 +263,7 @@
       "cms_variant": "",
       "cms_version": "7.0.2"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Offaly County Council",
@@ -277,7 +277,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Roscommon County Council",
@@ -305,7 +305,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "South Dublin County Council",
@@ -319,7 +319,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Tipperary County Council",
@@ -347,7 +347,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "CookieYes"
   },
   {
     "name": "Westmeath County Council",
@@ -361,7 +361,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Wexford County Council",
@@ -375,7 +375,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Wicklow County Council",
@@ -389,7 +389,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Cork City Council",
@@ -403,7 +403,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Dublin City Council",
@@ -417,7 +417,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Galway City Council",
@@ -431,7 +431,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Aberdeen City Council",
@@ -585,7 +585,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "East Renfrewshire Council",
@@ -697,7 +697,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Na h-Eileanan Siar",
@@ -711,7 +711,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "North Ayrshire Council",
@@ -753,7 +753,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Perth and Kinross Council",
@@ -837,7 +837,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "jQuery EU Cookie Law Popup"
   },
   {
     "name": "Stirling Council",
@@ -1187,7 +1187,7 @@
       "cms_variant": "",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Greater London Authority",
@@ -1215,7 +1215,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Barking and Dagenham London Borough Council",
@@ -1229,7 +1229,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Barnet London Borough Council",
@@ -1271,7 +1271,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Bromley London Borough Council",
@@ -1299,7 +1299,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Croydon London Borough Council",
@@ -1327,7 +1327,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Enfield London Borough Council",
@@ -1341,7 +1341,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Greenwich London Borough Council",
@@ -1369,7 +1369,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Hammersmith and Fulham London Borough Council",
@@ -1383,7 +1383,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Haringey London Borough Council",
@@ -1397,7 +1397,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Harrow London Borough Council",
@@ -1425,7 +1425,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Hillingdon London Borough Council",
@@ -1439,7 +1439,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Hounslow London Borough Council",
@@ -1509,7 +1509,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Lewisham London Borough Council",
@@ -1523,7 +1523,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Merton London Borough Council",
@@ -1579,7 +1579,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Southwark London Borough Council",
@@ -1607,7 +1607,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "CookieScript"
   },
   {
     "name": "Tower Hamlets London Borough Council",
@@ -1635,7 +1635,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Wandsworth London Borough Council",
@@ -1649,7 +1649,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Westminster City Council",
@@ -1691,7 +1691,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "OneTrust / CookiePro"
   },
   {
     "name": "Liverpool City Council",
@@ -1719,7 +1719,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Sheffield City Council",
@@ -1803,7 +1803,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Basingstoke and Deane Borough Council",
@@ -1845,7 +1845,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Bolsover District Council",
@@ -1999,7 +1999,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Castle Point Borough Council",
@@ -2013,7 +2013,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Placecube CookieConsent"
   },
   {
     "name": "Charnwood Borough Council",
@@ -2055,7 +2055,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Cherwell District Council",
@@ -2069,7 +2069,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Chesterfield Borough Council",
@@ -2125,7 +2125,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Crawley Borough Council",
@@ -2167,7 +2167,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Derbyshire Dales District Council",
@@ -2209,7 +2209,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "East Devon District Council",
@@ -2279,7 +2279,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "East Suffolk Council",
@@ -2307,7 +2307,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Elmbridge Borough Council",
@@ -2335,7 +2335,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Epsom and Ewell Borough Council",
@@ -2349,7 +2349,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Erewash Borough Council",
@@ -2363,7 +2363,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Exeter City Council",
@@ -2433,7 +2433,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Fylde Borough Council",
@@ -2447,7 +2447,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookiebot"
   },
   {
     "name": "Gedling Borough Council",
@@ -2461,7 +2461,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Gloucester City Council",
@@ -2475,7 +2475,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Gosport Borough Council",
@@ -2545,7 +2545,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Hart District Council",
@@ -2573,7 +2573,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Insites Cookie Consent"
   },
   {
     "name": "Havant Borough Council",
@@ -2713,7 +2713,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Cookie Information"
   },
   {
     "name": "Maidstone Borough Council",
@@ -2727,7 +2727,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Silktide Consent Manager"
   },
   {
     "name": "Maldon District Council",
@@ -2769,7 +2769,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Melton Borough Council",
@@ -2783,7 +2783,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Mid Devon District Council",
@@ -2811,7 +2811,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Mid Sussex District Council",
@@ -2839,7 +2839,7 @@
       "cms_variant": "",
       "cms_version": "7.0.2"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "New Forest District Council",
@@ -2881,7 +2881,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "North Hertfordshire District Council",
@@ -3133,7 +3133,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Runnymede Borough Council",
@@ -3147,7 +3147,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Silktide Consent Manager"
   },
   {
     "name": "Rushcliffe Borough Council",
@@ -3203,7 +3203,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "South Derbyshire District Council",
@@ -3287,7 +3287,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "South Ribble Borough Council",
@@ -3301,7 +3301,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Silktide Consent Manager"
   },
   {
     "name": "Spelthorne Borough Council",
@@ -3371,7 +3371,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Stratford-on-Avon District Council",
@@ -3413,7 +3413,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Swale Borough Council",
@@ -3441,7 +3441,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Tandridge District Council",
@@ -3455,7 +3455,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "NADev GDPR Cookie Consent"
   },
   {
     "name": "Teignbridge District Council",
@@ -3567,7 +3567,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Uttlesford District Council",
@@ -3595,7 +3595,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Warwick District Council",
@@ -3651,7 +3651,7 @@
       "cms_variant": "",
       "cms_version": "7.0.2"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Insites Cookie Consent"
   },
   {
     "name": "Welwyn Hatfield Borough Council",
@@ -3665,7 +3665,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "West Devon Borough Council",
@@ -3693,7 +3693,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Insites Cookie Consent"
   },
   {
     "name": "West Lindsey District Council",
@@ -3721,7 +3721,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Winchester City Council",
@@ -3749,7 +3749,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Wokingham Borough Council",
@@ -3763,7 +3763,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Worcester City Council",
