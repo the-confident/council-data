@@ -7,9 +7,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -35,9 +35,9 @@
     "homepage_description": "Enhancing the quality of life in County Clare through leadership and partnership",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -49,9 +49,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -91,9 +91,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -105,9 +105,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -119,7 +119,7 @@
     "homepage_description": "",
     "generator_raw_value": "Divi v.4.27.7",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -147,7 +147,7 @@
     "homepage_description": "",
     "generator_raw_value": "pTools Software",
     "generator": {
-      "cms": "",
+      "cms": "pTools Software",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -161,9 +161,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -175,7 +175,7 @@
     "homepage_description": "Leitrim County Council",
     "generator_raw_value": "pTools Software",
     "generator": {
-      "cms": "",
+      "cms": "pTools Software",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -189,9 +189,9 @@
     "homepage_description": "Limerick City and County Council (Comhairle Cathrach agus Contae Luimnigh) is the authority responsible for local government in the City of Limerick and County Limerick in Ireland. As a public service provider, our role is to be of real service to our customers. Our website, Limerick.ie, is the best place to find Limerick City &amp; County Council services and information.",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -245,9 +245,9 @@
     "homepage_description": "Information About Home, County Meath, Ireland - Councils, Community, Business and Investment, Tourism",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -259,9 +259,9 @@
     "homepage_description": "Serving County Monaghan Popular Services Housing Dogs Planning Libraries Gift Card Community Museum Environment Heritage Biodiversity Climate Action Emergency Updates View All Services Council News News Monaghan County Council Launches [&hellip;]",
     "generator_raw_value": "WordPress 7.0.2",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "7.0.2"
     },
     "cookie_consent_manager": ""
   },
@@ -287,7 +287,7 @@
     "homepage_description": "",
     "generator_raw_value": "pTools Software",
     "generator": {
-      "cms": "",
+      "cms": "pTools Software",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -329,9 +329,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -371,9 +371,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -413,9 +413,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -427,9 +427,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -469,9 +469,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -483,9 +483,9 @@
     "homepage_description": "Argyll and Bute Council",
     "generator_raw_value": "Drupal 9 (http://drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "9"
     },
     "cookie_consent_manager": ""
   },
@@ -525,9 +525,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -539,9 +539,9 @@
     "homepage_description": "Offering a wide range of information and services to residents and businesses in Dundee, a creative and dynamic city in the North-East of Scotland.",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -553,9 +553,9 @@
     "homepage_description": "Information and services for residents, businesses and visitors to East Ayrshire.",
     "generator_raw_value": "Contensis CMS Version 11.1",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11.1"
     },
     "cookie_consent_manager": ""
   },
@@ -581,9 +581,9 @@
     "homepage_description": "East Lothian Council website homepage.",
     "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -679,7 +679,7 @@
     "homepage_description": "Midlothian Council&#039;s main homepage",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -707,9 +707,9 @@
     "homepage_description": "Welcome to the Comhairle nan Eilean Siar / Western Isles Council website. How can we help?",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -721,7 +721,7 @@
     "homepage_description": "Access information across North Ayrshire Council, accessing our popular tasks and online services like making payments and reporting issues.",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -735,9 +735,9 @@
     "homepage_description": "Homepage of North Lanarkshire Council website",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org); Commerce 2",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -777,9 +777,9 @@
     "homepage_description": "Find information about local services in Renfrewshire, including bins, benefits, housing, schools, council tax, benefits, and health and social care.",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -833,7 +833,7 @@
     "homepage_description": "-",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -973,9 +973,9 @@
     "homepage_description": "Conwy",
     "generator_raw_value": "Contensis CMS Version 8.3",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "8.3"
     },
     "cookie_consent_manager": ""
   },
@@ -987,9 +987,9 @@
     "homepage_description": "Official website of Denbighshire County Council. Find information about Council Tax, planning, parking, licensing, libraries, recycling and more.",
     "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "17.2"
     },
     "cookie_consent_manager": ""
   },
@@ -1015,7 +1015,7 @@
     "homepage_description": "",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1029,9 +1029,9 @@
     "homepage_description": "Cyngor Sir Ynys M&#244;n yw awdurdod lleol Ynys M&#244;n, Cymru. - Isle of Anglesey County Council is the local authority of the Isle of Anglesey, Wales.",
     "generator_raw_value": "Contensis CMS Version 16.0",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "16.0"
     },
     "cookie_consent_manager": ""
   },
@@ -1057,7 +1057,7 @@
     "homepage_description": "Monmouthshire County Councils home page for all services including Leisure, Libraries, Property and Planning, Countryside Services, Things to Do.",
     "generator_raw_value": "WPML ver:4.9.2.1 stt:1,11;",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1085,9 +1085,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -1127,9 +1127,9 @@
     "homepage_description": "Information and services for residence, businesses and tourists. Online services and information on Council Tax, Planning, Rubbish Waste &amp;amp; Recycling, Leisure Facilities, Pest Control, Licensing and much more.",
     "generator_raw_value": "Contensis CMS Version 15.3",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "15.3"
     },
     "cookie_consent_manager": ""
   },
@@ -1155,7 +1155,7 @@
     "homepage_description": "",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1169,9 +1169,9 @@
     "homepage_description": "The Vale of Glamorgan Council website",
     "generator_raw_value": "Contensis CMS Version 16.2",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "16.2"
     },
     "cookie_consent_manager": ""
   },
@@ -1183,9 +1183,9 @@
     "homepage_description": "Wrecsam yw prif dref Gogledd Cymru. - Wrexham is the main town of North Wales.",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -1211,7 +1211,7 @@
     "homepage_description": "Visit the City of London - Things to see and do from iconic attractions to hidden gems and explore green spaces both inside of and outside the Square Mile.",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1225,9 +1225,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1253,9 +1253,9 @@
     "homepage_description": "Welcome to the London Borough of Bexley website where you can pay, report, apply and find information about many council services",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1309,9 +1309,9 @@
     "homepage_description": "Delivering 24 hour council services to residents, visitors and businesses in Croydon",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1323,7 +1323,7 @@
     "homepage_description": "Information on the services provided by the council, and how to access them.",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1351,9 +1351,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1365,9 +1365,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -1379,9 +1379,9 @@
     "homepage_description": "We",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -1393,9 +1393,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1477,9 +1477,9 @@
     "homepage_description": "Welcome to the Royal Borough of Kensington and Chelsea",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1491,9 +1491,9 @@
     "homepage_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1505,9 +1505,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1533,9 +1533,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -1589,9 +1589,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1603,9 +1603,9 @@
     "homepage_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
     "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1617,9 +1617,9 @@
     "homepage_description": "Homepage",
     "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "17.2"
     },
     "cookie_consent_manager": ""
   },
@@ -1631,9 +1631,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1659,9 +1659,9 @@
     "homepage_description": "Welcome to the official website of Westminster City Council. Find information about Council Tax, planning, parking, licensing, libraries, recycling and more",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1729,9 +1729,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1743,9 +1743,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1771,9 +1771,9 @@
     "homepage_description": "",
     "generator_raw_value": "VerseOne CMS v5",
     "generator": {
-      "cms": "",
+      "cms": "VerseOne CMS",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "5"
     },
     "cookie_consent_manager": ""
   },
@@ -1813,7 +1813,7 @@
     "homepage_description": "Basingstoke and Deane Borough Council website.",
     "generator_raw_value": "Smart Media Intelligent WebCentre",
     "generator": {
-      "cms": "",
+      "cms": "Smart Media Intelligent WebCentre",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1853,7 +1853,7 @@
     "homepage": "https://www.bolsover.gov.uk/",
     "homepage_title": "Home",
     "homepage_description": "Bolsover District Council The Arc High Street Clowne Derbyshire S43 4JY Telephone: 01246 242424",
-    "generator_raw_value": "Bolsover District Council Website",
+    "generator_raw_value": "Joomla",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1911,9 +1911,9 @@
     "homepage_description": "",
     "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
-      "cms": "",
+      "cms": "Council Platform",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "3.3"
     },
     "cookie_consent_manager": ""
   },
@@ -1967,7 +1967,7 @@
     "homepage_description": "",
     "generator_raw_value": "Site Kit by Google 1.184.0",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1981,9 +1981,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -1995,9 +1995,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2023,9 +2023,9 @@
     "homepage_description": "Charnwood sits centrally in the triangle formed by Nottingham, Leicester and Derby. Just over one third of the 155,000+ population live in the thriving university town of Loughborough.",
     "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Cuttlefish CMS",
+      "cms_variant": "ccms",
+      "cms_version": "2.0.0"
     },
     "cookie_consent_manager": ""
   },
@@ -2135,9 +2135,9 @@
     "homepage_description": "Local Government services for residents, visitors and businesses in Crawley",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -2149,9 +2149,9 @@
     "homepage_description": "Information for residents, businesses and visitors to Dacorum.",
     "generator_raw_value": "Sitefinity 15.2.8423.0 DX",
     "generator": {
-      "cms": "",
+      "cms": "Sitefinity",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "15.2.8423.0"
     },
     "cookie_consent_manager": ""
   },
@@ -2177,7 +2177,7 @@
     "homepage_description": "Derbyshire Dales District Council home. Pay your council tax, visit our attractions, submit planning applications, and report issues in your district.",
     "generator_raw_value": "Joomla! - Open Source Content Management",
     "generator": {
-      "cms": "",
+      "cms": "Joomla",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2191,9 +2191,9 @@
     "homepage_description": "Dover District Council providing services to the people who live, work and study in Dover, Deal, Sandwich and the surrounding areas",
     "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "17.2"
     },
     "cookie_consent_manager": ""
   },
@@ -2205,9 +2205,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2233,9 +2233,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -2247,9 +2247,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -2275,9 +2275,9 @@
     "homepage_description": "Your local authority delivering services to the Borough of East Staffordshire.",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2289,9 +2289,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2317,9 +2317,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2359,9 +2359,9 @@
     "homepage_description": "Erewash Borough is a great place to live and work. We want all our communities to share in the benefits of our area’s success.",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2443,7 +2443,7 @@
     "homepage_description": "",
     "generator_raw_value": "Redux 4.5.13",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2457,9 +2457,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2527,7 +2527,7 @@
     "homepage_description": "Harborough District Council",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2541,9 +2541,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2555,9 +2555,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -2583,9 +2583,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2597,7 +2597,7 @@
     "homepage_description": "Hertsmere Borough Council - see the services we run from benefits and council tax to bin collections and planning. Get news updates and contact us.",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2653,9 +2653,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -2737,7 +2737,7 @@
     "homepage_description": "Maldon District Council home page",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2835,9 +2835,9 @@
     "homepage_description": "",
     "generator_raw_value": "WordPress 7.0.2",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "7.0.2"
     },
     "cookie_consent_manager": ""
   },
@@ -2863,9 +2863,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2877,9 +2877,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2891,9 +2891,9 @@
     "homepage_description": "The online home of North Herts Council, which covers the four towns of Baldock, Letchworth, Hitchin and Royston and surrounding villages.",
     "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
-      "cms": "",
+      "cms": "Council Platform",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "3.3"
     },
     "cookie_consent_manager": ""
   },
@@ -2905,9 +2905,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2947,9 +2947,9 @@
     "homepage_description": "North West Leicestershire boasts enormous diversity including, heritage and history, amazing places to visit, miles of hidden nature trails and days out to delight everyone.",
     "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Cuttlefish CMS",
+      "cms_variant": "ccms",
+      "cms_version": "2.0.0"
     },
     "cookie_consent_manager": ""
   },
@@ -2961,9 +2961,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -2989,9 +2989,9 @@
     "homepage_description": "",
     "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Cuttlefish CMS",
+      "cms_variant": "ccms",
+      "cms_version": "2.0.0"
     },
     "cookie_consent_manager": ""
   },
@@ -3017,7 +3017,7 @@
     "homepage_description": "Accessible homepage version two",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3059,7 +3059,7 @@
     "homepage_description": "Reigate and Banstead Borough Council is a local government district in east Surrey, England. Includes the towns of Reigate, Redhill, Horley and Banstead.",
     "generator_raw_value": "http://www.jadu.net",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3087,9 +3087,9 @@
     "homepage_description": "",
     "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
-      "cms": "",
+      "cms": "Council Platform",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "3.3"
     },
     "cookie_consent_manager": ""
   },
@@ -3115,9 +3115,9 @@
     "homepage_description": "Welcome to Rother District Council",
     "generator_raw_value": "WordPress 6.9.4",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "6.9.4"
     },
     "cookie_consent_manager": ""
   },
@@ -3227,9 +3227,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3255,9 +3255,9 @@
     "homepage_description": "Welcome to the South Kesteven District Council website. Proudly serving Grantham, Stamford, Bourne, The Deepings and rural communities across 365sq miles.",
     "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -3269,7 +3269,7 @@
     "homepage_description": "Welcome to the Broadland District Council and South Norfolk Council joint website, providing information on council services for residents, businesses and visitors.",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3311,9 +3311,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3325,9 +3325,9 @@
     "homepage_description": "This is the website for St Albans City &amp; District Council, Hertfordshire, UK.",
     "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "11"
     },
     "cookie_consent_manager": ""
   },
@@ -3339,9 +3339,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3367,7 +3367,7 @@
     "homepage_description": "Stevenage Borough Council homepage to access council services and information",
     "generator_raw_value": "Contensis",
     "generator": {
-      "cms": "",
+      "cms": "Contensis",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3409,9 +3409,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3437,9 +3437,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3507,7 +3507,7 @@
     "homepage_description": "Welcome to Tewkesbury Borough Council’s website. Find information about the council itself as well as its services including council tax and benefits, parking, planning, licensing, recycling and more.",
     "generator_raw_value": "WP Rocket 3.21.3",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3647,9 +3647,9 @@
     "homepage_description": "Keywords",
     "generator_raw_value": "WordPress 7.0.2",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
-      "cms_version": ""
+      "cms_version": "7.0.2"
     },
     "cookie_consent_manager": ""
   },
@@ -3675,9 +3675,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3703,9 +3703,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3745,9 +3745,9 @@
     "homepage_description": "",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
@@ -3759,9 +3759,9 @@
     "homepage_description": "Welcome to Wokingham Borough Council website - giving you access to services and information we provide for residents, businesses and visitors",
     "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
-      "cms": "",
-      "cms_variant": "",
-      "cms_version": ""
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
     },
     "cookie_consent_manager": ""
   },
