@@ -5,7 +5,7 @@
     "homepage": "https://www.carlow.ie/",
     "homepage_title": "Welcome to Carlow County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -33,7 +33,7 @@
     "homepage": "https://www.clarecoco.ie/",
     "homepage_title": "Homepage | Clare County Council",
     "homepage_description": "Enhancing the quality of life in County Clare through leadership and partnership",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -47,7 +47,7 @@
     "homepage": "https://www.corkcoco.ie/",
     "homepage_title": "Cork County Council - The Place to Live, Work, Visit and Do Business.",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -89,7 +89,7 @@
     "homepage": "https://www.fingal.ie/",
     "homepage_title": "Fingal County Council - The Place to Live, Work, Visit and Do Business.",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -103,7 +103,7 @@
     "homepage": "https://www.galway.ie/",
     "homepage_title": "Galway County Council | Galway County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -117,7 +117,7 @@
     "homepage": "https://www.kerrycoco.ie/",
     "homepage_title": "kerrycoco.ie | Kerry County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Divi v.4.27.7",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -145,7 +145,7 @@
     "homepage": "https://www.kilkennycoco.ie/",
     "homepage_title": "English - Kilkenny County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "pTools Software",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -159,7 +159,7 @@
     "homepage": "https://laois.ie/",
     "homepage_title": "Homepage | Laois County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -173,7 +173,7 @@
     "homepage": "https://www.leitrimcoco.ie/",
     "homepage_title": "LeitrimCoCo - Leitrim County Council",
     "homepage_description": "Leitrim County Council",
-    "generator_raw_value": "",
+    "generator_raw_value": "pTools Software",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -187,7 +187,7 @@
     "homepage": "https://www.limerick.ie/council",
     "homepage_title": "Council | Limerick.ie",
     "homepage_description": "Limerick City and County Council (Comhairle Cathrach agus Contae Luimnigh) is the authority responsible for local government in the City of Limerick and County Limerick in Ireland. As a public service provider, our role is to be of real service to our customers. Our website, Limerick.ie, is the best place to find Limerick City &amp; County Council services and information.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -243,7 +243,7 @@
     "homepage": "https://www.meath.ie/",
     "homepage_title": "Meath County Council providing Council, Business and Tourism Services for County Meath | Meath.ie",
     "homepage_description": "Information About Home, County Meath, Ireland - Councils, Community, Business and Investment, Tourism",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -257,7 +257,7 @@
     "homepage": "https://monaghan.ie/",
     "homepage_title": "Home -Monaghan County Council - Comhairle Contae Mhuineacháin",
     "homepage_description": "Serving County Monaghan Popular Services Housing Dogs Planning Libraries Gift Card Community Museum Environment Heritage Biodiversity Climate Action Emergency Updates View All Services Council News News Monaghan County Council Launches [&hellip;]",
-    "generator_raw_value": "",
+    "generator_raw_value": "WordPress 7.0.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -285,7 +285,7 @@
     "homepage": "https://www.roscommoncoco.ie/",
     "homepage_title": "Home - Roscommon County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "pTools Software",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -327,7 +327,7 @@
     "homepage": "https://www.tipperarycoco.ie/",
     "homepage_title": "Home Page | Tipperary County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -369,7 +369,7 @@
     "homepage": "https://www.wexfordcoco.ie/",
     "homepage_title": "Wexford County Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -411,7 +411,7 @@
     "homepage": "https://www.dublincity.ie/",
     "homepage_title": "Homepage | Dublin City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -425,7 +425,7 @@
     "homepage": "https://www.galwaycity.ie/",
     "homepage_title": "Welcome to Galway City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -467,7 +467,7 @@
     "homepage": "https://www.angus.gov.uk/",
     "homepage_title": "home | Angus Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -481,7 +481,7 @@
     "homepage": "https://www.argyll-bute.gov.uk/",
     "homepage_title": "Welcome to Argyll &amp; Bute Council | Argyll and Bute Council",
     "homepage_description": "Argyll and Bute Council",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 9 (http://drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -523,7 +523,7 @@
     "homepage": "https://www.dumgal.gov.uk/",
     "homepage_title": "Welcome to Dumfries and Galloway | Dumfries and Galloway Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -537,7 +537,7 @@
     "homepage": "https://www.dundeecity.gov.uk/",
     "homepage_title": "Home Page | Dundee City Council",
     "homepage_description": "Offering a wide range of information and services to residents and businesses in Dundee, a creative and dynamic city in the North-East of Scotland.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -551,7 +551,7 @@
     "homepage": "https://www.east-ayrshire.gov.uk/",
     "homepage_title": "Home &middot; East Ayrshire Council",
     "homepage_description": "Information and services for residents, businesses and visitors to East Ayrshire.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 11.1",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -579,7 +579,7 @@
     "homepage": "https://www.eastlothian.gov.uk/",
     "homepage_title": "Homepage | East Lothian Council",
     "homepage_description": "East Lothian Council website homepage.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -677,7 +677,7 @@
     "homepage": "https://www.midlothian.gov.uk/",
     "homepage_title": "Midlothian Council Homepage",
     "homepage_description": "Midlothian Council&#039;s main homepage",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -705,7 +705,7 @@
     "homepage": "https://www.cne-siar.gov.uk/",
     "homepage_title": "Homepage | Comhairle nan Eilean Siar",
     "homepage_description": "Welcome to the Comhairle nan Eilean Siar / Western Isles Council website. How can we help?",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -719,7 +719,7 @@
     "homepage": "https://www.north-ayrshire.gov.uk/",
     "homepage_title": "North Ayrshire Council",
     "homepage_description": "Access information across North Ayrshire Council, accessing our popular tasks and online services like making payments and reporting issues.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -733,7 +733,7 @@
     "homepage": "https://www.northlanarkshire.gov.uk/",
     "homepage_title": "Welcome to North Lanarkshire Council | North Lanarkshire Council",
     "homepage_description": "Homepage of North Lanarkshire Council website",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org); Commerce 2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -775,7 +775,7 @@
     "homepage": "https://www.renfrewshire.gov.uk/",
     "homepage_title": "Welcome to Renfrewshire Council",
     "homepage_description": "Find information about local services in Renfrewshire, including bins, benefits, housing, schools, council tax, benefits, and health and social care.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -831,7 +831,7 @@
     "homepage": "https://www.southlanarkshire.gov.uk/",
     "homepage_title": "South Lanarkshire Council",
     "homepage_description": "-",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -971,7 +971,7 @@
     "homepage": "https://www.conwy.gov.uk/",
     "homepage_title": "Conwy",
     "homepage_description": "Conwy",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 8.3",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -985,7 +985,7 @@
     "homepage": "https://www.denbighshire.gov.uk/",
     "homepage_title": "denbighshire.gov.uk | Denbighshire County Council",
     "homepage_description": "Official website of Denbighshire County Council. Find information about Council Tax, planning, parking, licensing, libraries, recycling and more.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1013,7 +1013,7 @@
     "homepage": "https://www.gwynedd.llyw.cymru/",
     "homepage_title": "Eich cyngor chi - Cyngor Gwynedd",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1027,7 +1027,7 @@
     "homepage": "https://www.anglesey.gov.uk/",
     "homepage_title": "Cyngor Sir Ynys M&ocirc;n - Isle of Anglesey County Council",
     "homepage_description": "Cyngor Sir Ynys M&#244;n yw awdurdod lleol Ynys M&#244;n, Cymru. - Isle of Anglesey County Council is the local authority of the Isle of Anglesey, Wales.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 16.0",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1055,7 +1055,7 @@
     "homepage": "https://www.monmouthshire.gov.uk/",
     "homepage_title": "Home - Monmouthshire",
     "homepage_description": "Monmouthshire County Councils home page for all services including Leisure, Libraries, Property and Planning, Countryside Services, Things to Do.",
-    "generator_raw_value": "",
+    "generator_raw_value": "WPML ver:4.9.2.1 stt:1,11;",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1083,7 +1083,7 @@
     "homepage": "https://www.newport.gov.uk/",
     "homepage_title": "Home | Newport City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1125,7 +1125,7 @@
     "homepage": "https://www.rctcbc.gov.uk/",
     "homepage_title": "Welcome to Rhondda Cynon Taf County Borough Council",
     "homepage_description": "Information and services for residence, businesses and tourists. Online services and information on Council Tax, Planning, Rubbish Waste &amp;amp; Recycling, Leisure Facilities, Pest Control, Licensing and much more.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 15.3",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1153,7 +1153,7 @@
     "homepage": "https://www.torfaen.gov.uk/",
     "homepage_title": "Torfaen County Borough Council - Torfaen County Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1167,7 +1167,7 @@
     "homepage": "https://www.valeofglamorgan.gov.uk/",
     "homepage_title": "Vale of Glamorgan Council",
     "homepage_description": "The Vale of Glamorgan Council website",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 16.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1181,7 +1181,7 @@
     "homepage": "https://www.wrexham.gov.uk/",
     "homepage_title": "Cyngor Bwrdeistref Sirol Wrecsam - Wrexham County Borough Council",
     "homepage_description": "Wrecsam yw prif dref Gogledd Cymru. - Wrexham is the main town of North Wales.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1209,7 +1209,7 @@
     "homepage": "https://www.cityoflondon.gov.uk/",
     "homepage_title": "Things to do - City of London",
     "homepage_description": "Visit the City of London - Things to see and do from iconic attractions to hidden gems and explore green spaces both inside of and outside the Square Mile.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1223,7 +1223,7 @@
     "homepage": "https://www.lbbd.gov.uk/",
     "homepage_title": "Welcome to Barking and Dagenham | London Borough of Barking and Dagenham",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1251,7 +1251,7 @@
     "homepage": "https://www.bexley.gov.uk/",
     "homepage_title": "Homepage | London Borough of Bexley",
     "homepage_description": "Welcome to the London Borough of Bexley website where you can pay, report, apply and find information about many council services",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1307,7 +1307,7 @@
     "homepage": "https://www.croydon.gov.uk/",
     "homepage_title": "Welcome to croydon.gov.uk | Croydon Council",
     "homepage_description": "Delivering 24 hour council services to residents, visitors and businesses in Croydon",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1321,7 +1321,7 @@
     "homepage": "https://www.ealing.gov.uk/",
     "homepage_title": "Homepage",
     "homepage_description": "Information on the services provided by the council, and how to access them.",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1349,7 +1349,7 @@
     "homepage": "https://www.royalgreenwich.gov.uk/",
     "homepage_title": "Royal Greenwich | Royal Borough of Greenwich",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1363,7 +1363,7 @@
     "homepage": "https://www.hackney.gov.uk/",
     "homepage_title": "Welcome to Hackney Council | Hackney Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1377,7 +1377,7 @@
     "homepage": "https://www.lbhf.gov.uk/",
     "homepage_title": "Homepage | London Borough of Hammersmith &amp; Fulham",
     "homepage_description": "We",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1391,7 +1391,7 @@
     "homepage": "https://www.haringey.gov.uk/",
     "homepage_title": "Welcome to Haringey Council | Haringey Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1475,7 +1475,7 @@
     "homepage": "https://www.rbkc.gov.uk/",
     "homepage_title": "Homepage | Royal Borough of Kensington and Chelsea",
     "homepage_description": "Welcome to the Royal Borough of Kensington and Chelsea",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1489,7 +1489,7 @@
     "homepage": "https://www.kingston.gov.uk/",
     "homepage_title": "Homepage | Royal Borough of Kingston upon Thames",
     "homepage_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1503,7 +1503,7 @@
     "homepage": "https://www.lambeth.gov.uk/",
     "homepage_title": "Welcome to Lambeth | Lambeth Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1531,7 +1531,7 @@
     "homepage": "https://www.merton.gov.uk/",
     "homepage_title": "Welcome to Merton | Merton Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1587,7 +1587,7 @@
     "homepage": "https://www.southwark.gov.uk/",
     "homepage_title": "Hello, welcome to Southwark | Southwark Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1601,7 +1601,7 @@
     "homepage": "https://www.sutton.gov.uk/",
     "homepage_title": "Homepage | London Borough of Sutton",
     "homepage_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1615,7 +1615,7 @@
     "homepage": "https://www.towerhamlets.gov.uk/",
     "homepage_title": "Home",
     "homepage_description": "Homepage",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1629,7 +1629,7 @@
     "homepage": "https://www.walthamforest.gov.uk/",
     "homepage_title": "Home | London Borough of Waltham Forest",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1657,7 +1657,7 @@
     "homepage": "https://www.westminster.gov.uk/",
     "homepage_title": "Homepage | Westminster City Council",
     "homepage_description": "Welcome to the official website of Westminster City Council. Find information about Council Tax, planning, parking, licensing, libraries, recycling and more",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1727,7 +1727,7 @@
     "homepage": "https://www.sheffield.gov.uk/",
     "homepage_title": "Homepage | Sheffield City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1741,7 +1741,7 @@
     "homepage": "https://www.newcastle.gov.uk/",
     "homepage_title": "Home | Newcastle City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1769,7 +1769,7 @@
     "homepage": "https://www.arun.gov.uk/",
     "homepage_title": "Arun District Council | Arun District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "VerseOne CMS v5",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1811,7 +1811,7 @@
     "homepage": "https://www.basingstoke.gov.uk/",
     "homepage_title": "Basingstoke and Deane Borough Council website",
     "homepage_description": "Basingstoke and Deane Borough Council website.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Smart Media Intelligent WebCentre",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1853,7 +1853,7 @@
     "homepage": "https://www.bolsover.gov.uk/",
     "homepage_title": "Home",
     "homepage_description": "Bolsover District Council The Arc High Street Clowne Derbyshire S43 4JY Telephone: 01246 242424",
-    "generator_raw_value": "",
+    "generator_raw_value": "Bolsover District Council Website",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1909,7 +1909,7 @@
     "homepage": "https://www.brentwood.gov.uk/",
     "homepage_title": "Home | Brentwood Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1965,7 +1965,7 @@
     "homepage": "https://www.burnley.gov.uk/",
     "homepage_title": "Home - burnley.gov.uk",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Site Kit by Google 1.184.0",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1979,7 +1979,7 @@
     "homepage": "https://www.cannockchasedc.gov.uk/",
     "homepage_title": "Cannock Chase | Cannock Chase District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -1993,7 +1993,7 @@
     "homepage": "https://www.canterbury.gov.uk/",
     "homepage_title": "How can we help? | Canterbury City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2021,7 +2021,7 @@
     "homepage": "https://www.charnwood.gov.uk/",
     "homepage_title": "Charnwood Borough Council",
     "homepage_description": "Charnwood sits centrally in the triangle formed by Nottingham, Leicester and Derby. Just over one third of the 155,000+ population live in the thriving university town of Loughborough.",
-    "generator_raw_value": "",
+    "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2133,7 +2133,7 @@
     "homepage": "https://crawley.gov.uk/",
     "homepage_title": "Home | Crawley GOV",
     "homepage_description": "Local Government services for residents, visitors and businesses in Crawley",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2147,7 +2147,7 @@
     "homepage": "https://www.dacorum.gov.uk/",
     "homepage_title": "Dacorum Borough Council Home Page",
     "homepage_description": "Information for residents, businesses and visitors to Dacorum.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Sitefinity 15.2.8423.0 DX",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2175,7 +2175,7 @@
     "homepage": "https://www.derbyshiredales.gov.uk/",
     "homepage_title": "Home - Derbyshire Dales District Council",
     "homepage_description": "Derbyshire Dales District Council home. Pay your council tax, visit our attractions, submit planning applications, and report issues in your district.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Joomla! - Open Source Content Management",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2189,7 +2189,7 @@
     "homepage": "https://www.dover.gov.uk/",
     "homepage_title": "Dover District Council",
     "homepage_description": "Dover District Council providing services to the people who live, work and study in Dover, Deal, Sandwich and the surrounding areas",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis CMS Version 17.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2203,7 +2203,7 @@
     "homepage": "https://www.eastcambs.gov.uk/",
     "homepage_title": "East Cambridgeshire District Council | East Cambridgeshire District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2231,7 +2231,7 @@
     "homepage": "https://www.easthants.gov.uk/",
     "homepage_title": "Homepage | East Hampshire District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2245,7 +2245,7 @@
     "homepage": "https://www.eastherts.gov.uk/",
     "homepage_title": "Home | East Herts District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2273,7 +2273,7 @@
     "homepage": "https://www.eaststaffsbc.gov.uk/",
     "homepage_title": "East Staffordshire Borough Council | East Staffordshire Borough Council",
     "homepage_description": "Your local authority delivering services to the Borough of East Staffordshire.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2287,7 +2287,7 @@
     "homepage": "https://www.eastsuffolk.gov.uk/",
     "homepage_title": "Home | East Suffolk Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2315,7 +2315,7 @@
     "homepage": "https://www.elmbridge.gov.uk/",
     "homepage_title": "Home | Elmbridge Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2357,7 +2357,7 @@
     "homepage": "https://www.erewash.gov.uk/",
     "homepage_title": "Homepage | Erewash Borough Council",
     "homepage_description": "Erewash Borough is a great place to live and work. We want all our communities to share in the benefits of our area’s success.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2441,7 +2441,7 @@
     "homepage": "https://www.fylde.gov.uk/",
     "homepage_title": "Fylde Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Redux 4.5.13",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2455,7 +2455,7 @@
     "homepage": "https://www.gedling.gov.uk/",
     "homepage_title": "Welcome to Gedling | Gedling Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2525,7 +2525,7 @@
     "homepage": "https://www.harborough.gov.uk/",
     "homepage_title": "Harborough District Council Homepage",
     "homepage_description": "Harborough District Council",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2539,7 +2539,7 @@
     "homepage": "https://www.harlow.gov.uk/",
     "homepage_title": "Welcome to Harlow Council | Harlow Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2553,7 +2553,7 @@
     "homepage": "https://www.hart.gov.uk/",
     "homepage_title": "Homepage | Hart District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2581,7 +2581,7 @@
     "homepage": "https://www.havant.gov.uk/",
     "homepage_title": "Homepage | Havant Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2595,7 +2595,7 @@
     "homepage": "https://www.hertsmere.gov.uk/",
     "homepage_title": "Hertsmere - Hertsmere Borough Council",
     "homepage_description": "Hertsmere Borough Council - see the services we run from benefits and council tax to bin collections and planning. Get news updates and contact us.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2651,7 +2651,7 @@
     "homepage": "https://www.ipswich.gov.uk/",
     "homepage_title": "Ipswich homepage | ipswich.gov.uk",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2735,7 +2735,7 @@
     "homepage": "https://www.maldon.gov.uk/",
     "homepage_title": "Maldon District Council",
     "homepage_description": "Maldon District Council home page",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2833,7 +2833,7 @@
     "homepage": "https://www.molevalley.gov.uk/",
     "homepage_title": "Mole Valley District Council - Homepage - Mole Valley District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "WordPress 7.0.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2861,7 +2861,7 @@
     "homepage": "https://www.newark-sherwooddc.gov.uk/",
     "homepage_title": "Homepage | Newark &amp; Sherwood District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2875,7 +2875,7 @@
     "homepage": "https://www.northdevon.gov.uk/",
     "homepage_title": "Home | North Devon Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2889,7 +2889,7 @@
     "homepage": "https://www.north-herts.gov.uk/",
     "homepage_title": "Home | North Herts Council",
     "homepage_description": "The online home of North Herts Council, which covers the four towns of Baldock, Letchworth, Hitchin and Royston and surrounding villages.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2903,7 +2903,7 @@
     "homepage": "https://www.n-kesteven.gov.uk/",
     "homepage_title": "Welcome to North Kesteven District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2945,7 +2945,7 @@
     "homepage": "https://www.nwleics.gov.uk/",
     "homepage_title": "North West Leicestershire District Council",
     "homepage_description": "North West Leicestershire boasts enormous diversity including, heritage and history, amazing places to visit, miles of hidden nature trails and days out to delight everyone.",
-    "generator_raw_value": "",
+    "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2959,7 +2959,7 @@
     "homepage": "https://www.norwich.gov.uk/",
     "homepage_title": "Norwich CC Homepage | Norwich City Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -2987,7 +2987,7 @@
     "homepage": "https://www.oadby-wigston.gov.uk/",
     "homepage_title": "Oadby and Wigston Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3015,7 +3015,7 @@
     "homepage": "https://www.pendle.gov.uk/",
     "homepage_title": "Pendle Borough Council Homepage",
     "homepage_description": "Accessible homepage version two",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3057,7 +3057,7 @@
     "homepage": "https://www.reigate-banstead.gov.uk/",
     "homepage_title": "Reigate and Banstead Homepage",
     "homepage_description": "Reigate and Banstead Borough Council is a local government district in east Surrey, England. Includes the towns of Reigate, Redhill, Horley and Banstead.",
-    "generator_raw_value": "",
+    "generator_raw_value": "http://www.jadu.net",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3085,7 +3085,7 @@
     "homepage": "https://www.rochford.gov.uk/",
     "homepage_title": "Rochford Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Council Platform 3.3 (https://councilplatform.com)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3113,7 +3113,7 @@
     "homepage": "https://www.rother.gov.uk/",
     "homepage_title": "Rother District Council",
     "homepage_description": "Welcome to Rother District Council",
-    "generator_raw_value": "",
+    "generator_raw_value": "WordPress 6.9.4",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3225,7 +3225,7 @@
     "homepage": "https://www.southhams.gov.uk/",
     "homepage_title": "South Hams | South Hams District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3253,7 +3253,7 @@
     "homepage": "https://www.southkesteven.gov.uk/",
     "homepage_title": "Welcome to South Kesteven District Council - Homepage | South Kesteven District Council",
     "homepage_description": "Welcome to the South Kesteven District Council website. Proudly serving Grantham, Stamford, Bourne, The Deepings and rural communities across 365sq miles.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3267,7 +3267,7 @@
     "homepage": "https://www.southnorfolkandbroadland.gov.uk/",
     "homepage_title": "Welcome to South Norfolk &amp; Broadland District Councils&#x27; website | Broadland and South Norfolk",
     "homepage_description": "Welcome to the Broadland District Council and South Norfolk Council joint website, providing information on council services for residents, businesses and visitors.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3309,7 +3309,7 @@
     "homepage": "https://www.spelthorne.gov.uk/",
     "homepage_title": "Homepage | Spelthorne Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3323,7 +3323,7 @@
     "homepage": "https://www.stalbans.gov.uk/",
     "homepage_title": "St Albans City and District Council",
     "homepage_description": "This is the website for St Albans City &amp; District Council, Hertfordshire, UK.",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3337,7 +3337,7 @@
     "homepage": "https://www.staffordbc.gov.uk/",
     "homepage_title": "People | Stafford Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3365,7 +3365,7 @@
     "homepage": "https://www.stevenage.gov.uk/",
     "homepage_title": "Home",
     "homepage_description": "Stevenage Borough Council homepage to access council services and information",
-    "generator_raw_value": "",
+    "generator_raw_value": "Contensis",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3407,7 +3407,7 @@
     "homepage": "https://www.surreyheath.gov.uk/",
     "homepage_title": "Welcome to surreyheath.gov.uk",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3435,7 +3435,7 @@
     "homepage": "https://www.tamworth.gov.uk/",
     "homepage_title": "Home | Tamworth Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3505,7 +3505,7 @@
     "homepage": "https://www.tewkesbury.gov.uk/",
     "homepage_title": "Tewkesbury Borough Council - Home - Information about living in the Tewkesbury Borough",
     "homepage_description": "Welcome to Tewkesbury Borough Council’s website. Find information about the council itself as well as its services including council tax and benefits, parking, planning, licensing, recycling and more.",
-    "generator_raw_value": "",
+    "generator_raw_value": "WP Rocket 3.21.3",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3645,7 +3645,7 @@
     "homepage": "https://www.wealden.gov.uk/",
     "homepage_title": "Wealden District Council",
     "homepage_description": "Keywords",
-    "generator_raw_value": "",
+    "generator_raw_value": "WordPress 7.0.2",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3673,7 +3673,7 @@
     "homepage": "https://www.westdevon.gov.uk/",
     "homepage_title": "West Devon | West Devon Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3701,7 +3701,7 @@
     "homepage": "https://www.west-lindsey.gov.uk/",
     "homepage_title": "Welcome to West Lindsey District Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3743,7 +3743,7 @@
     "homepage": "https://www.woking.gov.uk/",
     "homepage_title": "Woking Borough Council | Woking Borough Council",
     "homepage_description": "",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
@@ -3757,7 +3757,7 @@
     "homepage": "https://www.wokingham.gov.uk/",
     "homepage_title": "Wokingham Council",
     "homepage_description": "Welcome to Wokingham Borough Council website - giving you access to services and information we provide for residents, businesses and visitors",
-    "generator_raw_value": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
     "generator": {
       "cms": "",
       "cms_variant": "",
