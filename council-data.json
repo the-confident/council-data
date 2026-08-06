@@ -3,2200 +3,3562 @@
     "name": "Carlow County Council",
     "country": "Ireland",
     "homepage": "https://www.carlow.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cavan County Council",
     "country": "Ireland",
     "homepage": "https://www.cavancoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Clare County Council",
     "country": "Ireland",
     "homepage": "https://www.clarecoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cork County Council",
     "country": "Ireland",
     "homepage": "https://www.corkcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Donegal County Council",
     "country": "Ireland",
     "homepage": "https://www.donegalcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dún Laoghaire–Rathdown County Council",
     "country": "Ireland",
     "homepage": "https://www.dlrcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Fingal County Council",
     "country": "Ireland",
     "homepage": "https://www.fingal.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Galway County Council",
     "country": "Ireland",
     "homepage": "https://www.galway.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Kerry County Council",
     "country": "Ireland",
     "homepage": "https://www.kerrycoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Kildare County Council",
     "country": "Ireland",
     "homepage": "https://kildarecoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Kilkenny County Council",
     "country": "Ireland",
     "homepage": "https://www.kilkennycoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Laois County Council",
     "country": "Ireland",
     "homepage": "https://laois.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Leitrim County Council",
     "country": "Ireland",
     "homepage": "https://www.leitrimcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Limerick City and County Council",
     "country": "Ireland",
     "homepage": "https://www.limerick.ie/council",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Longford County Council",
     "country": "Ireland",
     "homepage": "https://www.longfordcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Louth County Council",
     "country": "Ireland",
     "homepage": "https://www.louthcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mayo County Council",
     "country": "Ireland",
     "homepage": "https://www.mayo.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Meath County Council",
     "country": "Ireland",
     "homepage": "https://www.meath.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Monaghan County Council",
     "country": "Ireland",
     "homepage": "https://monaghan.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Offaly County Council",
     "country": "Ireland",
     "homepage": "https://www.offaly.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Roscommon County Council",
     "country": "Ireland",
     "homepage": "https://www.roscommoncoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Sligo County Council",
     "country": "Ireland",
     "homepage": "https://www.sligococo.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Dublin County Council",
     "country": "Ireland",
     "homepage": "https://www.sdcc.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tipperary County Council",
     "country": "Ireland",
     "homepage": "https://www.tipperarycoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Waterford City and County Council",
     "country": "Ireland",
     "homepage": "https://www.waterfordcouncil.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Westmeath County Council",
     "country": "Ireland",
     "homepage": "https://www.westmeathcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wexford County Council",
     "country": "Ireland",
     "homepage": "https://www.wexfordcoco.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wicklow County Council",
     "country": "Ireland",
     "homepage": "https://www.wicklow.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cork City Council",
     "country": "Ireland",
     "homepage": "https://www.corkcity.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dublin City Council",
     "country": "Ireland",
     "homepage": "https://www.dublincity.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Galway City Council",
     "country": "Ireland",
     "homepage": "https://www.galwaycity.ie/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Aberdeen City Council",
     "country": "Scotland",
     "homepage": "https://www.aberdeencity.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Aberdeenshire Council",
     "country": "Scotland",
     "homepage": "https://www.aberdeenshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Angus Council",
     "country": "Scotland",
     "homepage": "https://www.angus.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Argyll and Bute Council",
     "country": "Scotland",
     "homepage": "https://www.argyll-bute.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "City of Edinburgh Council",
     "country": "Scotland",
     "homepage": "https://www.edinburgh.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Clackmannanshire Council",
     "country": "Scotland",
     "homepage": "https://www.clacks.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dumfries and Galloway Council",
     "country": "Scotland",
     "homepage": "https://www.dumgal.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dundee City Council",
     "country": "Scotland",
     "homepage": "https://www.dundeecity.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Ayrshire Council",
     "country": "Scotland",
     "homepage": "https://www.east-ayrshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Dunbartonshire Council",
     "country": "Scotland",
     "homepage": "https://www.eastdunbarton.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Lothian Council",
     "country": "Scotland",
     "homepage": "https://www.eastlothian.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Renfrewshire Council",
     "country": "Scotland",
     "homepage": "https://www.eastrenfrewshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Falkirk Council",
     "country": "Scotland",
     "homepage": "https://www.falkirk.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Fife Council",
     "country": "Scotland",
     "homepage": "https://www.fife.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Glasgow City Council",
     "country": "Scotland",
     "homepage": "https://www.glasgow.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Highland Council",
     "country": "Scotland",
     "homepage": "https://www.highland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Inverclyde Council",
     "country": "Scotland",
     "homepage": "https://www.inverclyde.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Midlothian Council",
     "country": "Scotland",
     "homepage": "https://www.midlothian.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Moray Council",
     "country": "Scotland",
     "homepage": "http://www.moray.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Na h-Eileanan Siar",
     "country": "Scotland",
     "homepage": "https://www.cne-siar.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Ayrshire Council",
     "country": "Scotland",
     "homepage": "https://www.north-ayrshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Lanarkshire Council",
     "country": "Scotland",
     "homepage": "https://www.northlanarkshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Orkney Islands Council",
     "country": "Scotland",
     "homepage": "https://www.orkney.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Perth and Kinross Council",
     "country": "Scotland",
     "homepage": "https://www.pkc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Renfrewshire Council",
     "country": "Scotland",
     "homepage": "https://www.renfrewshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Scottish Borders Council",
     "country": "Scotland",
     "homepage": "https://www.scotborders.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Shetland Islands Council",
     "country": "Scotland",
     "homepage": "https://www.shetland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Ayrshire Council",
     "country": "Scotland",
     "homepage": "https://www.south-ayrshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Lanarkshire Council",
     "country": "Scotland",
     "homepage": "https://www.southlanarkshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Stirling Council",
     "country": "Scotland",
     "homepage": "https://www.stirling.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Dunbartonshire Council",
     "country": "Scotland",
     "homepage": "https://www.west-dunbarton.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Lothian Council",
     "country": "Scotland",
     "homepage": "https://www.westlothian.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Blaenau Gwent County Borough Council",
     "country": "Wales",
     "homepage": "https://www.blaenau-gwent.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Bridgend County Borough Council",
     "country": "Wales",
     "homepage": "https://www.bridgend.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Caerphilly County Borough Council",
     "country": "Wales",
     "homepage": "https://www.caerphilly.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cardiff Council",
     "country": "Wales",
     "homepage": "https://www.cardiff.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Carmarthenshire County Council",
     "country": "Wales",
     "homepage": "https://www.carmarthenshire.gov.wales/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Ceredigion County Council",
     "country": "Wales",
     "homepage": "https://www.ceredigion.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Conwy County Borough Council",
     "country": "Wales",
     "homepage": "https://www.conwy.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Denbighshire County Council",
     "country": "Wales",
     "homepage": "https://www.denbighshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Flintshire County Council",
     "country": "Wales",
     "homepage": "https://www.flintshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Gwynedd Council",
     "country": "Wales",
     "homepage": "https://www.gwynedd.llyw.cymru/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Isle of Anglesey County Council",
     "country": "Wales",
     "homepage": "https://www.anglesey.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Merthyr Tydfil County Borough Council",
     "country": "Wales",
     "homepage": "https://www.merthyr.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Monmouthshire County Council",
     "country": "Wales",
     "homepage": "https://www.monmouthshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Neath Port Talbot County Borough Council",
     "country": "Wales",
     "homepage": "https://www.npt.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Newport City Council",
     "country": "Wales",
     "homepage": "https://www.newport.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Pembrokeshire County Council",
     "country": "Wales",
     "homepage": "https://www.pembrokeshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Powys County Council",
     "country": "Wales",
     "homepage": "https://en.powys.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rhondda Cynon Taf County Borough Council",
     "country": "Wales",
     "homepage": "https://www.rctcbc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Swansea Council",
     "country": "Wales",
     "homepage": "https://www.swansea.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Torfaen County Borough Council",
     "country": "Wales",
     "homepage": "https://www.torfaen.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Vale of Glamorgan Council",
     "country": "Wales",
     "homepage": "https://www.valeofglamorgan.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wrexham County Borough Council",
     "country": "Wales",
     "homepage": "https://www.wrexham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Greater London Authority",
     "country": "England",
     "homepage": "https://www.london.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "City of London Corporation",
     "country": "England",
     "homepage": "https://www.cityoflondon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Barking and Dagenham London Borough Council",
     "country": "England",
     "homepage": "https://www.lbbd.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Barnet London Borough Council",
     "country": "England",
     "homepage": "https://www.barnet.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Bexley London Borough Council",
     "country": "England",
     "homepage": "https://www.bexley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Brent London Borough Council",
     "country": "England",
     "homepage": "https://www.brent.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Bromley London Borough Council",
     "country": "England",
     "homepage": "https://www.bromley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Camden London Borough Council",
     "country": "England",
     "homepage": "https://www.camden.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Croydon London Borough Council",
     "country": "England",
     "homepage": "https://www.croydon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Ealing London Borough Council",
     "country": "England",
     "homepage": "https://www.ealing.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Enfield London Borough Council",
     "country": "England",
     "homepage": "https://www.enfield.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Greenwich London Borough Council",
     "country": "England",
     "homepage": "https://www.royalgreenwich.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hackney London Borough Council",
     "country": "England",
     "homepage": "https://www.hackney.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hammersmith and Fulham London Borough Council",
     "country": "England",
     "homepage": "https://www.lbhf.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Haringey London Borough Council",
     "country": "England",
     "homepage": "https://www.haringey.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Harrow London Borough Council",
     "country": "England",
     "homepage": "https://www.harrow.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Havering London Borough Council",
     "country": "England",
     "homepage": "https://www.havering.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hillingdon London Borough Council",
     "country": "England",
     "homepage": "https://www.hillingdon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hounslow London Borough Council",
     "country": "England",
     "homepage": "https://www.hounslow.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Islington London Borough Council",
     "country": "England",
     "homepage": "https://www.islington.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Kensington and Chelsea London Borough Council",
     "country": "England",
     "homepage": "https://www.rbkc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Kingston upon Thames London Borough Council",
     "country": "England",
     "homepage": "https://www.kingston.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Lambeth London Borough Council",
     "country": "England",
     "homepage": "https://www.lambeth.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Lewisham London Borough Council",
     "country": "England",
     "homepage": "https://www.lewisham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Merton London Borough Council",
     "country": "England",
     "homepage": "https://www.merton.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Newham London Borough Council",
     "country": "England",
     "homepage": "https://www.newham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Redbridge London Borough Council",
     "country": "England",
     "homepage": "https://www.redbridge.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Richmond upon Thames London Borough Council",
     "country": "England",
     "homepage": "https://www.richmond.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Southwark London Borough Council",
     "country": "England",
     "homepage": "https://www.southwark.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Sutton London Borough Council",
     "country": "England",
     "homepage": "https://www.sutton.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tower Hamlets London Borough Council",
     "country": "England",
     "homepage": "https://www.towerhamlets.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Waltham Forest London Borough Council",
     "country": "England",
     "homepage": "https://www.walthamforest.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wandsworth London Borough Council",
     "country": "England",
     "homepage": "https://www.wandsworth.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Westminster City Council",
     "country": "England",
     "homepage": "https://www.westminster.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Birmingham City Council",
     "country": "England",
     "homepage": "https://www.birmingham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Leeds City Council",
     "country": "England",
     "homepage": "https://www.leeds.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Liverpool City Council",
     "country": "England",
     "homepage": "https://liverpool.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Manchester City Council",
     "country": "England",
     "homepage": "https://www.manchester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Sheffield City Council",
     "country": "England",
     "homepage": "https://www.sheffield.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Newcastle City Council",
     "country": "England",
     "homepage": "https://www.newcastle.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Adur District Council",
     "country": "England",
     "homepage": "https://www.adur-worthing.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Arun District Council",
     "country": "England",
     "homepage": "https://www.arun.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Ashford Borough Council",
     "country": "England",
     "homepage": "https://www.ashford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Babergh District Council",
     "country": "England",
     "homepage": "https://www.babergh.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Basingstoke and Deane Borough Council",
     "country": "England",
     "homepage": "https://www.basingstoke.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Basildon Borough Council",
     "country": "England",
     "homepage": "https://www.basildon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Blaby District Council",
     "country": "England",
     "homepage": "https://www.blaby.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Bolsover District Council",
     "country": "England",
     "homepage": "https://www.bolsover.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Boston Borough Council",
     "country": "England",
     "homepage": "https://www.boston.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Braintree District Council",
     "country": "England",
     "homepage": "https://www.braintree.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Breckland District Council",
     "country": "England",
     "homepage": "https://www.breckland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Brentwood Borough Council",
     "country": "England",
     "homepage": "https://www.brentwood.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Bromsgrove District Council",
     "country": "England",
     "homepage": "https://www.bromsgrove.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Broxbourne Borough Council",
     "country": "England",
     "homepage": "https://www.broxbourne.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Broxtowe Borough Council",
     "country": "England",
     "homepage": "https://www.broxtowe.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Burnley Borough Council",
     "country": "England",
     "homepage": "https://www.burnley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cannock Chase District Council",
     "country": "England",
     "homepage": "https://www.cannockchasedc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Canterbury City Council",
     "country": "England",
     "homepage": "https://www.canterbury.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Castle Point Borough Council",
     "country": "England",
     "homepage": "https://www.castlepoint.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Charnwood Borough Council",
     "country": "England",
     "homepage": "https://www.charnwood.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Chelmsford City Council",
     "country": "England",
     "homepage": "https://www.chelmsford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cheltenham Borough Council",
     "country": "England",
     "homepage": "https://www.cheltenham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cherwell District Council",
     "country": "England",
     "homepage": "https://www.cherwell.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Chesterfield Borough Council",
     "country": "England",
     "homepage": "https://www.chesterfield.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Chichester District Council",
     "country": "England",
     "homepage": "https://www.chichester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Colchester City Council",
     "country": "England",
     "homepage": "https://www.colchester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Cotswold District Council",
     "country": "England",
     "homepage": "https://www.cotswold.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Crawley Borough Council",
     "country": "England",
     "homepage": "https://crawley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dacorum Borough Council",
     "country": "England",
     "homepage": "https://www.dacorum.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dartford Borough Council",
     "country": "England",
     "homepage": "https://www.dartford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Derbyshire Dales District Council",
     "country": "England",
     "homepage": "https://www.derbyshiredales.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Dover District Council",
     "country": "England",
     "homepage": "https://www.dover.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Cambridgeshire District Council",
     "country": "England",
     "homepage": "https://www.eastcambs.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Devon District Council",
     "country": "England",
     "homepage": "https://eastdevon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Hampshire District Council",
     "country": "England",
     "homepage": "https://www.easthants.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Hertfordshire District Council",
     "country": "England",
     "homepage": "https://www.eastherts.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Lindsey District Council",
     "country": "England",
     "homepage": "https://www.e-lindsey.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Staffordshire Borough Council",
     "country": "England",
     "homepage": "https://www.eaststaffsbc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "East Suffolk Council",
     "country": "England",
     "homepage": "https://www.eastsuffolk.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
-  },
-  {
-    "name": "Eastbourne Borough Council",
-    "country": "England",
-    "homepage": "https://www.lewes-eastbourne.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Eastleigh Borough Council",
     "country": "England",
     "homepage": "https://www.eastleigh.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Elmbridge Borough Council",
     "country": "England",
     "homepage": "https://www.elmbridge.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Epping Forest District Council",
     "country": "England",
     "homepage": "https://www.eppingforestdc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Epsom and Ewell Borough Council",
     "country": "England",
     "homepage": "https://www.epsom-ewell.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Erewash Borough Council",
     "country": "England",
     "homepage": "https://www.erewash.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Exeter City Council",
     "country": "England",
     "homepage": "https://exeter.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Fareham Borough Council",
     "country": "England",
     "homepage": "https://www.fareham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Fenland District Council",
     "country": "England",
     "homepage": "https://www.fenland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Folkestone and Hythe District Council",
     "country": "England",
     "homepage": "https://www.folkestone-hythe.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Forest of Dean District Council",
     "country": "England",
     "homepage": "https://www.fdean.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Fylde Borough Council",
     "country": "England",
     "homepage": "https://www.fylde.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Gedling Borough Council",
     "country": "England",
     "homepage": "https://www.gedling.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Gloucester City Council",
     "country": "England",
     "homepage": "https://www.gloucester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Gosport Borough Council",
     "country": "England",
     "homepage": "https://www.gosport.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Great Yarmouth Borough Council",
     "country": "England",
     "homepage": "https://www.great-yarmouth.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Guildford Borough Council",
     "country": "England",
     "homepage": "https://www.guildford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Harborough District Council",
     "country": "England",
     "homepage": "https://www.harborough.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Harlow District Council",
     "country": "England",
     "homepage": "https://www.harlow.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hart District Council",
     "country": "England",
     "homepage": "https://www.hart.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hastings Borough Council",
     "country": "England",
     "homepage": "https://www.hastings.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Havant Borough Council",
     "country": "England",
     "homepage": "https://www.havant.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Hertsmere Borough Council",
     "country": "England",
     "homepage": "https://www.hertsmere.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "High Peak Borough Council",
     "country": "England",
     "homepage": "https://www.highpeak.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Horsham District Council",
     "country": "England",
     "homepage": "https://www.horsham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Huntingdonshire District Council",
     "country": "England",
     "homepage": "https://www.huntingdonshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Ipswich Borough Council",
     "country": "England",
     "homepage": "https://www.ipswich.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "King's Lynn and West Norfolk Borough Council",
     "country": "England",
     "homepage": "https://www.west-norfolk.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Lewes District Council",
     "country": "England",
     "homepage": "https://www.lewes-eastbourne.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Lichfield District Council",
     "country": "England",
     "homepage": "https://www.lichfielddc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Lincoln City Council",
     "country": "England",
     "homepage": "https://www.lincoln.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Maidstone Borough Council",
     "country": "England",
     "homepage": "https://www.maidstone.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Maldon District Council",
     "country": "England",
     "homepage": "https://www.maldon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Malvern Hills District Council",
     "country": "England",
     "homepage": "https://www.malvernhills.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mansfield District Council",
     "country": "England",
     "homepage": "https://www.mansfield.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Melton Borough Council",
     "country": "England",
     "homepage": "https://www.melton.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mid Devon District Council",
     "country": "England",
     "homepage": "https://www.middevon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mid Suffolk District Council",
     "country": "England",
     "homepage": "https://www.midsuffolk.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mid Sussex District Council",
     "country": "England",
     "homepage": "https://www.midsussex.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Mole Valley District Council",
     "country": "England",
     "homepage": "https://www.molevalley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "New Forest District Council",
     "country": "England",
     "homepage": "https://www.newforest.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Newark and Sherwood District Council",
     "country": "England",
     "homepage": "https://www.newark-sherwooddc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Devon Council",
     "country": "England",
     "homepage": "https://www.northdevon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Hertfordshire District Council",
     "country": "England",
     "homepage": "https://www.north-herts.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Kesteven District Council",
     "country": "England",
     "homepage": "https://www.n-kesteven.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Norfolk District Council",
     "country": "England",
     "homepage": "https://www.north-norfolk.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North Warwickshire Borough Council",
     "country": "England",
     "homepage": "https://www.northwarks.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "North West Leicestershire District Council",
     "country": "England",
     "homepage": "https://www.nwleics.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Norwich City Council",
     "country": "England",
     "homepage": "https://www.norwich.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Nuneaton and Bedworth Borough Council",
     "country": "England",
     "homepage": "https://www.nuneatonandbedworth.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Oadby and Wigston Borough Council",
     "country": "England",
     "homepage": "https://www.oadby-wigston.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Oxford City Council",
     "country": "England",
     "homepage": "https://www.oxford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Pendle Borough Council",
     "country": "England",
     "homepage": "https://www.pendle.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Preston City Council",
     "country": "England",
     "homepage": "https://www.preston.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Redditch Borough Council",
     "country": "England",
     "homepage": "https://www.redditchbc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Reigate and Banstead Borough Council",
     "country": "England",
     "homepage": "https://www.reigate-banstead.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Ribble Valley Borough Council",
     "country": "England",
     "homepage": "https://www.ribblevalley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rochford District Council",
     "country": "England",
     "homepage": "https://www.rochford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rossendale Borough Council",
     "country": "England",
     "homepage": "https://www.rossendale.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rother District Council",
     "country": "England",
     "homepage": "https://www.rother.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rugby Borough Council",
     "country": "England",
     "homepage": "https://www.rugby.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Runnymede Borough Council",
     "country": "England",
     "homepage": "https://www.runnymede.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rushcliffe Borough Council",
     "country": "England",
     "homepage": "https://www.rushcliffe.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Rushmoor Borough Council",
     "country": "England",
     "homepage": "https://www.rushmoor.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Sevenoaks District Council",
     "country": "England",
     "homepage": "https://www.sevenoaks.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Cambridgeshire District Council",
     "country": "England",
     "homepage": "https://www.scambs.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Derbyshire District Council",
     "country": "England",
     "homepage": "https://www.southderbyshire.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Hams District Council",
     "country": "England",
     "homepage": "https://www.southhams.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Holland District Council",
     "country": "England",
     "homepage": "https://www.sholland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Kesteven District Council",
     "country": "England",
     "homepage": "https://www.southkesteven.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Norfolk Council",
     "country": "England",
     "homepage": "https://www.southnorfolkandbroadland.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Oxfordshire District Council",
     "country": "England",
     "homepage": "https://www.southoxon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "South Ribble Borough Council",
     "country": "England",
     "homepage": "https://www.southribble.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Spelthorne Borough Council",
     "country": "England",
     "homepage": "https://www.spelthorne.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "St Albans City and District Council",
     "country": "England",
     "homepage": "https://www.stalbans.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Stafford Borough Council",
     "country": "England",
     "homepage": "https://www.staffordbc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Staffordshire Moorlands District Council",
     "country": "England",
     "homepage": "https://www.staffsmoorlands.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Stevenage Borough Council",
     "country": "England",
     "homepage": "https://www.stevenage.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Stratford-on-Avon District Council",
     "country": "England",
     "homepage": "https://www.stratford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Stroud District Council",
     "country": "England",
     "homepage": "https://www.stroud.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Surrey Heath Borough Council",
     "country": "England",
     "homepage": "https://www.surreyheath.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Swale Borough Council",
     "country": "England",
     "homepage": "https://www.swale.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tamworth Borough Council",
     "country": "England",
     "homepage": "https://www.tamworth.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tandridge District Council",
     "country": "England",
     "homepage": "https://www.tandridge.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Teignbridge District Council",
     "country": "England",
     "homepage": "https://www.teignbridge.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tendring District Council",
     "country": "England",
     "homepage": "https://www.tendringdc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Test Valley Borough Council",
     "country": "England",
     "homepage": "https://www.testvalley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tewkesbury Borough Council",
     "country": "England",
     "homepage": "https://www.tewkesbury.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Three Rivers District Council",
     "country": "England",
     "homepage": "https://www.threerivers.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tonbridge and Malling Borough Council",
     "country": "England",
     "homepage": "https://www.tmbc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Torridge District Council",
     "country": "England",
     "homepage": "https://www.torridge.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Tunbridge Wells Borough Council",
     "country": "England",
     "homepage": "https://tunbridgewells.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Uttlesford District Council",
     "country": "England",
     "homepage": "https://www.uttlesford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Vale of White Horse District Council",
     "country": "England",
     "homepage": "https://www.whitehorsedc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Warwick District Council",
     "country": "England",
     "homepage": "https://www.warwickdc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Watford Borough Council",
     "country": "England",
     "homepage": "https://www.watford.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Waverley Borough Council",
     "country": "England",
     "homepage": "https://www.waverley.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wealden District Council",
     "country": "England",
     "homepage": "https://www.wealden.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Welwyn Hatfield Borough Council",
     "country": "England",
     "homepage": "https://www.welhat.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Devon Borough Council",
     "country": "England",
     "homepage": "https://www.westdevon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Lancashire Borough Council",
     "country": "England",
     "homepage": "https://www.westlancs.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Lindsey District Council",
     "country": "England",
     "homepage": "https://www.west-lindsey.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "West Oxfordshire District Council",
     "country": "England",
     "homepage": "https://www.westoxon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Winchester City Council",
     "country": "England",
     "homepage": "https://www.winchester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Woking Borough Council",
     "country": "England",
     "homepage": "https://www.woking.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wokingham Borough Council",
     "country": "England",
     "homepage": "https://www.wokingham.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Worcester City Council",
     "country": "England",
     "homepage": "https://www.worcester.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Worthing Borough Council",
     "country": "England",
     "homepage": "https://www.adur-worthing.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wychavon District Council",
     "country": "England",
     "homepage": "https://www.wychavon.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wyre Borough Council",
     "country": "England",
     "homepage": "https://www.wyre.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   },
   {
     "name": "Wyre Forest District Council",
     "country": "England",
     "homepage": "https://www.wyreforestdc.gov.uk/",
-    "generator": "",
-    "cms_variant": "",
-    "cms_version": ""
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "description": "",
+    "title": "",
+    "cookie_consent_manager": ""
   }
 ]
