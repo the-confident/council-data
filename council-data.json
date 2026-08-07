@@ -357,7 +357,7 @@
     "homepage_description": "Westmeath County Council services and information",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "WordPress",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -455,7 +455,7 @@
     "homepage_description": "Aberdeenshire Council home page",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -497,7 +497,7 @@
     "homepage_description": "The City of Edinburgh Council homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -567,7 +567,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -693,7 +693,7 @@
     "homepage_description": "Moray Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -791,7 +791,7 @@
     "homepage_description": "Scottish Borders Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -805,7 +805,7 @@
     "homepage_description": "Shetland Islands Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -875,7 +875,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "GOSS iCM",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -945,7 +945,7 @@
     "homepage_description": "Carmarthenshire County Council - All your council services : Cyngor Sir Gaerfyrddin - Eich holl wasanaethau",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1281,7 +1281,7 @@
     "homepage_description": "Bromley Council Homepage - www.bromley.gov.uk.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1449,7 +1449,7 @@
     "homepage_description": "Hounslow Council website main homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1547,7 +1547,7 @@
     "homepage_description": "London Borough of Newham",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1575,7 +1575,7 @@
     "homepage_description": "Welcome to the London Borough of Richmond upon Thames",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1645,7 +1645,7 @@
     "homepage_description": "Welcome to the London Borough of Wandsworth.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1925,7 +1925,7 @@
     "homepage_description": "Bromsgrove District Council Website",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1939,7 +1939,7 @@
     "homepage_description": "This is the homepage of the Borough of Broxbourne",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -1953,7 +1953,7 @@
     "homepage_description": "Broxtowe homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2037,7 +2037,7 @@
     "homepage_description": "We provide services to local residents and businesses. These include Council Tax, bins and recycling, parking, housing, benefits, parks, sports, leisure and environmental health.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2065,7 +2065,7 @@
     "homepage_description": "Main Homepage for Cherwell District Council. Find out about key services such as planning and building, council tax, rubbish and recycling, housing and more",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2079,7 +2079,7 @@
     "homepage_description": "The home page of the Chesterfield Borough Council website",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2415,7 +2415,7 @@
     "homepage_description": "Folkestone &amp; Hythe District Council: How can we help? Planning and building, Council tax, Parking and permits, Bins and waste, Benefits and support, Councillors and meetings, Environmental problems",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2471,7 +2471,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2513,7 +2513,7 @@
     "homepage_description": "Online services for Guildford&#39;s residents, businesses and visitors.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "GOSS iCM",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2611,7 +2611,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "GOSS iCM",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2667,7 +2667,7 @@
     "homepage_description": "Providing information on planning and development, housing, Council Tax, benefits, bins and recycling, and other services in the borough",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2933,7 +2933,7 @@
     "homepage_description": "Atherstone Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -2975,7 +2975,7 @@
     "homepage_description": "Nuneaton and Bedworth Borough Council homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3031,7 +3031,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "GOSS iCM",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3045,7 +3045,7 @@
     "homepage_description": "Redditch Borough Council Website",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3073,7 +3073,7 @@
     "homepage_description": "Ribble Valley Borough Council, Lancashire County Council and Local Town and Parish councils have different responsibilities and provide different services.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3157,7 +3157,7 @@
     "homepage_description": "Home",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3185,7 +3185,7 @@
     "homepage_description": "Sevenoaks District Council homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3199,7 +3199,7 @@
     "homepage_description": "South Cambridgeshire District Council website: our services and information.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Umbraco",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3297,7 +3297,7 @@
     "homepage_description": "South Ribble Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3353,7 +3353,7 @@
     "homepage_description": "Homepage for Staffordshire Moorlands District Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "GOSS iCM",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3451,7 +3451,7 @@
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "DNN (DotNetNuke)",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3479,7 +3479,7 @@
     "homepage_description": "Welcome to the official website of Tendring District Council",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Drupal",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3535,7 +3535,7 @@
     "homepage_description": "Tonbridge and Malling Borough Council Homepage",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3605,7 +3605,7 @@
     "homepage_description": "Providing local government services in Leamington Spa, Warwick, Kenilworth, Whitnash and surrounding areas",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3619,7 +3619,7 @@
     "homepage_description": "test",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3633,7 +3633,7 @@
     "homepage_description": "Welcome to Waverley Borough Council’s official website. Access local services, community news, council information, and resources for residents and businesses in Waverley. Stay informed about upcoming events, policies, and more.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "DNN (DotNetNuke)",
       "cms_variant": "",
       "cms_version": ""
     },
@@ -3815,7 +3815,7 @@
     "homepage_description": "The main homepage for Wyre Council.",
     "generator_raw_value": "",
     "generator": {
-      "cms": "",
+      "cms": "Jadu",
       "cms_variant": "",
       "cms_version": ""
     },
