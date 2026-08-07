@@ -473,7 +473,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Argyll and Bute Council",
@@ -529,7 +529,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Dundee City Council",
@@ -669,7 +669,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Midlothian Council",
@@ -851,7 +851,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "West Dunbartonshire Council",
@@ -1089,7 +1089,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "11"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Pembrokeshire County Council",
@@ -1677,7 +1677,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Leeds City Council",
@@ -1915,7 +1915,7 @@
       "cms_variant": "",
       "cms_version": "3.3"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Bromsgrove District Council",
@@ -2293,7 +2293,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Eastleigh Borough Council",
@@ -2321,7 +2321,7 @@
       "cms_variant": "LocalGov Drupal",
       "cms_version": "10"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Epping Forest District Council",
@@ -2629,7 +2629,7 @@
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Civic Cookie Control"
   },
   {
     "name": "Huntingdonshire District Council",
@@ -2895,7 +2895,7 @@
       "cms_variant": "",
       "cms_version": "3.3"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "North Kesteven District Council",
@@ -3091,7 +3091,7 @@
       "cms_variant": "",
       "cms_version": "3.3"
     },
-    "cookie_consent_manager": ""
+    "cookie_consent_manager": "Drupal EU Cookie Compliance"
   },
   {
     "name": "Rossendale Borough Council",
