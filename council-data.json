@@ -4085,6 +4085,25 @@
     }
   },
   {
+    "name": "Oxfordshire County Council",
+    "country": "England",
+    "homepage": "https://www.oxfordshire.gov.uk/",
+    "homepage_title": "Home | Oxfordshire County Council",
+    "homepage_description": "We're the local authority for Oxfordshire, committed to delivering top quality services and value for money on behalf of the county's 600,000+ residents.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
     "name": "Pendle Borough Council",
     "country": "England",
     "homepage": "https://www.pendle.gov.uk/",
