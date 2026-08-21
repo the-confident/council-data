@@ -1,0 +1,438 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en-gb" dir="ltr">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="google-site-verification" content="yC11jLHsxaiMjJpFCzyprFt1kFHFlVsuqfSxGYETTFE" /><meta name="sid" content="03" />
+<link href="/control/css/intrinsic.css?v=202511110920" rel="stylesheet" /><title>
+	Fareham Borough Council
+</title>
+
+    <!-- Content Place Holder for Page Header -->
+    
+    <link href="/control/css/intrinsic-home.css" rel="stylesheet" />
+
+
+    <script>
+
+        function httpGetAsync(searchQuery) {            
+            searchURL = 'https://www.googleapis.com/customsearch/v1?key=&cx=51b96706c2f4e457d&q=' + searchQuery
+
+            var xmlHttp = new XMLHttpRequest();
+            xmlHttp.onreadystatechange = function () {
+                if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                    callback(xmlHttp.responseText);
+            }
+            xmlHttp.open("GET", searchURL, true); // true for asynchronous 
+            xmlHttp.send(null);
+
+        }
+
+        function callback(response) {
+            //console.log(response);
+            var f = document.createElement("form");
+            f.setAttribute('id', 'frmSearch');
+            f.setAttribute('method', 'post');
+            f.setAttribute('action', '/search/results.aspx');
+            var h = document.createElement("input");
+            h.setAttribute('type', 'hidden');
+            h.setAttribute('name', 'json')
+            h.value = response
+            f.appendChild(h);
+
+            document.body.appendChild(f);
+            document.getElementById('frmSearch').submit();
+        }
+
+        function acceptAllCookies() {
+            const aYearFromNow = new Date();
+            aYearFromNow.setFullYear(aYearFromNow.getFullYear() + 1); 
+            document.cookie = "cookieEssential=true; expires=" + aYearFromNow + "; path=/";
+            document.cookie = "cookieAnalytics=true; expires=" + aYearFromNow + "; path=/";
+            document.cookie = "cookieVideo=true; expires=" + aYearFromNow + "; path=/";
+
+            document.getElementById("cookieControl").style.display = 'none';
+            document.getElementById("cookieOverly").style.display = 'none';
+        }
+
+        function rejectCookies() {
+            const aYearFromNow = new Date();
+            aYearFromNow.setFullYear(aYearFromNow.getFullYear() + 1);
+            document.cookie = "cookieEssential=true; expires=" + aYearFromNow + "; path=/";
+            document.cookie = "cookieAnalytics=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+            document.cookie = "cookieVideo=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+
+            document.getElementById("cookieControl").style.display = 'none';
+            document.getElementById("cookieOverly").style.display = 'none';
+        }
+
+        function individualCookies() {
+            const aYearFromNow = new Date();
+            aYearFromNow.setFullYear(aYearFromNow.getFullYear() + 1);
+            document.cookie = "cookieEssential=true; expires=" + aYearFromNow + "; path=/";
+
+            if (document.getElementById("analyticsCookies").checked == true) {
+                document.cookie = "cookieAnalytics=true; expires=" + aYearFromNow + "; path=/";
+            } else {
+                document.cookie = "cookieAnalytics=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+            }
+
+            if (document.getElementById("videoCookies").checked == true) {
+                document.cookie = "cookieVideo=true; expires=" + aYearFromNow + "; path=/";
+            } else {
+                document.cookie = "cookieVideo=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/";
+            }            
+
+            document.getElementById("cookieControl").style.display = 'none';
+            document.getElementById("cookieOverly").style.display = 'none';
+        }
+
+        function resetFocus() {            
+            document.getElementById('lnkAcceptNonEssentialCookies').focus();                                   
+        }
+
+        function popoutMobileSearch(event) {
+            if (event.key == 'Enter') {
+                var searchPopout = document.getElementById('headerSearchMobilePopout');
+                if (searchPopout.style.display == 'flex') {
+                    document.getElementById('headerSearchMobilePopout').style.display = 'none';
+                } else {
+                    document.getElementById('headerSearchMobilePopout').style.display = 'flex';
+                }
+            }
+        }
+
+        function popoutMobileMenu(event) {
+            if (event.key == 'Enter') {
+                var searchPopout = document.getElementById('headerMenuMobilePopout');
+                if (searchPopout.style.display == 'flex') {
+                    document.getElementById('headerMenuMobilePopout').style.display = 'none';
+                } else {
+                    document.getElementById('headerMenuMobilePopout').style.display = 'flex';
+                }
+            }
+        }
+    </script>
+    
+        <script>
+
+            document.addEventListener('DOMContentLoaded', function () {
+                try {
+                    tbl = document.getElementsByClassName('collapsible');
+                    headerCells = tbl[0].getElementsByTagName('th');
+                    tbod = tbl[0].getElementsByTagName('tbody');
+                    tbodyTr = tbod[0].getElementsByTagName('tr');
+
+                    for (let i = 0; i < tbodyTr.length; i++) {
+                        tbodyTrTd = tbodyTr[i].getElementsByTagName('td');
+                        for (let j = 0; j < tbodyTrTd.length; j++) {
+                            tbodyTrTd[j].setAttribute('data-head', headerCells[j].innerText + ': ');
+                        }
+                    }
+                }
+                catch (e) {
+                    //Do Nothing
+                }
+            });
+        </script>
+    
+       <script>
+
+           document.addEventListener('DOMContentLoaded', function () {
+               try {
+                   console.log("remove videos")
+
+                   var iframes = document.getElementsByTagName("iframe")
+
+                   if (iframes.length > 0) {
+                       for (let k = 0; k < iframes.length; k++) {
+                           var iframeAttr = iframes[k].getAttribute("src")
+                           if (iframeAttr.includes("youtube.com")) {
+                               console.log("match youtube")
+
+                               var float = iframes[k].getAttribute("align")
+
+                               var youTubeDiv = document.createElement("div")
+                               youTubeDiv.setAttribute("class", "ytPlaceHolder");
+
+                               if (float.length > 0) {
+                                   youTubeDiv.setAttribute("style", "float:" + float + ";");
+                               }
+
+
+                               var youTubeLink = document.createElement("a");
+                               var youTubeLinkText = document.createTextNode("View video on YouTube");
+                               youTubeLink.appendChild(youTubeLinkText);
+                               youTubeLink.setAttribute("href", iframeAttr.replace("embed/","watch?v="));
+                               youTubeLink.setAttribute("target", "_blank");  
+                               youTubeLink.setAttribute("class", "ytLink");
+
+                               youTubeDiv.appendChild(youTubeLink);
+
+                               var cookieLink = document.createElement("a");
+                               var cookieLinkText = document.createTextNode("Update your cookie settings to view the video on this page");
+                               cookieLink.appendChild(cookieLinkText);
+                               cookieLink.setAttribute("href", "/cookies.aspx?updatecookies=yes");
+
+                               youTubeDiv.appendChild(cookieLink);
+
+                               iframes[k].replaceWith(youTubeDiv);
+
+                               //560x315
+
+                               }                           
+                       }
+                   }
+               }
+               catch (e) {
+                   //Do Nothing
+               }
+           });
+       </script>
+       
+    <script type="text/javascript" src="/control/js/jsfunctions.js" ></script>
+</head>
+<body id="mbody">
+    
+    
+        <div id="cookieOverly"></div>
+        <section id="cookieControl">            
+            <h1>Cookies on Fareham Borough Council's website</h1>
+            <p>We use some essential cookies to make this site work. We'd like to set analytics cookies to understand how you use this site.</p>
+            <p>For more detailed information, see our <a href="/cookies.aspx" tabindex="6" onblur="resetFocus()">Cookies page</a></p>
+            <a href="javascript:acceptAllCookies()" class="cookieButton" tabindex="1" id="lnkAcceptNonEssentialCookies">Accept non-essential cookies</a>
+             <a href="javascript:rejectCookies()" class="cookieButton" tabindex="2">Reject non-essential cookies</a>            
+            <hr />
+            <h2>Essential cookies</h2>
+            <p>These cookies are necessary for core functionality, such as security and network management. They always need to be on.</p>
+            <hr />
+           
+          
+              <label>
+                <h2 class="label">Analytics cookies</h2>
+                <input id="analyticsCookies" type="checkbox" role="switch" tabindex="3">
+                <span class="state">
+                  <span class="container">
+                    <span class="position"> </span>
+                  </span>
+                  <span class="on" aria-hidden="true">On</span>
+                  <span class="off" aria-hidden="true">Off</span>
+                </span>
+              </label>  
+
+
+            <p>We use Google Analyitics to measure how you use the Fareham Borough Council website. These cookies collect information about how you got to the site, the pages you visit and how long you spend on each page, and what you click on.</p>
+            <hr /> 
+              <label>
+    <h2 class="label">Video players cookies</h2>
+    <input id="videoCookies" type="checkbox" role="switch" tabindex="4">
+    <span class="state">
+      <span class="container">
+        <span class="position"> </span>
+      </span>
+      <span class="on" aria-hidden="true">On</span>
+      <span class="off" aria-hidden="true">Off</span>
+    </span>
+  </label>  
+
+
+<p>Some pages of Fareham Borough Council's website include videos hosted on Vimeo and YouTube. If you enable this setting, this may result in the video sharing platform collecting information about your viewing for analytics and advertising purposes. If you don’t enable this setting, the pages will include external links instead.</p>
+<hr />      
+            <a href="javascript:individualCookies()" class="cookieButton" tabindex="5">Save and Close</a>
+            
+            </section>
+    
+    <header id="mstHeader" class="flex">
+
+        
+        <div class="headerlogo">
+            <a href="/intro.aspx">
+                <img src="/control/images/fbclogo.png" id="fbcLogo" alt="Fareham Borough Council" /></a>
+        </div>
+        <a href="/residents.aspx" class="headerlink">Residents</a>
+        <a href="/business.aspx" class="headerlink">Business</a>
+        <a href="/whats_on/intro.aspx" class="headerlink">What's On</a>
+        <a href="/myaccount/intro.aspx" class="headerlink" id="mstHeaderMyAccount">MyAccount</a>
+        <div class="headersearch">
+            
+            <form  id="mstSearchContainer" action="/search/search.aspx" method="get">
+            
+     <label class="search-label" for="msttxtSiteSearch">Search</label>
+     <input type="search" name="q" id="msttxtSiteSearch" placeholder="Search fareham.gov.uk" size="32" />
+     <input type="image" id="mstSearchSubmit" src="/control/images/svg/search_24dp_333333.svg" alt="Submit" />
+    
+ </form>
+        </div>
+        <div class="headersearchMobile" tabindex="0" onkeydown="popoutMobileSearch(event)">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="333333">
+                <path d="M0 0h24v24H0V0z" fill="none" />
+                <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z" />
+            </svg>
+            <div id="headerSearchMobilePopout">
+                
+                <form  id="mstSearchContainer" action="/search/search.aspx" method="get">
+                
+                    <label class="search-label" for="msttxtSiteSearch">Search</label>
+                    <input type="search" name="q" id="msttxtSiteSearch" placeholder="Search fareham.gov.uk" size="32" />
+                    <input type="image" id="mstSearchSubmit" src="/control/images/svg/search_24dp_333333.svg" alt="Submit" />
+                   
+                </form>
+
+
+
+            </div>
+        </div>
+        
+        <div class="headerMenuMobile"  tabindex="0" onkeydown="popoutMobileMenu(event)">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#003366">
+                <path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z" />
+            </svg>
+            <div id="headerMenuMobilePopout">
+                <a href="#" class="menu">Menu</a>
+                <a href="/residents.aspx" class="residents">Residents</a>
+                <a href="/business.aspx" class="business">Business</a>
+                <a href="/whats_on/intro.aspx" class="whatson">What's On</a>
+                <a href="/myaccount/intro.aspx" class="myaccount">MyAccount</a>
+            </div>
+        </div>
+
+        
+    </header>
+    <nav>
+        
+    </nav>
+    <main id="mstMainHome">
+
+    
+    <!-- ### content start ### -->
+    
+
+
+
+    <section id="homehero">
+        <div id="homeSearch">
+            <h1>Welcome to Fareham</h1>
+          
+             <form  id="homeSearchContainer" action="/search/search.aspx" method="get">
+           
+                <label class="search-label" for="hometxtSiteSearch">Search</label>
+                <input type="search" name="q" id="hometxtSiteSearch" placeholder="Search fareham.gov.uk" size="32" />
+                <input type="image" id="homeSearchSubmit" src="/control/images/svg/search_24dp_333333.svg" alt="Submit" />
+                
+            </form>
+
+
+        </div>
+         <div id="homeFeatured"  ><span>Featured</span><h2>Unauthorised encampment at Park Lane Recreation Ground</h2><a href="https://www.fareham.gov.uk/clean_and_tidy/enforcement/travellers.aspx" aria-label="Learn more about Unauthorised encampment at Park Lane Recreation Ground">Learn More</a></div>        
+    </section>
+    <section id="homepopular">
+        <div id="popularlinks">
+            <h2>Popular</h2>
+            <a href="/planning/regeneration/farehamtowncentreregeneration.aspx">Fareham Town Centre Regeneration</a><a href="/casetrackerplanning/">Planning Search</a><a href="https://www.fareham.gov.uk/about_the_council/elections_and_voting/#Annual%20Canvass">Annual Canvass 2026</a><a href="/council_tax/intro.aspx">Council Tax</a><a href="/waste_collection_and_recycling/intro.aspx">Waste Collection</a><a href="/residents.aspx">All Resident Services</a>            
+        </div>
+        <div id="populartabs">
+            <div class="tabset">
+                <!-- Tab 1 -->
+                <input type="radio" name="tabset" id="tab2" aria-controls="apply" checked>
+                <label for="tab2">Apply</label>
+                <!-- Tab 2 -->
+                <input type="radio" name="tabset" id="tab1" aria-controls="pay">
+                <label for="tab1">Pay</label>                
+                <!-- Tab 3 -->
+                <input type="radio" name="tabset" id="tab3" aria-controls="report">
+                <label for="tab3">Report</label>
+
+                <div class="tab-panels">
+                   
+                    <section id="apply" class="tab-panel">
+                        <ul>
+                            <li><a href="/benefits/intro.aspx">Council Tax Support & Housing Benefit</a></li><li><a href="/planning/applications_and_advice/intro.aspx">Planning Applications</a></li><li><a href="/waste_collection_and_recycling/garden_waste_and_composting/gardenwastecollection.aspx">Clip & Collect - Garden Waste Collections</a></li><li><a href="/jobs/intro.aspx">Jobs with the Council</a></li><li><a href="/apply_for_it/intro.aspx">View more apply options</a></li>
+                        </ul>
+                    </section>
+                     <section id="pay" class="tab-panel">
+     <ul>
+         <li><a href="/pay_for_it/paycounciltax.aspx">Council Tax</a></li><li><a href="/pay_for_it/payrent.aspx">Housing Rent</a></li><li><a href="/parking_and_traffic/pay_a_penalty_notice.aspx">Parking Tickets and Appeals</a></li><li><a href="/pay_for_it/payoverpayment.aspx">Overpaid Housing Benefit</a></li><li><a href="/pay_for_it/">View more pay options</a></li>
+     </ul>
+ </section>
+                    <section id="report" class="tab-panel">
+                        <ul>
+                            <li><a href="/onlineforms/displayform.aspx?formid=ASBreport">Report Anti-Social Behaviour or Noise Nuisance</a></li><li><a href="/onlineforms/displayform.aspx?formid=streetclean">Dog Fouling & Fly Tipping</a></li><li><a href="/onlineforms/displayform.aspx?formid=RefuseRecycling">Missed Bin Collection</a></li><li><a href="/onlineforms/displayform.aspx?formid=Abandoned">Abandoned Vehicles</a></li><li><a href="/report_it/intro.aspx">View more report options</a></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="homehappening">
+
+        <div class="heading">
+            <h2>What's Happening in Fareham</h2>
+            <a href="/whats_on/intro.aspx" class="moreNews">More events</a>
+        </div>
+        <div class="items">
+            <a href="https://www.fareham.gov.uk/leisure/out_and_about_in_fareham/playday.aspx"><div><img src="/images/home/playday3.png" alt="More on Play Day at Holly Hill Woodland Park"><h3>Play Day at Holly Hill Woodland Park</h3><p>Play Day is back! Come and join us for a range of woodland activities for all the family. Book your tickets now.</p></div><span>More on Play Day at Holly Hill Woodland Park</span></a><a href="https://www.fareham.gov.uk/leisure/out_and_about_in_fareham/tunesinthegarden.aspx"><div><img src="/images/home/tunesingardencivic.png" alt="More on Tunes in the Garden "><h3>Tunes in the Garden </h3><p>This August, join us for an evening of relaxing music and a new musical experience in the beautiful Civic Gardens.</p></div><span>More on Tunes in the Garden </span></a><a href="https://www.fareham.gov.uk/leisure/discover_fareham/hollyhillrediscovered.aspx#walkdiary"><div><img src="/images/home/HollyHill.png" alt="More on Holly Hill Walk Diary"><h3>Holly Hill Walk Diary</h3><p>Join us for an informal ramble as we explore the many heritage features and the wildlife that call Holly Hill Woodland Park home.</p></div><span>More on Holly Hill Walk Diary</span></a>            
+        </div>
+    </section>
+    <section id="homehighlight">
+        <img src="/images/home/costofliving.jpg" alt="More on Cost of living help"><div><h2>Cost of living help</h2><p>For help with the rising cost of living, we have details on a number of local and national resources that can provide advice and information.</p><a href="/cost_of_living/intro.aspx">Explore Cost of living help</a></div>
+        
+    </section>
+    <section id="homelatest">
+        <div class="heading">
+            <h2>Latest News</h2>
+            <a href="/latest_news/intro.aspx" class="moreNews">More news</a>
+        </div>
+        <div class="items">
+            <a href="/latest_news/pressrelease/pr_20260730_1"><Span Class="lastestDate">30 July 2026</span><h3 Class="latestTitle">Fareham tops national planning approval rankings</h3><Span Class="latestMore">Read More</span></a><a href="/latest_news/pressrelease/pr_20260723_1"><Span Class="lastestDate">23 July 2026</span><h3 Class="latestTitle">Council approves next phase of investment in Fareham Shopping Centre</h3><Span Class="latestMore">Read More</span></a><a href="/latest_news/pressrelease/pr_20260722_1"><Span Class="lastestDate">22 July 2026</span><h3 Class="latestTitle">Residents invited to provide feedback on proposals for Swordfish Business Park at Daedalus </h3><Span Class="latestMore">Read More</span></a>
+        </div>
+    </section>
+
+
+
+    <!-- ### content end ### -->
+    </main>
+    <footer id="mstFooter">
+        <div id="footerSect1">
+            <h2>Contact Us</h2>
+            <ul>
+                <li><a href="/contactus.aspx">How to contact us</a></li>
+            </ul>
+        </div>
+        <div id="footerSect2">
+            <h2>Useful Links</h2>
+            <ul>
+                <li><a href="/myaccount/intro.aspx">MyAccount</a></li>
+                <li><a href="/residents.aspx">Resident Services</a></li>
+                <li><a href="/business.aspx">Business Services</a></li>
+                <li><a href="/whats_on/intro.aspx">Events</a></li>
+                <li><a href="/latest_news/intro.aspx">Latest News</a></li>
+            </ul>
+        </div>
+        <div id="footerSect3">
+            <a href="https://www.instagram.com/farehambc/" target="_blank">
+                <img class="under" src="/control/images/icon-instagram.png" alt="Instagram" /><img class="over" src="/control/images/icon-instagram-hover.png" alt="Instagram" /></a>
+            <a href="https://x.com/farehambc" target="_blank">
+                <img class="under" src="/control/images/icon-x.png" alt="X / Twitter" /><img class="over" src="/control/images/icon-x-hover.png" alt="Instagram" /></a>
+            <a href="http://www.facebook.com/farehambc" target="_blank">
+                <img class="under" src="/control/images/icon-facebook.png" alt="Facebook" /><img class="over" src="/control/images/icon-facebook-hover.png" alt="Instagram" /></a>
+            <a href="http://www.youtube.com/FarehamBCouncil" target="_blank">
+                <img class="under" src="/control/images/icon-youtube.png" alt="YouTube" /><img class="over" src="/control/images/icon-youtube-hover.png" alt="Instagram" /></a>
+        </div>
+        <div id="footerSect4">
+            <ul>
+                <li><a href="/cookies.aspx">Cookies</a></li>
+                <li><a href="/disclaimer.aspx">Disclaimer</a></li>
+                <li><a href="/privacy.aspx">Privacy Statement</a></li>
+                <li><a href="/accessibilitystatement.aspx">Accessibility Statement</a></li>
+            </ul>
+        </div>
+    </footer>
+        <script>
+            const aDayFromNow = new Date();
+            aDayFromNow.setDate(aDayFromNow.getDate() + 1);      //.setFullYear(aYearFromNow.getFullYear() + 1);
+            var deviceWidth = screen.width
+            var deviceHeight = screen.height
+            document.cookie = "cookieScreen=" + deviceWidth + "," + deviceHeight + "; expires=" + aDayFromNow + "; path=/";
+        </script>
+</body>
+</html>

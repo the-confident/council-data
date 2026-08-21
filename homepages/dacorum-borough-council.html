@@ -1,0 +1,565 @@
+<html lang="en" style="--window-height: 1306px;"><head> <link rel="icon" type="image/png" href="/ResourcePackages/Foundation/assets/dist/img/icons/favicon-96x96.png?package=Foundation" sizes="96x96"> <link rel="icon" type="image/svg+xml" href="/ResourcePackages/Foundation/assets/dist/img/icons/favicon.svg?package=Foundation"> <link rel="shortcut icon" href="/ResourcePackages/Foundation/assets/dist/img/icons/favicon.ico?package=Foundation"> <link rel="apple-touch-icon" sizes="180x180" href="/ResourcePackages/Foundation/assets/dist/img/icons/apple-touch-icon.png?package=Foundation"> <meta name="apple-mobile-web-app-title" content="Dacorum"> <link rel="manifest" href="/ResourcePackages/Foundation/assets/dist/img/icons/site.webmanifest?package=Foundation"> <title>
+	Dacorum Borough Council Home Page
+</title> <meta charset="utf-8"><script type="text/html" id="sf-tracking-consent-manager">
+	<div id="tracking-consent-dialog">
+	<span class="consent-title" >Our use of cookies</span>
+	<p class="consent-description">We use necessary cookies to make our site work. We'd also like to set analytics cookies that help us make improvements by measuring how you use the site. These will be set only if you accept.
+
+For more detailed information about the cookies we use, see our <a href="http://www.dacorum.gov.uk/home/cookies-policy" title="More info about our cookies">Cookies page</a>.</p>
+	<div class='consent-accept-container'>
+		<a class="consent-accept" href="javascript:TrackingConsentManager.updateUserConsent(true)">Accept all</a>
+	</div>
+	<div class='consent-reject-container'>
+		<a class="consent-reject" href="javascript:TrackingConsentManager.updateUserConsent(false)">Reject all</a>
+	</div>
+	<div></div>
+</div>
+</script><script type="text/javascript" src="/WebResource.axd?d=DzHrpQl5URXarFHAtrmzFmrlEwfVx-5H8yOcUaVx-9bS6agwoxhlipiU-NaU1Od3JJBrSTqNhIeErPsRS5ode_DJc2FlPHx6JSaBxbIWXUAertsQbXwPd84ITgczeMvYw0RjGT2xcMjcQycx-TsvlOH1OjXeAFdxhBEBnQjPADRgN_oQe3EqnhL-yC0XAIux0&amp;t=638701959900000000">
+
+</script> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"> <script src="/ResourcePackages/Foundation/assets/dist/js/vendor/jquery-3.2.1.js?package=Foundation" type="text/javascript"></script><link href="/ResourcePackages/Foundation/assets/dist/css/style.css?v=2&amp;package=Foundation" rel="stylesheet" type="text/css"><link href="/ResourcePackages/Foundation/assets/fontawesome/css/all.min.css?v=1&amp;package=Foundation" rel="stylesheet" type="text/css"> <script>
+        var serviceUrl = "//api.reciteme.com/asset/js?key=";
+        var serviceKey = "15e2ae997cb6af4a35c524bd02af9f2f7b0d3096";
+        var options = {};  // Options can be added as needed
+        var autoLoad = false;
+        var enableFragment = "#reciteEnable";
+        var loaded = [], frag = !1; window.location.hash === enableFragment && (frag = !0); function loadScript(c, b) { var a = document.createElement("script"); a.type = "text/javascript"; a.readyState ? a.onreadystatechange = function () { if ("loaded" == a.readyState || "complete" == a.readyState) a.onreadystatechange = null, void 0 != b && b() } : void 0 != b && (a.onload = function () { b() }); a.src = c; document.getElementsByTagName("head")[0].appendChild(a) } function _rc(c) { c += "="; for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) { for (var d = b[a]; " " == d.charAt(0);)d = d.substring(1, d.length); if (0 == d.indexOf(c)) return d.substring(c.length, d.length) } return null } function loadService(c) { for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++)if (loaded[a] == b) return; loaded.push(b); loadScript(serviceUrl + serviceKey, function () { "function" === typeof _reciteLoaded && _reciteLoaded(); "function" == typeof c && c(); Recite.load(options); Recite.Event.subscribe("Recite:load", function () { Recite.enable() }) }) } "true" == _rc("Recite.Persist") && loadService(); if (autoLoad && "false" != _rc("Recite.Persist") || frag) document.addEventListener ? document.addEventListener("DOMContentLoaded", function (c) { loadService() }) : loadService();
+    </script> <style type="text/css" media="all">#brexitbanner{
+margin-top: 10px;
+margin-bottom: 10px;
+background: rgba(0,0,0,0.75);
+height: 138px;
+color: #fff;
+text-align: center;
+vertical-align: middle;
+font-weight: 800;
+/* line-height: 132px; */
+}
+
+#brexitimg {
+line-height: 100px;
+}
+
+#brexiturl:link, #brexiturl:visited {
+    height: 30px;
+    line-height: 30px;
+    padding-top: 0px;
+    margin-top: 0px;
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+.warnIconImg {
+  float: left;
+}
+
+@media only screen and (max-width: 40.063em) {
+	#brexitbanner{
+background: transparent;
+color: #000;
+margin-bottom:20px;
+}
+
+#brexitimg {
+line-height: 0px;
+}
+
+#brexiturl:link, #brexiturl:visited {
+color: #000000;
+}
+}
+
+
+@media only screen and (min-width: 40.063em)
+  {
+
+}
+</style><script type="text/javascript">
+$.fn.showIcons = function(vertOffset,currOffset) {
+				// SHOW / HIDE
+				if ($(this).hasClass("active")) {
+					// open icon has been clicked
+					$(".categories li > a").removeClass("active").addClass("lastOpen");
+					$(this).next(".sub").slideToggle();
+					$(this).attr("title", $(this).attr("title").replace("Collapse","Expand").replace("less","more"));
+				}
+				else if ($(this).siblings(".sub").size() > 0) {
+					// different icon clicked
+					currOffset = $(this).offset();
+					currOffset = currOffset.top;
+
+					// test to see if area is already showing on same row (for animation)
+					var showAni = 0;
+					if((currOffset == $vertOffset) && ($(".sub").is(":visible")) && !$(this).hasClass("lastOpen")) {
+						showAni = 0; //show
+					} else {
+						showAni = 1; //slideDown
+					}
+
+					var leftOffset = $(this).parent().offset().left + parseInt($(this).parent().css("padding-left"));
+					$(this).next(".sub").css({"margin-left": "-"+leftOffset+"px", "background-position": leftOffset+"px 0"});
+
+					if(showAni == 1) {
+						$(".categories li > a.active").next(".sub").slideUp();
+						$(this).next(".sub").slideToggle();
+					} else {
+						$(".sub").hide();
+						$(this).next(".sub").show();
+					}
+
+					$(".categories li > a").removeClass("active").removeClass("lastOpen");
+					$(this).addClass("active");
+					$(this).attr("title", $(this).attr("title").replace("Expand","Collapse").replace("more","less"));
+
+					var thisItem = $(this);
+					setTimeout(function(){
+						$vertOffset = thisItem.offset().top;
+
+						/* Scroll to top */
+						if ($(window).width() < 768) {
+							$("body").scrollTo($vertOffset-10,{duration: 500});
+						}
+					}, 500);
+				}
+				else {
+					// no sub-menu so do nothing special
+					window.open($(this).attr("href"), "_self");
+				}
+			}
+
+
+			$(document).ready(function() {
+                          $(window).load(function() {
+				/* Show sub areas for icons */
+				$(".sub").css("width", $(window).width()+"px");
+
+				$vertOffset = 0;
+				var currOffset = 0;
+
+				$(".categories li > a").single_double_click(function() {
+					$(this).showIcons($vertOffset,currOffset);
+				}, function() {
+					$(this).showIcons($vertOffset,currOffset);
+				});
+
+				/* WINDOW RESIZE FUNCTIONS */
+				$(window).resize(function() {
+					$(".sub").css("width", $(window).width()+"px");
+
+					if($(".sub").is(":visible")) {
+						var leftOffset = $(".categories li > a.active").parent().offset().left + parseInt($(".categories li > a.active").parent().css("padding-left"));
+						console.log(leftOffset);
+						$(".categories li > a.active").next(".sub").css({"margin-left": "-"+leftOffset+"px", "background-position": leftOffset+"px 0"});
+					}
+				})
+			});
+});
+</script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-KQRXD13Z17"></script><script type="text/javascript">
+(function() {
+	function deleteCookie(cookieName) {
+        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/';
+	}
+
+	function loadAndTrack(canTrack) {
+		if (!canTrack) {
+			deleteCookie('_ga');
+			deleteCookie('_gat');
+			deleteCookie('_gid');
+			return;
+		}
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-KQRXD13Z17');
+	}
+
+	if (window.TrackingConsentManager) {
+		TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+		loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+	}
+	else {
+		loadAndTrack(true);
+	}
+})();
+</script><meta name="Generator" content="Sitefinity 15.2.8423.0 DX"><link rel="canonical" href="https://www.dacorum.gov.uk"><meta name="description" content="Information for residents, businesses and visitors to Dacorum. "><meta name="keywords" content="Hemel Hempstead, Berkhamsted, Tring, Kings Langley, Bovingdon, Ashridge, Markyate, Dacorum Borough Council, visitors, residents, businesses, "><meta class="foundation-mq"></head> <body lang="en" style="margin-top: 322.8px;" data-whatinput="mouse"><div role="region">
+	<div id="tracking-consent-dialog">
+	<span class="consent-title">Our use of cookies</span>
+	<p class="consent-description">We use necessary cookies to make our site work. We'd also like to set analytics cookies that help us make improvements by measuring how you use the site. These will be set only if you accept.
+
+For more detailed information about the cookies we use, see our <a href="http://www.dacorum.gov.uk/home/cookies-policy" title="More info about our cookies">Cookies page</a>.</p>
+	<div class="consent-accept-container">
+		<a class="consent-accept" href="javascript:TrackingConsentManager.updateUserConsent(true)">Accept all</a>
+	</div>
+	<div class="consent-reject-container">
+		<a class="consent-reject" href="javascript:TrackingConsentManager.updateUserConsent(false)">Reject all</a>
+	</div>
+	<div></div>
+</div>
+</div> <div class="skip_links hide-for-small" role="navigation" aria-label="Skip links"> <ul> <li><a class="button white_focus show-on-focus skip-content" title="Close pop-up" href="javascript:ClosePop();">Close pop-up</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Skip to content" href="#main">Skip to content</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Back to top" href="javascript:scrollPageToTop();">Back to top</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Home" href="/home">Home</a></li> <li><a class="button white_focus show-on-focus skip-content" title="News" href="/home/news/all-news">News</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Sitemap" href="/home/sitemap">Sitemap</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Search" href="https://webapps.dacorum.gov.uk/search/">Search</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Help" href="/home/tools/general-help-with-using-this-website">Help</a></li> <li><a class="button white_focus show-on-focus skip-content" title="Complaints" href="/home/do-it-online/make-a-complaint">Complaints</a></li> </ul> </div>  <!--
+    <div id="message-bar">
+        <p>We are currently experiencing intermittent issues with the processing of payments. Sorry for any inconvenience caused.</p>
+    </div>
+    --> <div style="display: flex;
+  align-items: center;
+  justify-content: center;"> <ul style="flex-flow:wrap;list-style-type:none;width:1600px;
+    justify-content: space-between;
+    margin: 0;
+    padding: .3rem 0;
+    font-size: .9rem;
+    display: flex;"> <li></li> <li style="list-style:none;margin-bottom:0px !important;line-height:30px"> <a href="#" id="enableRecite" style="padding-right: 20px;margin-bottom:0px;line-height:30px" title="Listen and translate with ReciteMe"><svg id="recite-logo" width="30" height="30" viewBox="0 0 18 23" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9 4.84639C8.52074 4.84639 8.05224 4.70427 7.65375 4.43801C7.25525 4.17174 6.94467 3.79329 6.76126 3.35051C6.57786 2.90773 6.52987 2.42051 6.62337 1.95045C6.71687 1.4804 6.94765 1.04863 7.28654 0.709738C7.62543 0.370848 8.05721 0.140062 8.52726 0.0465621C8.99731 -0.0469374 9.48454 0.00104995 9.92732 0.184456C10.3701 0.367862 10.7485 0.678448 11.0148 1.07694C11.2811 1.47543 11.4232 1.94393 11.4232 2.42319C11.4225 3.06565 11.167 3.6816 10.7127 4.13589C10.2584 4.59018 9.64246 4.8457 9 4.84639Z" fill="#0A7B51"></path> <path d="M16.6158 4.88101L16.5963 4.8862L16.5781 4.89182C16.5348 4.90394 16.4916 4.91692 16.4483 4.93033C15.643 5.1666 11.7347 6.26828 8.98139 6.26828C6.42276 6.26828 2.86802 5.31631 1.73085 4.99308C1.61767 4.94934 1.50209 4.91206 1.38468 4.88144C0.562527 4.66508 0 5.50022 0 6.26352C0 7.01947 0.67936 7.37949 1.36521 7.63782V7.64994L5.4855 8.93683C5.90653 9.09823 6.01904 9.26309 6.07399 9.40589C6.25271 9.86413 6.10991 10.7715 6.05928 11.0883L5.80831 13.0355L4.41541 20.6595C4.41108 20.6802 4.40718 20.7014 4.40372 20.7231L4.39377 20.778C4.29338 21.4769 4.80658 22.1549 5.77845 22.1549C6.62657 22.1549 7.00087 21.5695 7.16313 20.7728C7.3254 19.9762 8.37473 13.9546 8.98053 13.9546C9.58633 13.9546 10.8343 20.7728 10.8343 20.7728C10.9965 21.5695 11.3708 22.1549 12.219 22.1549C13.1934 22.1549 13.7066 21.4738 13.6036 20.7728C13.5948 20.7139 13.5838 20.6553 13.5707 20.5971L12.1588 13.0363L11.9083 11.0891C11.727 9.955 11.8728 9.58027 11.9221 9.49243L11.9256 9.48594C11.9723 9.3994 12.1852 9.20554 12.682 9.01904L16.5452 7.66854C16.5689 7.66222 16.5923 7.65471 16.6153 7.64604C17.3077 7.38641 18 7.02726 18 6.26439C18 5.50152 17.4379 4.66508 16.6158 4.88101Z" fill="#0A7B51"></path> </svg> Accessibility tools</a> </li> </ul> </div> <div id="warning-bar" role="region" aria-label="Warning Bar" style="top: 218.8px;">
+            <p><span>
+                <strong>Online payment issues:</strong> We experienced problems with our online payment system on Sunday 2 August 2026. If your payment was successful through your bank, your Dacorum account will be credited shortly. We are investigating the issue and apologise for any inconvenience caused.
+                <strong><a id="close-warning-bar-1" class="cb-enable" title="close notification" style="top: 10px;width:44px;height:44px" href="javascript:void(0);"><span class="sr-only">Close and dismiss message</span></a></strong>
+            </span></p>
+        </div><header id="top"> <div class="header_inner"> <div class="trigger_column hide-for-large"> <a href="javascript:goBack();" class="back-trigger" role="button"><span class="sr-only">Go back</span><span class="icon icon_arrow"></span></a> </div> <a href="/" id="logo"> <img src="/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/style/logo.png" alt="Dacorum Borough Council logo linking to our homepage"> <span class="sr-only">Dacorum Borough Council</span> </a> <div class="trigger_column hide-for-large"> <a href="javascript:void(0);" class="menu-trigger" role="button"><span><span>Menu</span></span></a> </div> <nav id="primary">  <ul> <li class="has_children"> <a href="/home/" class="active">Resident</a> <ul> <li><a href="/home/council-tax" title="Council Tax">Council Tax</a></li> <li><a href="/home/environment-street-care/recycling-refuse-waste" title="Bins and recycling">Bins and recycling</a></li> <li><a href="/home/planning-development" title="Planning and development">Planning and development</a></li> <li><a href="/home/housing" title="Housing">Housing</a></li> <li><a href="/home/leisure-arts-culture" title="Leisure, arts and culture">Leisure, arts and culture</a></li> <li><a href="/home/environment-street-care" title="Environment">Environment</a></li> <li><a href="/home/council-democracy" title="Council and democracy">Council and democracy</a></li> <li><a href="/home/benefits" title="Benefits">Benefits</a></li> <li><a href="/home/recruitment" title="Jobs">Jobs</a></li> <li><a href="/home/community-living/parking-and-travel" title="Parking">Parking</a></li> <li><a href="/home/community-living" title="Community and living">Community and living</a></li> <li><a href="/home/regeneration" title="Regeneration">Regeneration</a></li> </ul> </li> <li class="has_children"> <a href="/home/business">Business</a> <ul> <li><a href="/home/business/business-services" title="Business services">Business services</a></li> <li><a href="/home/environment-street-care/licensing" title="Licences and permits">Licences and permits</a></li> <li><a href="/home/business/business-rates" title="Business rates">Business rates</a></li> <li><a href="/home/environment-street-care" title="Environment">Environment</a></li> <li><a href="/home/business/business-services/commercial-property" title="Commercial property">Commercial property</a></li> <li><a href="/home/planning-development" title="Planning and development">Planning and development</a></li> <li><a href="/home/business/procurement" title="Commissioning and procurement">Commissioning and procurement</a></li> <li><a href="/home/regeneration" title="Regeneration">Regeneration</a></li> </ul> </li> <li><a href="https://webapps.dacorum.gov.uk/search/atoz.aspx">A-Z of Services</a></li> <li><a href="https://www.dacorum.gov.uk/home/mydacorum/">MyDacorum</a></li> </ul> </nav> </div> </header> <section class="content" id="main" aria-label="Main content">
+
+<div>
+    <div class="sfContentBlock">
+        <!--Warning Bar 1-->
+<!--div class="sfcontentblock" id="warning-bar-1">
+    <div id="warning-bar" style="line-height:28px;margin-left:auto;margin-right:auto;display:inline-flex;">
+        <p><img src="/images/default-source/warningicons/warningna.gif?sfvrsn=9dad1c9f_10" style="margin-top:5px;margin-right:10px;" align="left" title="warningna" data-displaymode="original" alt="warning sign" width="60px" class="warniconimg" sfref="[images%7COpenAccessDataProvider%7Ccb981109-da23-4098-ae1d-f50a881a1eaa]33b87744-5115-6b7f-9bc7-ff00000246a4" data-sf-ec-immutable="" /><strong></strong>Residents may experience some intermittent problems with some of our webpages today. We are working hard to fix these issues. Please try again later.&nbsp;&nbsp;<strong><a id="close-warning-bar-1" class="cb-enable" title="close notification" data-sf-ec-immutable="">&times;</a></strong></p>
+    </div>
+</div--><!--Warning Bar 1-->
+    </div>
+</div>
+<div>
+    <div class="sfContentBlock">
+        <!--Warning Bar 1
+<div class="sfcontentblock" id="warning-bar-1">
+    <div id="warning-bar" style="line-height:28px;margin-left:auto;margin-right:auto;display:inline-flex;">
+        <p><img src="/images/default-source/warningicons/warningna.gif?sfvrsn=9dad1c9f_10" style="margin-top:5px;margin-right:10px;" align="left" title="warningna" data-displaymode="original" alt="warning sign" width="60px" class="warniconimg" sfref="[images%7COpenAccessDataProvider]33b87744-5115-6b7f-9bc7-ff00000246a4" data-sf-ec-immutable="" />We are carrying out essential website maintenance work from 6pm on Friday 25 October 2024. During this time our online forms and payment systems will be unavailable. We hope to restore service by around midnight. We apologise for any inconvenience caused.
+            &nbsp;<strong><a id="close-warning-bar-1" class="cb-enable" title="close notification" data-sf-ec-immutable="">&times;</a></strong></p>
+    </div>
+</div>
+Warning Bar 1-->
+    </div>
+</div>
+<div>
+    <div class="sfContentBlock">
+        <h1 class="sr-only">Dacorum Borough Council</h1><div class="banner banner02" data-location="true"><img src="/ResourcePackages/Foundation/assets/dist/img/banners/hemel-a-m.png" data-for-location="banner01" alt="Illustration of The Old Town Hall, Hemel Hempstead" style="display:none;" class="hide-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/hemel-a-d.png" data-for-location="banner01" alt="Illustration of The Old Town Hall, Hemel Hempstead" style="display:none;" class="show-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/hemel-b-m.png" data-for-location="banner02" alt="Illustration of The Forum, Hemel Hempstead" class="hide-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/hemel-b-d.png" data-for-location="banner02" alt="Illustration of The Forum, Hemel Hempstead" class="show-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/berkhamsted-m.png" data-for-location="banner04" alt="Illustration of Berkhamsted" style="display:none;" class="hide-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/berkhamsted-d.png" data-for-location="banner04" alt="Illustration of Berkhamsted" style="display:none;" class="show-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/tring-m.png" data-for-location="banner05" alt="Illustration of Tring" style="display:none;" class="hide-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/tring-d.png" data-for-location="banner05" alt="Illustration of Tring" style="display:none;" class="show-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/village-m.png" data-for-location="banner06" alt="Illustration of village life in Dacorum" style="display:none;" class="hide-for-medium" data-sf-ec-immutable=""><img src="/ResourcePackages/Foundation/assets/dist/img/banners/village-d.png" data-for-location="banner06" alt="Illustration of village life in Dacorum" style="display:none;" class="show-for-medium" data-sf-ec-immutable=""><form role="search" method="get" class="search_form" action="https://webapps.dacorum.gov.uk/search/" aria-label="Homepage banner search"><fieldset><legend class="sr-only">Search form</legend>
+ <label for="q" class="sr-only">Find something interesting</label>
+ <input class="search_text" type="text" value="" name="q" id="q" placeholder="How can we help you today?"><button type="submit" id="searchsubmit"><span class="sr-only">Submit search</span>
+ <span class="icon icon_search thick white"></span></button></fieldset></form></div>
+    </div>
+</div>
+<div>
+    <div class="sfContentBlock">
+        <div class="row"><div class="small-12 columns"><h2 class="text-center">Top tasks</h2><div class="row small-up-2 msmall-up-3 medium-up-4 xlarge-up-6 equalize-flex align-center"><div class="column column-block"><a href="/home/council-tax" title="Council Tax" class="icon_box"><span class="icon icon_house_money white_on_hover"></span><span class="p">Council Tax</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/planning-development/planning-applications/search-comment-planning-applications" title="Search and comment on planning applications" class="icon_box"><span class="icon icon_map white_on_hover"></span><span class="p">Search and comment on planning applications</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/environment-street-care/recycling-refuse-waste/household-waste-recycling/green-wheeled-bin/garden-waste-subscription-service" title="Garden Waste Subscription Service" class="icon_box"><span class="icon icon_bin white_on_hover"></span><span class="p">Garden Waste Subscription Service</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/housing/current-tenant/rent" title="Pay my housing rent" class="icon_box"><span class="icon icon_house_terrace white_on_hover"></span><span class="p">Pay my housing rent</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/environment-street-care/recycling-refuse-waste/your-waste-collection-calendar" title="When are my bins collected?" class="icon_box"><span class="icon icon_calendar white_on_hover"></span><span class="p">When are my bins collected?</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/housing/housing-advice-and-options/apply-for-social-housing" title="Apply for a home" class="icon_box"><span class="icon icon_clipboard_pencil white_on_hover"></span><span class="p">Apply for a home</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/jobs-and-careers" title="Jobs" class="icon_box"><span class="icon icon_briefcase white_on_hover"></span><span class="p">Jobs</span>
+ </a>
+ </div><!--<div class="column column-block">
+							<a class="icon_box" href="/home/do-it-online/consultation-feedback/current-consultation" title="Local Plan consultation">
+								<img alt="" src="/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/i-am-seeking-a-home.png" data-interchange="[/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/i-am-seeking-a-home.png, (default)], [/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/i-am-seeking-a-home.png, (medium)]"  data-sf-ec-immutable=""><span class="p">Local Plan consultation</span>
+							</a>
+						</div>-->
+ <!--<div class="column column-block">
+							<a title="Find a recycling centre" href="/home/environment-street-care/recycling-refuse-waste/recycling-centres">
+								<img alt="" src="/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/find-a-recycling-centre.png" data-interchange="[/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/find-a-recycling-centre.png, (default)], [/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/find-a-recycling-centre.png, (medium)]"  data-sf-ec-immutable=""><span class="p">Find a recycling centre</span>
+							</a>
+						</div>-->
+ <div class="column column-block"><a href="/home/planning-development/planning-applications/application-forms" title="Apply for planning permission" class="icon_box"><span class="icon icon_measuring white_on_hover"></span><span class="p">Apply for planning permission</span>
+ </a>
+ </div><div class="column column-block"><a class="icon_box" href="https://eforms.dacorum.gov.uk/EnvForms/Default.aspx?f=1" title="Report a missed bin collection" data-sf-ec-immutable=""><span class="icon icon_bin_chat white_on_hover"></span><span class="p">Report a missed bin collection</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/council-democracy/elections-and-voting" title="Elections and voting" class="icon_box"><span class="icon icon_voting white_on_hover"></span><span class="p">Elections and voting</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/benefits" title="Apply for benefits" class="icon_box"><span class="icon icon_clipboard white_on_hover"></span><span class="p">Apply for benefits</span>
+ </a>
+ </div><div class="column column-block"><a href="https://democracy.dacorum.gov.uk/mgCalendarMonthView.aspx?GL=1&amp;bcr=1" title="Committee meetings" class="icon_box" data-sf-ec-immutable=""><span class="icon icon_calendar white_on_hover"></span><span class="p">Committee meetings</span>
+ </a>
+ </div><div class="column column-block"><a class="icon_box" href="https://eforms.dacorum.gov.uk/EnvForms/Default.aspx?f=15" data-sf-ec-immutable=""><span class="icon icon_chats white_on_hover"></span><span class="p">Request a new bin</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/housing/current-tenant/repairs-and-home-maintenance" title="Council house repairs" class="icon_box"><span class="icon icon_tools white_on_hover"></span><span class="p">Council house repairs</span>
+ </a>
+ </div><!--<div class="column column-block">
+							<a class="icon_box" href="https://eforms.dacorum.gov.uk/payportal/CouncilServices.aspx?ProductID=26" title="Pay an invoice" data-sf-ec-immutable="">
+								<img alt="" src="/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/pay-an-invoice.png" data-interchange="[/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/pay-an-invoice.png, (default)], [/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/pay-an-invoice.png, (medium)]" data-sf-ec-immutable=""><span class="p">Pay an invoice</span>
+							</a>
+						</div>-->
+ <!--<div class="column column-block">
+							<a class="icon_box" href="/home/environment-street-care/recycling-refuse-waste/household-waste-recycling" title="Which bin do I use?">
+								<img alt="" src="/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/which-bin-do-i-use.png" data-interchange="[/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/which-bin-do-i-use.png, (default)], [/Sitefinity/WebsiteTemplates/DBCCorp2016/App_Themes/DBCCorp2016/Images/icons/resident/white/which-bin-do-i-use.png, (medium)]"  data-sf-ec-immutable=""><span class="p">Which bin do I use?</span>
+							</a>
+						</div>-->
+ <div class="column column-block"><a href="/home/community-living/parking-and-travel/parking-tickets" title="Pay my parking fine" class="icon_box"><span class="icon icon_car_parking white_on_hover"></span><span class="p">Pay my parking fine</span>
+ </a>
+ </div><div class="column column-block"><a href="/home/do-it-online" title="More online services" class="icon_box"><span class="icon icon_finger_tap white_on_hover"></span><span class="p">More online services</span>
+ </a>
+ </div></div></div></div>
+    </div>
+</div>
+<div>
+    <div class="sfContentBlock">
+        <div class="light_tint_row"><div class="row"><div class="small-12 columns"><h2 class="text-center">Resident services</h2><div class="row small-up-1 medium-up-2 large-up-4 equalize-flex-medium"><div class="column column-block service_block"><div class="card_con"><a class="card service_card purple" href="/home/council-tax"><span class="con"><span class="h3">Council Tax</span>
+ <span class="p">Making a payment, manage Council Tax, bands and charges, help and support (including discounts and exemptions)…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/council-tax.png" alt="house illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card" href="/home/environment-street-care/recycling-refuse-waste"><span class="con"><span class="h3">Bins and recycling</span>
+ <span class="p">When are my bins collected?, Garden Waste Subscription Service, which bin do I use?, recycling centres, bulky items collection…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/bins-recycling.png" alt="bin lorry illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card blue" href="/home/planning-development"><span class="con"><span class="h3">Planning and development</span>
+ <span class="p">Search and comment on applications, apply for permission, Local Plan, building control, pre-application advice…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/planning-development.png" alt="old residential building with original brickwork illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card pink" href="/home/housing"><span class="con"><span class="h3">Housing</span>
+ <span class="p">Rent payments, request a housing repair, apply for social housing, homeless or at risk, garages…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/housing.png" alt="house illustration" data-sf-ec-immutable=""></a>
+ </div></div></div><div class="row small-up-1 medium-up-2 large-up-4 equalize-flex-medium hidden" id="more_services"><div class="column column-block service_block"><div class="card_con"><a class="card service_card orange" href="/home/leisure-arts-culture"><span class="con"><span class="h3">Leisure, arts and culture</span>
+ <span class="p">Parks and playgrounds, events, sport and physical activity, shopping and town centres, arts and culture…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/leisure-arts-culture.png" alt="car parked outside the Old Town Hall illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card purple" href="/home/environment-street-care"><span class="con"><span class="h3">Environment</span>
+ <span class="p">Pest control, fly-tipping, noise, report a tree problem, climate change and sustainability…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/environment.png" alt="dog walking and people sitting at a table underneath a tree illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card" href="/home/council-democracy"><span class="con"><span class="h3">Council and democracy</span>
+ <span class="p">Register to vote, elections, your councillors, meetings, minutes and agendas, finance…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/council-democracy-3.png" alt="bin lorry outside of the forum illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card blue" href="/home/benefits"><span class="con"><span class="h3">Benefits</span>
+ <span class="p">Housing Benefit, Universal Credit, Discretionary Housing Payments, report a change of circumstances, dispute a decision…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/benefits.png" alt="modern block of flats building with a tree illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card blue" href="/home/recruitment"><span class="con"><span class="h3">Jobs</span>
+ <span class="p">Current vacancies, benefits of working for us, apprenticeships, our people, living in Dacorum…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/jobs.png" alt="Old Town Hall illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card pink" href="/home/community-living/parking-and-travel"><span class="con"><span class="h3">Parking</span>
+ <span class="p">Car park charges, resident parking permits, visitor vouchers, parking tickets, report a parking problem…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/parking.png" alt="two cars parked outside a building illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card purple" href="/home/community-living"><span class="con"><span class="h3">Community and living</span>
+ <span class="p">Cost of living support, cemeteries and crematoria, anti-social behaviour, community centres, grants…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/community-living.png" alt="large old house surrounded by trees illustration" data-sf-ec-immutable=""></a>
+ </div></div><div class="column column-block service_block"><div class="card_con"><a class="card service_card" href="/home/regeneration"><span class="con"><span class="h3">Regeneration</span>
+ <span class="p">Hemel Place, Hemel Hempstead Town Centre vision, Maylands regeneration, new council homes…</span>
+ </span>
+ <img src="/ResourcePackages/Foundation/assets/dist/img/card_scenes/regeneration.png" alt="modern business building illustration" data-sf-ec-immutable=""></a>
+ </div></div></div><p class="text-center row-padding-small no_marg_bot"><a class="button white no_marg_bot" href="javascript:showServices();" data-sf-ec-immutable="">More services</a></p></div></div></div>
+    </div>
+</div>
+
+
+<div class="tint_row">
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="text-center">Latest news</h2>
+            <div class="swiper_container">
+                <div class="swiper col_slider swiper-initialized swiper-horizontal swiper-backface-hidden" id="slider_news">
+                    <div class="swiper-wrapper" id="swiper-wrapper-9a6d129d6e32410e5" aria-live="polite">
+                            <div class="swiper-slide swiper-slide-active" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="1 / 4">
+                                <div class="card_con">
+                                    <a class="card" href="/home/news/all-news/2026/07/31/save-money-and-reduce-waste-with-free-access-to-premium-meal-planning-service">
+                                        <img src="https://www.dacorum.gov.uk/images/default-source/news/fivedinners.png?sfvrsn=1bee179e_3" alt="Mobile phone screen showing a page of the FiveDinners website">
+                                        <span class="con">
+                                            <span class="h3" id="title_aafc7c45-5115-6b7f-9bc7-ff00000246a4">Save money and reduce waste with free access to premium meal planning service</span>
+                                            <span class="p">31 July 2026</span>
+                                            <span class="p">We've teamed up with award-winning FiveDinners to give you free access to its membership service, worth £86 per year</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-next" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="2 / 4">
+                                <div class="card_con">
+                                    <a class="card" href="/home/news/all-news/2026/07/30/fundraisers-take-on-abseil-challenge-at-our-new-development">
+                                        <img src="https://www.dacorum.gov.uk/images/default-source/news/abseil-event_paradise-depot.jpg?sfvrsn=b3ef179e_3" alt="Two participants stand on building roof, preparing to take on the abseil challenge">
+                                        <span class="con">
+                                            <span class="h3" id="title_8ffa7c45-5115-6b7f-9bc7-ff00000246a4">Fundraisers take on abseil challenge at our new Eden Court development</span>
+                                            <span class="p">30 July 2026</span>
+                                            <span class="p">Event showcases progress at the Paradise depot site, which will provide new homes , a community hub for DENS, foodbank and a community cafe</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="3 / 4">
+                                <div class="card_con">
+                                    <a class="card" href="/home/news/all-news/2026/07/30/hundreds-join-us-for-housing-open-day">
+                                        <img src="https://www.dacorum.gov.uk/images/default-source/news/mayor-at-housing-open-day.jpg?sfvrsn=15ec179e_3" alt="Mayor of Dacorum Cllr Garrick Stevens speaking with council officers at Housing Open Day">
+                                        <span class="con">
+                                            <span class="h3" id="title_11fa7c45-5115-6b7f-9bc7-ff00000246a4">Hundreds join us for Housing Open Day</span>
+                                            <span class="p">30 July 2026</span>
+                                            <span class="p">Annual event provides residents with the opportunity to get advice and support from our housing teams and partners</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="4 / 4">
+                                <div class="card_con">
+                                    <a class="card" href="/home/news/all-news/2026/07/24/have-your-say-on-parish-council-proposals">
+                                        <img src="https://www.dacorum.gov.uk/images/default-source/news/map-and-pin3147b4da-2798-4193-85c1-c3993ccde619.jpg?sfvrsn=5ec3179e_1" alt="Map and pin">
+                                        <span class="con">
+                                            <span class="h3" id="title_e7ec7c45-5115-6b7f-9bc7-ff00000246a4">Have your say on parish council proposals</span>
+                                            <span class="p">24 July 2026</span>
+                                            <span class="p">If you live in one of Dacorum's unparished areas, we're asking for your views on the draft Community Governance Review proposals before 18 September 2026.</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="swiper-button-prev swiper-button-disabled swiper-button-lock" data-slider-id="slider_news" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9a6d129d6e32410e5" aria-disabled="true"><span class="icon icon_arrow"></span></div>
+                <div class="swiper-button-next swiper-button-disabled swiper-button-lock" data-slider-id="slider_news" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9a6d129d6e32410e5" aria-disabled="true"><span class="icon icon_arrow arrow_right"></span></div>
+            </div>
+            <p class="text-center"><a class="button white no_resident" href="/home/news/all-news">More news</a></p>
+        </div>
+    </div>
+</div>
+<div class="light_tint_row">
+    <div class="row">
+        <div class="small-12 columns">
+            <h2 class="text-center">Upcoming events</h2>
+
+            <div class="swiper_container">
+                <div class="swiper col_slider swiper-initialized swiper-horizontal swiper-backface-hidden" id="slider_events">
+                    <div class="swiper-wrapper" id="swiper-wrapper-5e410f39b2841c8a8" aria-live="polite">
+                            <div class="swiper-slide swiper-slide-active" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="1 / 3">
+                                <div class="card_con">
+                                    <a href="http://webapps.dacorum.gov.uk/dbcef2016/community_events/EventDetail.aspx?EventID=4478" class="card" title="The 71st Pendley Shakespeare Festival: A Midsummer Night's Dream" aria-label="The 71st Pendley Shakespeare Festival: A Midsummer Night's Dream 12 Aug to 16 Aug 20:00 - 22:00 The Pendley Shakespeare Festival returns this glorious summer, promising all the mirth, merriment, mischief and magi... ">
+                                                <img src="https://eforms.dacorum.gov.uk/evtlst/images/18118.png" alt="">
+                                        <span class="con">
+                                                    <span class="h3">The 71st Pendley Shakespeare Festival: A Midsummer Night's Dream</span>
+                                                    <span class="p">12 Aug to 16 Aug 20:00 - 22:00</span>
+                                                    <span class="p">The Pendley Shakespeare Festival returns this glorious summer, promising all the mirth, merriment, mischief and magi...</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide swiper-slide-next" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="2 / 3">
+                                <div class="card_con">
+                                    <a href="http://webapps.dacorum.gov.uk/dbcef2016/community_events/EventDetail.aspx?EventID=4367" class="card" title="VJ Day Service " aria-label="VJ Day Service  15 Aug 10:30 - 11:30 Join the Royal British Legion for their annual Victory over Japan (VJ) Day service, which will take place in the Wal... ">
+                                                <img src="https://eforms.dacorum.gov.uk/evtlst/images/17244.jpg" alt="">
+                                        <span class="con">
+                                                    <span class="h3">VJ Day Service </span>
+                                                    <span class="p">15 Aug 10:30 - 11:30</span>
+                                                    <span class="p">Join the Royal British Legion for their annual Victory over Japan (VJ) Day service, which will take place in the Wal...</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="swiper-slide" style="width: 286.25px; margin-right: 30px;" role="group" aria-label="3 / 3">
+                                <div class="card_con">
+                                    <a href="http://webapps.dacorum.gov.uk/dbcef2016/community_events/EventDetail.aspx?EventID=4482" class="card" title="Duck Race Day at the Paper Mill" aria-label="Duck Race Day at the Paper Mill 15 Aug 11:00 - 22:00 There’s nothing quite like Duck Day at the Paper Mill, Apsley Lock - a day when the whole community turns out for a ... ">
+                                                <img src="https://www.dacorum.gov.uk/images/default-source/web-graphics/event-calendar.jpg" alt="">
+                                        <span class="con">
+                                                    <span class="h3">Duck Race Day at the Paper Mill</span>
+                                                    <span class="p">15 Aug 11:00 - 22:00</span>
+                                                    <span class="p">There’s nothing quite like Duck Day at the Paper Mill, Apsley Lock - a day when the whole community turns out for a ...</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="swiper-button-prev swiper-button-disabled swiper-button-lock" data-slider-id="slider_events" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5e410f39b2841c8a8" aria-disabled="true"><span class="icon icon_arrow"></span></div>
+                <div class="swiper-button-next swiper-button-disabled swiper-button-lock" data-slider-id="slider_events" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5e410f39b2841c8a8" aria-disabled="true"><span class="icon icon_arrow arrow_right"></span></div>
+            </div>
+
+            <p class="text-center"><a class="button white no_resident" href="https://webapps.dacorum.gov.uk/dbcef2016/community_events/Default.aspx">More events</a></p>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="sfContentBlock">
+        <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "Dacorum Borough Council",
+        "url": "https://www.dacorum.gov.uk/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "http://webapps.dacorum.gov.uk/search/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script>
+    </div>
+</div>
+
+
+
+<div>
+
+</div>
+ </section> <!-- Start of signup scripts --> <script>
+        jQuery.fn.load = function (callback) {$(window).trigger("load", callback); };
+
+        // DotMailer form validation
+        function validate_signup(frm) {
+            var emailAddress = frm.Email.value;
+            var errorString = '';
+            if (emailAddress == '' || emailAddress.includes('@') === false) {
+                errorString = 'Please enter your email address';
+            }
+            var isError = false;
+            if (errorString.length > 0) isError = true;
+
+            if (isError) alert(errorString);
+            return !isError;
+        }
+    </script> <!-- End of signup scripts --> <footer id="topFooter"> <div class="row text-center equalize-flex-large"> <div class="small-12 medium-6 large-4 columns large-order-1"> <p><span class="icon icon_pin white thick"></span></p> <p>The Forum, Marlowes,<br>
+                    Hemel Hempstead,<br>
+                    Hertfordshire,<br>
+                    HP1 1DN</p> </div>  <div class="small-12 large-4 columns large-order-2"> <p><span class="icon icon_email white thick"></span></p> <form name="signup" id="signup" action="https://dacorum-mail.co.uk/signup.ashx" method="post" onsubmit="return validate_signup(this)"> <ul> <li>Sign up to Dacorum Life for the latest news and events</li> <li> <input type="hidden" name="addressbookid" value="3035419"> <input type="hidden" name="ci_isconsentform" value="true"> <input type="hidden" name="userid" value="174259"> <input type="hidden" name="SIG1c78e86112689e69f4a393d20173afec163d66c980e6a745ba29b14c5d0cdbe3" value=""> <!-- ReturnURL - when the user hits submit, they'll get sent here --> <input type="hidden" name="ReturnURL" id="ReturnURL" value="https://www.dacorum.gov.uk/home/tools/thank-you?frompage=https://www.dacorum.gov.uk/"> <!-- Email - the user's email address --> <fieldset> <legend class="sr-only">Email address:</legend> <input type="text" name="iEmail" id="iEmail" placeholder="Your email" autocomplete="email" aria-label="Enter your email address to subscribe"> <input type="submit" name="Submit" value="Subscribe" class="button postfix no_marg" aria-label="Click to subscribe"> </fieldset> <input type="hidden" name="ci_userConsentText" value=""> <input type="hidden" id="ci_consenturl" name="ci_consenturl" value="https://www.dacorum.gov.uk/"> <script type="text/javascript">
+                                var urlInput = document.getElementById("ci_consenturl");
+                                var returnUrlHidden = document.getElementById("ReturnURL");
+
+                                if(urlInput != null && urlInput != 'undefined') {
+                                    urlInput.value = encodeURI(window.location.href);
+                                    returnUrlHidden.value = "https://www.dacorum.gov.uk/home/tools/thank-you?frompage=" + urlInput.value;
+                                }
+                            </script> </li> </ul> </form> </div><div class="small-12 medium-6 large-4 columns large-order-3"> <p><span class="icon icon_chat white thick"></span></p> <p><a class="button white" href="/home/do-it-online/contact-us" id="ContactUsButton">Get in touch</a></p> </div> </div> <div class="row column text-center"> <ul class="social_links"> <li><a href="https://x.com/DacorumBC" target="_blank" aria-label="Find us on X/Twitter (opens in new window)"><span class="fa-brands fa-x-twitter"></span><span class="sr-only">Find us on X/Twitter</span><span class="sr_only">opens in new window</span><span class="sr_only">opens in new window</span></a></li> <li><a href="https://www.facebook.com/dacorum" target="_blank" aria-label="Find us on Facebook (opens in new window)"><span class="fa-brands fa-facebook-f"></span><span class="sr-only">Find us on Facebook</span><span class="sr_only">opens in new window</span><span class="sr_only">opens in new window</span></a></li> <li><a href="https://www.linkedin.com/company/dacorum" target="_blank" aria-label="Find us on Linkedin (opens in new window)"><span class="fa-brands fa-linkedin-in"></span><span class="sr-only">Find us on Linkedin</span><span class="sr_only">opens in new window</span><span class="sr_only">opens in new window</span></a></li> <li><a href="https://www.youtube.com/dacorumbc" target="_blank" aria-label="View our YouTube channel (opens in new window)"><span class="fa-brands fa-youtube"></span><span class="sr-only">View our YouTube channel</span><span class="sr_only">opens in new window</span><span class="sr_only">opens in new window</span></a></li> <li><a href="https://www.instagram.com/dacorumbc/" target="_blank" aria-label="Find us on Instagram (opens in new window)"><span class="fa-brands fa-instagram"></span><span class="sr-only">Find us on Instagram</span><span class="sr_only">opens in new window</span><span class="sr_only">opens in new window</span></a></li> </ul> </div> <div class="row column text-center"> <ul class="LinksUl" role="menu"> <li role="menuitem"><a href="/home/tools/accessibility-options">Accessibility</a></li> <li role="menuitem"><a href="/home/tools/general-help-with-using-this-website-2">Help</a></li> <li role="menuitem"><a href="/home/sitemap">Sitemap</a></li> <li role="menuitem"><a href="/home/map-of-dacorum/legal-disclaimers">Legal notices</a></li> <li role="menuitem"><a href="/home/map-of-dacorum/privacy-statement">Privacy Policy</a></li> <li role="menuitem"><a href="/home/cookies-policy">Cookie Policy</a></li> </ul> </div>
+ </footer> <div id="top-link"> <a href="#top" id="go-top" style="display: none;" role="navigation">Back to top</a> </div> <script src="/ResourcePackages/Foundation/assets/dist/js/vendor/foundation.min.js?package=Foundation" type="text/javascript"></script><script src="/ResourcePackages/Foundation/assets/dist/js/vendor/what-input.js?package=Foundation" type="text/javascript"></script><script src="//cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js" type="text/javascript"></script><script src="/ResourcePackages/Foundation/assets/dist/js/app.js?v=22&amp;package=Foundation" type="text/javascript"></script><script src="/ResourcePackages/Foundation/assets/src/js/dbc-1.js?q=4&amp;package=Foundation" type="text/javascript"></script><script src="/ResourcePackages/Foundation/assets/src/js/starrating.js?package=Foundation" type="text/javascript"></script><link href="//cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet" type="text/css"> <style>
+        .LinksUl li a {
+            min-width: 44px;
+            min-height: 44px;
+            line-height: 44px;
+            text-align: center;
+        }
+
+	.recite-controls .recite-button {
+		max-height: 40px !important;
+		min-height: 40px !important;
+	}
+
+	#recite-player-control-btns button {
+		height: 32px;
+		max-height: 32px !important;
+		min-height: 32px !important;
+	}
+
+	#recite-logo{
+		border: #0A7B51;
+		border-style:
+		solid;border-radius: 50%;
+		border-width: 1px;
+		padding: 5px;
+		float: left;
+		margin-right: 5px;
+	}
+
+
+    </style> <script>
+	document.addEventListener("DOMContentLoaded", function(event) {
+		document.getElementById('enableRecite').addEventListener("click", function() {
+			loadService();
+		});
+
+	});
+	</script>
+</body></html>

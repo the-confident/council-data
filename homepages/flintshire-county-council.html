@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="flintshire county council">
+<meta name="robots" content="index, follow">
+<title>Welcome to Flintshire County Council</title>
+
+<link href="https://www.flintshire.gov.uk/SiteElements/Images/Favicons/fcc-logo-64.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="https://www.flintshire.gov.uk/SiteElements/Stylesheets/Website-2020/landing.css">
+
+<script>
+const cyrb53 = function(str, seed = 0) {
+   let h1 = 0xdeadbeef ^ seed,
+      h2 = 0x41c6ce57 ^ seed;
+   for (let i = 0, ch; i < str.length; i++) {
+      ch = str.charCodeAt(i);
+      h1 = Math.imul(h1 ^ ch, 2654435761);
+      h2 = Math.imul(h2 ^ ch, 1597334677);
+   }
+   h1 = Math.imul(h1 ^ h1 >>> 16, 2246822507) ^ Math.imul(h2 ^ h2 >>> 13, 3266489909);
+   h2 = Math.imul(h2 ^ h2 >>> 16, 2246822507) ^ Math.imul(h1 ^ h1 >>> 13, 3266489909);
+   return 4294967296 * (2097151 & h2) + (h1 >>> 0);
+};
+
+let clientIP = "{$_SERVER['REMOTE_ADDR']}";
+let validityInterval = Math.round (new Date() / 1000 / 3600 / 24 / 4);
+let clientIDSource = clientIP + ";" + window.location.host + ";" + navigator.userAgent + ";" + navigator.language + ";" + validityInterval;
+let clientIDHashed = cyrb53(clientIDSource).toString(16);
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-11450941-2', {
+   'storage': 'none',
+   'clientId': clientIDHashed
+});
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+    <a class="sys_skipContent" title="Skip" href="#sys_content">Skip to Content</a>
+	<div class="container">
+     <header>
+       <img src="https://www.flintshire.gov.uk/SiteElements/Images/Logos/FlintshireLogoCropped.svg" alt="Flintshire County Council Logo" class="logo" />
+      </header>
+			<div class="langSelector" id="sys_content">
+                <h1>Welcome to Flintshire County Council. <br /> Please choose a language.</h1>
+                <div id="nav" role="navigation" aria-label="main navigation">
+                   <ul>
+                     <li><a href="https://www.siryfflint.gov.uk/cy/Home.aspx" class="welsh">Cymraeg</a></li>
+                     <li><a href="https://www.flintshire.gov.uk/en/Home.aspx" class="english">English</a></li>
+                  </ul>
+            </div>
+			</div>
+	</div>
+</body>
+</html>

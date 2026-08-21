@@ -1,0 +1,513 @@
+<!doctype html>
+
+<html class="govuk-template js flexbox no-flexboxtweener" lang="en">
+<head lang="en">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <title>Home - Forest of Dean District Council</title>
+    <meta name="description" content="The Forest of Dean District Council website includes local news, provides support and advice for resident and visitors to the area, along with information for planning, housing, Council Tax, business rates, benefits, waste and recycling, consultations, councillors, parking and more.">
+    <link href="/css/govuk-frontend-ie8-3.1.0.min.css" rel="stylesheet" />
+    <link href="/css/CDCStyle.min.css" rel="stylesheet" />
+    <link href="/assets/all.min.css" rel="stylesheet" />
+    <script src="/assets/fontawesome.min.js"></script>
+    <style>
+.sectionButtonFocus:focus {
+    background-color: #fff;
+    box-shadow: 0 0 0 4px #00663c
+    }
+    .govuk-breadcrumbs__link:focus{
+        outline: 3px solid #00663c;
+    }
+    a:focus{
+        outline: 3px solid #00663c!important;
+    }
+    .govuk-accordion__section-button:focus{
+        outline: 3px solid #00663c!important;
+    }
+    .govuk-accordion__open-all:focus{
+        outline: 3px solid #00663c!important;
+    }
+    .searchTerm:focus{
+       outline: 3px solid #00663c!important;  
+    }
+     .form-control:focus{
+       outline: 3px solid #00663c!important;  
+    }
+    .form-group a:focus{
+       outline: 3px solid #00663c!important;  
+    }
+     #rCbtn-search a:focus{
+       outline: 3px solid #00663c!important;  
+    }
+    .btn{
+       outline: 3px solid #00663c!important; 
+       font-weight:bold!important;
+       background-color:00663c!important;
+    }
+    .btn:focus{
+       outline: 3px solid #00663c!important;
+    }
+    .btn-success:focus{
+       outline: 3px solid #00663c!important;  
+    }
+    .rC-left-link a{
+        font-weight:bold!important;
+        color:#00663c!important;
+    }
+    .rC-terms a{
+        font-weight:bold!important;
+        color:#00663c!important;
+    }
+    .govuk-details__summary a{
+        font-weight:bold!important;
+        color:#00663c!important;
+    }
+    .govuk-details__summary{
+        font-weight:bold!important;
+        color:#00663c!important;
+    }
+  </style>
+    <!--<![endif]-->
+    <!--[if IE 8]>
+      <link rel="stylesheet" href="stylesheets/govuk-frontend-ie8-[latest-version].min.css">
+    <![endif]-->
+    <!--<meta property="og:image" content="~/assets/images/ms-icon-310x310.png">-->
+    <meta property="og:title" content="Forest of Dean District Council">
+    <meta property="og:image" content="media/d2llyaox/facebook-cardimagefod.jpg">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Forest of Dean District Council" />
+    <meta name="twitter:description" content="Forest of Dean District Council" />
+    <meta name="twitter:image" content="media/d2llyaox/facebook-cardimagefod.jpg" />
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+            var images = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg', '9.jpg', '10.jpg', '11.jpg', '12.jpg'];
+            $('.banner').css({ 'background-image': 'url(/assets/images/banner/' + images[Math.floor(Math.random() * images.length)] + ')' });
+        });</script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25105937-3"></script>
+    <!-- Cookies -->
+    <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
+    <script>
+        var config = {
+            apiKey: '8ec43d6f8b6cd6a0696009079c099b6adf4f5848',
+            accessibility: {
+                highlightFocus: true
+            },
+
+            product: 'COMMUNITY',
+            initialState: "open",
+            closeOnGlobalChange: true,
+            initialState: 'open',
+
+            text: {
+                acceptRecommended: 'Accept the use of all recommended cookies',
+                rejectSettings: 'Reject the use of all cookies'
+            },
+
+            optionalCookies: [
+                {
+                    name: 'analytics',
+                    label: 'Analytics',
+                    recommendedState: true,
+                    description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
+                    cookies: [],
+                    onAccept: function () {
+                             <!--Global site tag(gtag.js) - Google Analytics -->
+
+
+                            window.dataLayer = window.dataLayer || [];
+                        function gtag() { dataLayer.push(arguments); }
+                        gtag('js', new Date());
+
+                        gtag('config', 'UA-25105937-3');
+
+                    },
+                    onRevoke: function () {
+
+                        window['ga-disable-UA-25105937-3'] = true;
+                    }
+                }, {
+                    name: 'marketing',
+                    label: 'Marketing',
+                    recommendedState: true,
+                    description: 'We may at times use marketing cookies to help us improve the relevancy of our site content.',
+                    cookies: [],
+                    onAccept: function () {
+                                  !function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/ab7a7e62881dc95c541265556/8d0db0644ff63658466e8b5f1.js");
+                             },
+                    onRevoke: function () { }
+                }, {
+                    name: 'preferences',
+                    label: 'Preferences',
+                    recommendedState: true,
+                    description: 'We need to set a cookie to remember your preferences of cookie retention when visiting this site.',
+                    cookies: [],
+                    onAccept: function () { },
+                    onRevoke: function () { }
+                }
+            ],
+
+            position: 'LEFT',
+            theme: 'DARK'
+        };
+
+        CookieControl.load(config);
+    </script>
+
+<!-- WebMetric snippet starts here -->
+
+<div class="gm_sidebar gm_sidebar_rh" role="complementary" aria-label="Your feedback is important to us">
+    <a href="https://websurveys2.govmetric.com/theme/gm/2321"
+       target="_blank"
+       class="gm_sidebar_anchor"
+       title="Feedback"
+       rel="nofollow"
+       alt="Your feedback is important to us (opens in new window)">
+        <img src="https://websurveys.s3.eu-west-1.amazonaws.com/orgfiles/shared/two_smiley_rh.png" alt="rating button" />
+    </a>
+</div>
+<link rel="stylesheet" type="text/css" href="https://websurveys2.govmetric.com/css/client/gm_sidebar_rh.css" />
+<script type="text/javascript" src="https://websurveys2.govmetric.com/js/client/gm_sidebar.js"></script>
+<script type="text/javascript" src="https://hitcounter.govmetric.com/2319"></script>
+
+<!-- WebMetric snippet ends here -->
+</head>
+<body class="govuk-template__body">
+    <script>
+        document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+    </script>
+    <div role="navigation" aria-label="Skip to main navigation">
+        <a href="#main-content" class="govuk-skip-link">Skip to main content</a>
+    </div>
+    <div>
+            <div class="govuk-width-container" role="complementary">
+                        <div class="govuk-phase-banner">
+                            <span class="govuk-phase-banner__content">
+                                <strong class="govuk-tag govuk-phase-banner__content__tag">
+                                    Notice
+                                </strong>
+                                <span class="govuk-phase-banner__text" style="text-align:center;">
+                                    <span> <p><span>Please note, due to hot weather forecast this week waste crews will be beginning their collections rounds earlier. Please make sure bins are out by 6:30am. <a href="/bins-and-recycling/check-your-collection-day/" title="Check your collection day">Check your collection day.</a></span></p></span>
+                                </span>
+                            </span>
+                        </div> 
+            </div>
+            <header class="govuk-header-Home" data-module="govuk-header">
+                <div class="govuk-header__container govuk-width-container">
+                    <div class="Popularpages"><a href="/popular-pages">Popular pages ></a></div>
+                    <div class="govuk-header__logo">
+                    </div>
+                </div>
+            </header>     </div>
+    
+<div class="banner" role="banner" aria-label="Banner">
+    <div class="govuk-width-container">
+        <div class="govuk-grid-row">
+            <div class="welcomeSection">
+                <div class="welcomeSectionInner">
+                    <span class="welcomeSpan">Welcome to </span>
+                    <h1 class="titleWelcome">Forest of Dean District Council</h1>
+                </div>
+            </div>
+            <div class="logoHome">
+                <div class="councilLogoOuter">
+                    <a href="#" class="sectionButtonFocus"><img src="/assets/Forest-of-Dean-District-Council-Logo.png" width="160px" alt="Forest of Dean District Council" title="Forest of Dean District Council" /></a>
+                </div>
+            </div>
+        </div>
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <div class="searchWelcome">
+                    <div class="welcomeText">
+                        <p class="govuk-body govuk-!-font-size-24" style="color:#fff;">How can we help you today?</p>
+                    </div>
+                </div>
+                <form action="/Search/" method="GET">
+                    <div class="search">
+                        <input type="text" aria-label="Search Term" data-toggle="tooltip" data-placement="bottom" label="Find information, advice and more" placeholder="Find information, advice and more" name="query" class="searchTerm">
+
+                        <button class="searchButton" type="submit">
+                            <span>Search</span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="govuk-grid-row">
+            <div class="govuk-grid-column-full">
+                <ul class="web-list-signage web-list-signage--two-columns">
+                                <li>
+                                    <a href="/report-it/#" role="button" draggable="false" class="govuk-button govuk-button--start-Home buttonArrow" data-module="govuk-button">Report it</a>
+                                </li>
+                                <li>
+                                    <a href="/make-a-payment/#" role="button" draggable="false" class="govuk-button govuk-button--start-Home buttonArrow" data-module="govuk-button">Make a payment</a>
+                                </li>
+                                <li>
+                                    <a href="/bins-and-recycling/check-your-collection-day/#" role="button" draggable="false" class="govuk-button govuk-button--start-Home buttonArrow" data-module="govuk-button">Check your collection day</a>
+                                </li>
+                                <li>
+                                    <a href="/bins-and-recycling/what-to-put-in-your-bin/garden-waste-green-wheelie-bin/" role="button" draggable="false" class="govuk-button govuk-button--start-Home buttonArrow" data-module="govuk-button">Sign up to garden waste collections</a>
+                                </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="homeBody">
+    <div class="govuk-width-container">
+        <main class="govuk-main-wrapper " id="main-content">
+            <h1 class="govuk-heading-l-Home">Forest of Dean District Council Services</h1>
+
+
+
+
+
+<div class="govuk-grid-row">
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/bins-and-recycling/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Bins and recycling</h2>
+                            <p>Check your bin day, report a missed bin, find out what we collect and where to take big items, order replacement bins</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/council-tax-and-benefits/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Council Tax and benefits</h2>
+                            <p>Pay your Council Tax, find out what support is available and how you can claim benefits or let us know about changes</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/planning-and-building/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Planning and building</h2>
+                            <p>Apply for planning permission or building regulations, the Local Plan and planning policy for the Forest of Dean</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/business-and-licensing/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Business and licensing</h2>
+                            <p>Apply and renew licences, including taxis, pay your business rates, find support for your business</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/about-the-council/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">About the council</h2>
+                            <p>Elections, find your local councillor, council meetings and minutes, view current job vacancies, performance and spending</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/housing/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Housing</h2>
+                            <p>Help and advice for homeowners, council tenants, landlords and homelessness support</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/environment/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Environment</h2>
+                            <p>Report environmental issues, flooding advice, climate change, noise and other pollution</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/communities-health-and-leisure/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Communities, health and leisure</h2>
+                            <p>Support information for local communities,  leisure centre details and what’s going on in your community</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="govuk-grid-column-one-third">
+                    <a class="sectionButtonFocus" href="/parking-travel-and-visitors/">
+                        <div class="boxLink">
+                            <h2 class="govuk-heading-m-home">Parking, travel and visitors</h2>
+                            <p>Pay or appeal a parking fine, find a car park, public toilets and visitor information</p>
+                        </div>
+                    </a>
+                </div>
+</div>
+
+
+
+
+
+
+    <div class="NewsWrapper">
+        <h1 class="govuk-heading-l-Home">News</h1>
+        <div class="govuk-grid-row">
+                        <div class="govuk-grid-column-one-half">
+                            <a class="sectionButtonFocus" href="/news-items/help-if-you-re-struggling-with-living-costs/">
+                                <img src="/media/bvrkdvwb/wed_foddc.jpg?anchor=center&amp;mode=crop&amp;width=480&amp;height=293&amp;rnd=132993453211100000" alt="Help if you&#39;re struggling with living costs" />
+                                <div class="newsImageFooter"></div>
+                                <div class="newsItem">
+                                    <h2 class="govuk-heading-m-home">Help if you&#39;re struggling with living costs</h2>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="govuk-grid-column-one-half">
+                            <a class="sectionButtonFocus" href="https://news.fdean.gov.uk" target="_blank">
+                                <img src="/media/vkkjk5f5/fod-newsimg.jpg?anchor=center&amp;mode=crop&amp;width=480&amp;height=293&amp;rnd=132568405674330000" alt="View all the latest news" />
+                                <div class="newsImageFooter"></div>
+                                <div class="newsItem">
+                                    <h2 class="govuk-heading-m-home">View all the latest news</h2>
+                                </div>
+                            </a>
+                        </div>
+        </div>
+    </div>
+            
+<!-- home banner  -->
+<div style="border: 0px solid #940061; padding: 0px; margin-bottom: 10px; margin-top: 10px;"><a rel="noopener" href="/gardenwaste/" title="Sign up to garden waste collections"><img src="/media/mvwfewrl/garden-waste-collections2026.jpg" alt="Sign up to garden waste collections"></a></div>
+<!-- end home banner --><!-- home banner  -->
+<div style="border: 0px solid #940061; padding: 0px; margin-bottom: 10px; margin-top: 10px;"><a rel="noopener" href="/thermalcameraloanscheme/" title="Click to view our thermal camera loan scheme"><img src="/media/dytdi2zj/thermal-camera-loan-scheme-banner.jpg" alt="Click to view our thermal camera loan scheme"></a></div>
+<!-- end home banner --><!-- home banner  -->
+<div style="border: 0px solid #940061; padding: 0px; margin-bottom: 10px; margin-top: 10px;"><a rel="noopener" href="/council-tax-and-benefits/manage-your-account-online/" title="Sign up to our online benefits and council tax system to manage your account"><img src="/media/1rxpxnup/open-portal-foddc-2022.jpg" alt="Sign up to our online benefits and council tax system to manage your account"></a></div>
+<!-- end home banner --><!-- home banner  -->
+<div style="border: 0px solid #940061; padding: 0px; margin-bottom: 10px; margin-top: 10px;"><a rel="noopener" href="/communities-health-and-leisure/lottery-redirect/" target="_blank" title="Play the Forest Lottery"><img src="/media/es3f3ftj/lottery-banner.png" alt="Support local charities with a chance to win big - Play the Forest Lottery"></a></div>
+<!-- end home banner --><!-- home banner  -->
+<div style="border: 0px solid #940061; padding: 0px; margin-bottom: 10px; margin-top: 10px;"><a rel="noopener" href="/environment/climate-action/how-to-achieve-net-zero-carbon-homes/" title="Download our Net Zero Toolkit"><img src="/media/kqcl0qzf/netzerotoolkitbanner.jpg" alt="Download our Net Zero Toolkit"></a></div>
+<!-- end home banner -->        </main>
+    </div>
+</div>
+
+    <footer class="govuk-footer">
+        <div class="govuk-width-container ">
+            <div class="govuk-footer__navigation" role="navigation">
+                <div class="govuk-footer__section">
+                    <h2 class="govuk-footer__heading govuk-heading-m">Find out more</h2>
+                    
+
+
+
+
+
+    <ul class="govuk-footer__list govuk-footer__list--columns-2">
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/support/accessibility/">Accessibility</a>
+            </li>
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/support/privacy-and-data/">Privacy and data</a>
+            </li>
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/support/privacy-and-data/cookies/">Cookies</a>
+            </li>
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/our-sitemap/">Our sitemap</a>
+            </li>
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/contact-us/">Contact us</a>
+            </li>
+             <li class="govuk-footer__list-item">
+                 <a class="govuk-footer__link" href="/support/newsletter-signup/">Newsletter signup</a>
+            </li>
+    </ul>
+
+                </div>
+                <div class="govuk-footer__section">
+                    <h2 class="govuk-footer__heading govuk-heading-m">Social</h2>
+                    <ul class="govuk-footer__list govuk-footer__list--columns-2">
+                        <li class="govuk-footer__list-item twitterfooter">
+                            <a class="govuk-footer__link twitterfooterlink" href="https://twitter.com/FoDDC" target="_blank" rel="noopener" title="Follow us on Twitter (Opens in a new window)">
+                                Twitter <span class="fas fa-external-link-alt" style="font-size:12pt; margin-left:5px;"></span>
+                            </a>
+                        </li>
+                        <li class="govuk-footer__list-item facebookfooter">
+                            <a class="govuk-footer__link facebookfooterlink" href="https://www.facebook.com/FODDC/" target="_blank" rel="noopener" title="Like us on Facebook (Opens in a new window)">
+                                Facebook <span class="fas fa-external-link-alt" style="font-size:12pt; margin-left:5px;"></span>
+                            </a>
+                        </li>
+                            <li class="govuk-footer__list-item youTubefooter">
+                                <a class="govuk-footer__link youTubefooterlink" href="https://www.youtube.com/channel/UCSbpIUr-_NjNcoub_uxLHHQ/videos" target="_blank" rel="noopener" title="Follow us on YouTube (Opens in a new window)">
+                                    YouTube <span class="fas fa-external-link-alt" style="font-size:12pt; margin-left:5px;"></span>
+                                </a>
+                            </li>
+                                                    <li class="govuk-footer__list-item instagramfooter">
+                                <a class="govuk-footer__link instagramfooterlink" href="https://www.instagram.com/forestofdeandc/" target="_blank" rel="noopener" title="Follow us on Instagram (Opens in a new window)">
+                                    Instagram <span class="fas fa-external-link-alt" style="font-size:12pt; margin-left:5px;"></span>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="copyright" role="region" aria-label="copyright">
+        <div class="govuk-width-container ">
+            <p>
+                <span style="text-align:left;">&copy; Forest of Dean District Council 2026</span>
+
+            </p>
+        </div>
+    </div>
+    <script src="/assets/govuk-frontend-3.1.0.min.js"></script>
+    <script>window.GOVUKFrontend.initAll()</script>
+
+    <style type='text/css'>
+        .embeddedServiceHelpButton .helpButton .uiButton {
+            background-color: #20652E;
+            font-family: "Arial", sans-serif;
+            border-top: 2px solid #ffffff;
+            border-left: 2px solid #ffffff;
+            border-right: 2px solid #ffffff;
+        }
+
+            .embeddedServiceHelpButton .helpButton .uiButton:focus {
+                outline: 1px solid #005290;
+            }
+    </style>
+
+  <!--Start of embedded Chat Code Snippet-->
+
+<script type='text/javascript'>
+	function initEmbeddedMessaging() {
+		try {
+			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+ 
+			embeddedservice_bootstrap.init(
+				'00D0X000000skqd',
+				'FODChatService',
+				'https://publica.my.site.com/ESWFODChatService1751276543024',
+				{
+					scrt2URL: 'https://publica.my.salesforce-scrt.com'
+				}
+			);
+		} catch (err) {
+			console.error('Error loading Embedded Messaging: ', err);
+		}
+	};
+</script>
+<script type='text/javascript' src='https://publica.my.site.com/ESWFODChatService1751276543024/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+<!--End of embedded Chat Code Snippet-->
+
+
+    <script type="text/javascript">
+        // getting all anchor tags
+        let links = document.getElementsByTagName('a');
+        // looping through all the HTMLCollection links
+        for (let index = 0; index < links.length; index++) {
+            // accessing the target attribute from each element
+            let target = links[index].target;
+            if (target === "_blank") {
+                let title = links[index].getAttribute('title')
+                links[index].setAttribute('title', "Opens in a new window");
+            }
+        }
+    </script>
+</body>
+</html>
