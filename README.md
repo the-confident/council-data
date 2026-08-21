@@ -13,9 +13,8 @@ The main dataset is [`council-data.json`](council-data.json). Each council recor
 ## Evidence
 
 - [`homepages/`](homepages/) contains downloaded homepage HTML.
-- `councils.html` and `councils_files/` contain the source council list and downloaded page assets.
 
-Some sites cannot be fetched because of HTTP errors, edge protection, or other network failures. Check `homepages/errors.txt`, `heads/errors.txt`, and [`errors.txt`](errors.txt) when interpreting missing detections.
+Some sites cannot be fetched because of HTTP errors, edge protection, or other network failures. Check `homepages/errors.txt`, `heads/errors.txt`, and [`errors.txt`](errors.txt) when interpreting missing detections. In this case, we manually load each site and copy the homepage HTML.
 
 ## Requirements
 
