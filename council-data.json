@@ -665,6 +665,25 @@
     }
   },
   {
+    "name": "Blackburn with Darwen Borough Council",
+    "country": "England",
+    "homepage": "https://www.blackburn.gov.uk/",
+    "homepage_title": "Welcome to Blackburn with Darwen | Blackburn with Darwen Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Klaro",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
     "name": "City of Edinburgh Council",
     "country": "Scotland",
     "homepage": "https://www.edinburgh.gov.uk/",
