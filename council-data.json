@@ -203,8 +203,8 @@
     },
     "cookie_consent_manager": "Cookiebot",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "Universal Analytics",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -347,7 +347,7 @@
     "homepage": "https://monaghan.ie/",
     "homepage_title": "Home -Monaghan County Council - Comhairle Contae Mhuineacháin",
     "homepage_description": "Serving County Monaghan Popular Services Housing Dogs Planning Libraries Gift Card Community Museum Environment Heritage Biodiversity Climate Action Emergency Updates View All Services Council News News Monaghan County Council Launches [&hellip;]",
-    "generator_raw_value": "WordPress 7.0.2",
+    "generator_raw_value": "WordPress 7.0.3",
     "generator": {
       "cms": "WordPress",
       "cms_variant": "",
@@ -374,8 +374,8 @@
     },
     "cookie_consent_manager": "Civic Cookie Control",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -676,7 +676,7 @@
       "cms_variant": "",
       "cms_version": "10"
     },
-    "cookie_consent_manager": "Klaro",
+    "cookie_consent_manager": "",
     "analytics": {
       "provider": "Google Analytics",
       "provider_variant": "GA4",
@@ -811,7 +811,7 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "",
+      "provider": "Microsoft Clarity",
       "provider_variant": "",
       "provider_version": ""
     }
@@ -1685,8 +1685,8 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -1742,8 +1742,8 @@
     },
     "cookie_consent_manager": "OneTrust / CookiePro",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -1780,8 +1780,8 @@
     },
     "cookie_consent_manager": "Civic Cookie Control",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -1837,8 +1837,8 @@
     },
     "cookie_consent_manager": "Civic Cookie Control",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -1894,8 +1894,8 @@
     },
     "cookie_consent_manager": "Cookiebot",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -2065,8 +2065,8 @@
     },
     "cookie_consent_manager": "OneTrust / CookiePro",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -2084,7 +2084,7 @@
     },
     "cookie_consent_manager": "Cookiebot",
     "analytics": {
-      "provider": "Microsoft Clarity",
+      "provider": "",
       "provider_variant": "",
       "provider_version": ""
     }
@@ -2198,8 +2198,8 @@
     },
     "cookie_consent_manager": "CookieScript",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -2283,8 +2283,8 @@
     "name": "Birmingham City Council",
     "country": "England",
     "homepage": "https://www.birmingham.gov.uk/",
-    "homepage_title": "",
-    "homepage_description": "",
+    "homepage_title": "Birmingham City Council Homepage",
+    "homepage_description": "BCC Homepage",
     "generator_raw_value": "",
     "generator": {
       "cms": "GOSS iCM",
@@ -2350,7 +2350,7 @@
     },
     "cookie_consent_manager": "Cookiebot",
     "analytics": {
-      "provider": "Google Analytics",
+      "provider": "",
       "provider_variant": "",
       "provider_version": ""
     }
@@ -2532,7 +2532,7 @@
     "homepage": "https://www.bolsover.gov.uk/",
     "homepage_title": "Home",
     "homepage_description": "Bolsover District Council The Arc High Street Clowne Derbyshire S43 4JY Telephone: 01246 242424",
-    "generator_raw_value": "Joomla",
+    "generator_raw_value": "Bolsover District Council Website",
     "generator": {
       "cms": "Joomla",
       "cms_variant": "",
@@ -3015,8 +3015,8 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -3148,8 +3148,8 @@
     },
     "cookie_consent_manager": "Civic Cookie Control",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -3718,8 +3718,8 @@
     },
     "cookie_consent_manager": "Silktide Consent Manager",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -3862,7 +3862,7 @@
     "homepage": "https://www.molevalley.gov.uk/",
     "homepage_title": "Mole Valley District Council - Homepage - Mole Valley District Council",
     "homepage_description": "",
-    "generator_raw_value": "WordPress 7.0.2",
+    "generator_raw_value": "WordPress 7.0.3",
     "generator": {
       "cms": "WordPress",
       "cms_variant": "",
@@ -3927,8 +3927,8 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "Silktide Analytics",
-      "provider_variant": "",
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
       "provider_version": ""
     }
   },
@@ -4108,14 +4108,14 @@
     "country": "England",
     "homepage": "https://www.oxfordshire.gov.uk/",
     "homepage_title": "Home | Oxfordshire County Council",
-    "homepage_description": "We're the local authority for Oxfordshire, committed to delivering top quality services and value for money on behalf of the county's 600,000+ residents.",
-    "generator_raw_value": "",
+    "homepage_description": "We",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
     "generator": {
       "cms": "Drupal",
       "cms_variant": "",
       "cms_version": ""
     },
-    "cookie_consent_manager": "Civic Cookie Control",
+    "cookie_consent_manager": "",
     "analytics": {
       "provider": "Google Analytics",
       "provider_variant": "GA4",
@@ -4668,8 +4668,8 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "Matomo",
-      "provider_variant": "Piwik / Matomo",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -4877,8 +4877,8 @@
     },
     "cookie_consent_manager": "Civic Cookie Control",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -4934,8 +4934,8 @@
     },
     "cookie_consent_manager": "",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "",
+      "provider": "Google",
+      "provider_variant": "GTM",
       "provider_version": ""
     }
   },
@@ -4983,7 +4983,7 @@
     "homepage": "https://www.wealden.gov.uk/",
     "homepage_title": "Wealden District Council",
     "homepage_description": "Keywords",
-    "generator_raw_value": "WordPress 7.0.2",
+    "generator_raw_value": "WordPress 7.0.3",
     "generator": {
       "cms": "WordPress",
       "cms_variant": "",
@@ -5124,8 +5124,8 @@
     },
     "cookie_consent_manager": "Drupal EU Cookie Compliance",
     "analytics": {
-      "provider": "Google Analytics",
-      "provider_variant": "GA4",
+      "provider": "",
+      "provider_variant": "",
       "provider_version": ""
     }
   },
@@ -5152,7 +5152,7 @@
     "name": "Worcester City Council",
     "country": "England",
     "homepage": "https://www.worcester.gov.uk/",
-    "homepage_title": "",
+    "homepage_title": "You are being redirected...",
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
@@ -5190,7 +5190,7 @@
     "name": "Wychavon District Council",
     "country": "England",
     "homepage": "https://www.wychavon.gov.uk/",
-    "homepage_title": "",
+    "homepage_title": "You are being redirected...",
     "homepage_description": "",
     "generator_raw_value": "",
     "generator": {
@@ -5240,6 +5240,3578 @@
     "analytics": {
       "provider": "Google Analytics",
       "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Adur & Worthing Council",
+    "country": "",
+    "homepage": "https://www.adur-worthing.gov.uk/",
+    "homepage_title": "Home - Adur &amp; Worthing Councils",
+    "homepage_description": "Find out about the services provided to you by Adur District Council and Worthing Borough Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Hotjar",
+      "provider_variant": "6",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Amber Valley Borough Council",
+    "country": "",
+    "homepage": "https://www.ambervalley.gov.uk/",
+    "homepage_title": "Amber Valley Borough Council",
+    "homepage_description": "This is the description of Amber Valley Borough Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Antrim & Newtownabbey Borough Council",
+    "country": "",
+    "homepage": "https://antrimandnewtownabbey.gov.uk/",
+    "homepage_title": "Antrim and Newtownabbey Borough Council - Antrim &amp; Newtownabbey Borough Council",
+    "homepage_description": "Official website for Antrim and Newtownabbey Borough Council.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Ards & North Down Borough Council",
+    "country": "",
+    "homepage": "https://www.ardsandnorthdown.gov.uk/",
+    "homepage_title": "Citizen home - Ards and North Down Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Argyll & Bute Council",
+    "country": "",
+    "homepage": "https://www.argyll-bute.gov.uk/",
+    "homepage_title": "Welcome to Argyll &amp; Bute Council | Argyll and Bute Council",
+    "homepage_description": "Argyll and Bute Council",
+    "generator_raw_value": "Drupal 9 (http://drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "9"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Armagh City, Banbridge & Craigavon Council",
+    "country": "",
+    "homepage": "https://www.armaghbanbridgecraigavon.gov.uk/",
+    "homepage_title": "Armagh City, Banbridge and Craigavon Borough Council | Central Council Telephone number: 0300 0300 900",
+    "homepage_description": "",
+    "generator_raw_value": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Ashfield District Council",
+    "country": "",
+    "homepage": "https://www.ashfield.gov.uk/",
+    "homepage_title": "Home - Ashfield District Council",
+    "homepage_description": "Ashfield District Council: providing services for residents, businesses and visitors. Find Council Tax, Planning, bin collection, tenant and business support.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Silktide Consent Manager",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Barking & Dagenham Council",
+    "country": "",
+    "homepage": "https://www.lbbd.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Barnsley Metropolitan Borough Council",
+    "country": "",
+    "homepage": "https://www.barnsley.gov.uk/",
+    "homepage_title": "Barnsley &#x2013; the place of possibilities",
+    "homepage_description": "Barnsley Council website: find information, apply for a service, make a report, book an appointment, and make a payment.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Basildon Council",
+    "country": "",
+    "homepage": "https://www.basildon.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Basingstoke & Deane Borough Council",
+    "country": "",
+    "homepage": "https://www.basingstoke.gov.uk/",
+    "homepage_title": "Basingstoke and Deane Borough Council website",
+    "homepage_description": "Basingstoke and Deane Borough Council website.",
+    "generator_raw_value": "Smart Media Intelligent WebCentre",
+    "generator": {
+      "cms": "Smart Media Intelligent WebCentre",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bassetlaw District Council",
+    "country": "",
+    "homepage": "https://www.bassetlaw.gov.uk/",
+    "homepage_title": "Homepage | Bassetlaw District Council",
+    "homepage_description": "Homepage of Bassetlaw District Council. | Bassetlaw District Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bath & North East Somerset Council",
+    "country": "",
+    "homepage": "https://www.bathnes.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bedford Borough Council",
+    "country": "",
+    "homepage": "https://www.bedford.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Belfast City Council",
+    "country": "",
+    "homepage": "https://www.belfastcity.gov.uk/",
+    "homepage_title": "Belfast City Council",
+    "homepage_description": "Information for residents about Belfast City Council services including events, tourism, bins and recycling, leisure and parking.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bexley Council",
+    "country": "",
+    "homepage": "https://www.bexley.gov.uk/",
+    "homepage_title": "Homepage | London Borough of Bexley",
+    "homepage_description": "Welcome to the London Borough of Bexley website where you can pay, report, apply and find information about many council services",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Blackpool Council",
+    "country": "",
+    "homepage": "https://www.blackpool.gov.uk/",
+    "homepage_title": "Blackpool Council | Home page | Blackpool Council services",
+    "homepage_description": "Information on Blackpool Council services, it&#39;s councillors, how to report issues such as fly-tipping, potholes, antisocial behaviour, street cleaning or litter. Find out your bin collection day, report a missed bin or order a garden waste bin collection.",
+    "generator_raw_value": "Contensis CMS Version 17.2",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "17.2"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bolton Council",
+    "country": "",
+    "homepage": "https://www.bolton.gov.uk/",
+    "homepage_title": "Home – Bolton Council",
+    "homepage_description": "Bolton council homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bournemouth, Christchurch & Poole Council",
+    "country": "",
+    "homepage": "https://www.bcpcouncil.gov.uk/",
+    "homepage_title": "Welcome to BCP Council | BCP",
+    "homepage_description": "The best place to find information, support and services as a Bournemouth, Christchurch and Poole resident, business, partner or visitor.",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bracknell Forest Council",
+    "country": "",
+    "homepage": "https://www.bracknell-forest.gov.uk/",
+    "homepage_title": "Bracknell Forest Council |",
+    "homepage_description": "This is the website for Bracknell Forest Council. It includes all of our services, such as bins and recycling, council tax, benefits, libraries and schools.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bradford Metropolitan District Council",
+    "country": "",
+    "homepage": "https://www.bradford.gov.uk/",
+    "homepage_title": "Home | Bradford Council",
+    "homepage_description": "Bradford Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Breckland Council",
+    "country": "",
+    "homepage": "https://www.breckland.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Brent Council",
+    "country": "",
+    "homepage": "https://www.brent.gov.uk/",
+    "homepage_title": "Brent Council",
+    "homepage_description": "Welcome to the Brent Council website. It includes information on the services we provide including, Council Tax, bins, housing, benefits, libraries and schools.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "OneTrust / CookiePro",
+    "analytics": {
+      "provider": "Hotjar",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Brentwood Council",
+    "country": "",
+    "homepage": "http://www.brentwood.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Brighton & Hove Council",
+    "country": "",
+    "homepage": "https://www.brighton-hove.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bristol City Council",
+    "country": "",
+    "homepage": "https://www.bristol.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Broadland & South Norfolk Council",
+    "country": "",
+    "homepage": "https://www.southnorfolkandbroadland.gov.uk/",
+    "homepage_title": "Welcome to South Norfolk &amp; Broadland District Councils&#x27; website | Broadland and South Norfolk",
+    "homepage_description": "Welcome to the Broadland District Council and South Norfolk Council joint website, providing information on council services for residents, businesses and visitors.",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bromley Council",
+    "country": "",
+    "homepage": "https://www.bromley.gov.uk/",
+    "homepage_title": "Bromley Council website homepage – London Borough of Bromley",
+    "homepage_description": "Bromley Council Homepage - www.bromley.gov.uk.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Buckinghamshire Council",
+    "country": "",
+    "homepage": "https://www.buckinghamshire.gov.uk/",
+    "homepage_title": "Buckinghamshire Council | Aylesbury, Chiltern, South Bucks, Wycombe",
+    "homepage_description": "The single unitary council that replaced Buckinghamshire County Council and Aylesbury Vale, Chiltern, South Bucks and Wycombe District Councils in April 2020.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Bury Council",
+    "country": "",
+    "homepage": "https://www.bury.gov.uk/",
+    "homepage_title": "Welcome to Bury Council - Bury Council",
+    "homepage_description": "",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Calderdale Council",
+    "country": "",
+    "homepage": "https://www.calderdale.gov.uk/",
+    "homepage_title": "Calderdale Council serves Brighouse, Elland, Halifax, Hebden Bridge, Sowerby Bridge, Todmorden",
+    "homepage_description": "Welcome to Calderdale Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cambridge City Council",
+    "country": "",
+    "homepage": "https://www.cambridge.gov.uk/",
+    "homepage_title": "Home - Cambridge City Council",
+    "homepage_description": "Cambridge City Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Microsoft Clarity",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cambridgeshire County Council",
+    "country": "",
+    "homepage": "https://www.cambridgeshire.gov.uk/",
+    "homepage_title": "Cambridgeshire County Council | Cambridgeshire County Council",
+    "homepage_description": "",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Microsoft Clarity",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cannock Chase Council",
+    "country": "",
+    "homepage": "http://www.cannockchasedc.gov.uk/",
+    "homepage_title": "Cannock Chase | Cannock Chase District Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Causeway Coast & Glens Borough Council",
+    "country": "",
+    "homepage": "https://www.causewaycoastandglens.gov.uk/",
+    "homepage_title": "Causeway Coast &amp; Glens Borough Council | Causeway Coast &amp; Glens Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Central Bedfordshire Council",
+    "country": "",
+    "homepage": "http://www.centralbedfordshire.gov.uk/",
+    "homepage_title": "Central Bedfordshire Council",
+    "homepage_description": "Official Central Bedfordshire Council website. Book to go to the tidy tip, check bin days, pay Council Tax, report potholes, &amp; more.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cheshire East Council",
+    "country": "",
+    "homepage": "https://www.cheshireeast.gov.uk/",
+    "homepage_title": "Home | Cheshire East Council",
+    "homepage_description": "Cheshire East Council; providing local government services to around 406,527 residents making us the 3rd largest Unitary Authority in the North West.",
+    "generator_raw_value": "Contensis CMS Version 17.2",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "17.2"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cheshire West & Chester Council",
+    "country": "",
+    "homepage": "https://www.cheshirewestandchester.gov.uk/",
+    "homepage_title": "Home | Cheshire West and Chester Council",
+    "homepage_description": "Information for residents, businesses, and visitors of west Cheshire",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Chorley Council",
+    "country": "",
+    "homepage": "http://www.chorley.gov.uk/",
+    "homepage_title": "Chorley Council – Chorley",
+    "homepage_description": "Chorley Council Website",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Silktide Consent Manager",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Comhairle nan Eilean Siar",
+    "country": "",
+    "homepage": "https://www.cne-siar.gov.uk/",
+    "homepage_title": "Homepage | Comhairle nan Eilean Siar",
+    "homepage_description": "Welcome to the Comhairle nan Eilean Siar / Western Isles Council website. How can we help?",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cornwall Council",
+    "country": "",
+    "homepage": "https://www.cornwall.gov.uk/",
+    "homepage_title": "Home Page - Cornwall Council",
+    "homepage_description": "Cornwall Council website - Information on our council services and Cornwall",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Insites Cookie Consent",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Coventry City Council",
+    "country": "",
+    "homepage": "http://www.coventry.gov.uk/",
+    "homepage_title": "Home – Coventry City Council",
+    "homepage_description": "The home of Coventry City Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Cumberland Council",
+    "country": "",
+    "homepage": "https://www.cumberland.gov.uk/",
+    "homepage_title": "Welcome to Cumberland | Cumberland Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Darlington Borough Council",
+    "country": "",
+    "homepage": "https://www.darlington.gov.uk/",
+    "homepage_title": "Darlington BC - Home",
+    "homepage_description": "Darlington Borough Council is a local authority in the north east of England.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Derby City Council",
+    "country": "",
+    "homepage": "https://www.derby.gov.uk/",
+    "homepage_title": "Derby City Council homepage",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Derbyshire County Council",
+    "country": "",
+    "homepage": "https://www.derbyshire.gov.uk/",
+    "homepage_title": "Home - Derbyshire County Council",
+    "homepage_description": "We work with communities to ensure our services meet their environment, education, social, family, leisure, transport and economic needs and expectations.",
+    "generator_raw_value": "Contensis CMS Version 16.0",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "16.0"
+    },
+    "cookie_consent_manager": "OneTrust / CookiePro",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Derry City & Strabane District Council",
+    "country": "",
+    "homepage": "http://www.derrystrabane.com/",
+    "homepage_title": "Derry City &amp; Strabane - Derry City &amp; Strabane District Council",
+    "homepage_description": "Derry City &amp; Strabane District Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Devon County Council",
+    "country": "",
+    "homepage": "https://www.devon.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Doncaster Metropolitan Borough Council",
+    "country": "",
+    "homepage": "http://www.doncaster.gov.uk/",
+    "homepage_title": "City of Doncaster Council",
+    "homepage_description": "Providing online services &amp; information about Doncaster Council &amp; the wider borough for locals, tourists and the business community.",
+    "generator_raw_value": "Orchard",
+    "generator": {
+      "cms": "Orchard CMS",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Dorset Council",
+    "country": "",
+    "homepage": "https://www.dorsetcouncil.gov.uk/",
+    "homepage_title": "Home - Dorset Council",
+    "homepage_description": "Pay council tax, check bin collections, search planning applications, view live travel updates and access Dorset Council services and local information across Dorset.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Placecube CookieConsent",
+    "analytics": {
+      "provider": "Microsoft Clarity",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Dudley Borough Council",
+    "country": "",
+    "homepage": "https://www.dudley.gov.uk/",
+    "homepage_title": "Residents | Dudley Council",
+    "homepage_description": "We provide lots of services to residents within the Dudley Borough, including: planning, Council Tax, bins and recycling, housing, parking and roads, safeguarding, among many others.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Dumfries & Galloway Council",
+    "country": "",
+    "homepage": "https://www.dumgal.gov.uk/",
+    "homepage_title": "Welcome to Dumfries and Galloway | Dumfries and Galloway Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Dún Laoghaire / Rathdown County Council",
+    "country": "",
+    "homepage": "https://www.dlrcoco.ie/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Durham County Council",
+    "country": "",
+    "homepage": "http://www.durham.gov.uk/",
+    "homepage_title": "Home - Durham County Council",
+    "homepage_description": "",
+    "generator_raw_value": "GOSS iCM - Intelligent Content Management",
+    "generator": {
+      "cms": "GOSS iCM",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "East Herts Council",
+    "country": "",
+    "homepage": "https://www.eastherts.gov.uk/",
+    "homepage_title": "Home | East Herts District Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "11"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "East Riding of Yorkshire Council",
+    "country": "",
+    "homepage": "https://www.eastriding.gov.uk/",
+    "homepage_title": "Home - East Riding of Yorkshire Council",
+    "homepage_description": "Welcome to East Riding of Yorkshire Council",
+    "generator_raw_value": "East Riding of Yorkshire Council",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Matomo",
+      "provider_variant": "Piwik / Matomo",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "East Sussex County Council",
+    "country": "",
+    "homepage": "https://www.eastsussex.gov.uk/",
+    "homepage_title": "Home - East Sussex County Council | East Sussex County Council",
+    "homepage_description": "Access and learn about council services and get it done online: find jobs, school dates, renew books, contact social services, report issues, Blue Badge &amp; more.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Matomo",
+      "provider_variant": "Piwik / Matomo",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Edinburgh Council",
+    "country": "",
+    "homepage": "http://www.edinburgh.gov.uk/",
+    "homepage_title": "Home – The City of Edinburgh Council",
+    "homepage_description": "The City of Edinburgh Council homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Enfield Council",
+    "country": "",
+    "homepage": "https://www.enfield.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Epsom & Ewell Borough Council",
+    "country": "",
+    "homepage": "https://www.epsom-ewell.gov.uk/",
+    "homepage_title": "Epsom and Ewell Borough Council |",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Essex County Council",
+    "country": "",
+    "homepage": "https://www.essex.gov.uk/",
+    "homepage_title": "Welcome to Essex | Essex County Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Hotjar",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Fermanagh & Omagh District Council",
+    "country": "",
+    "homepage": "https://www.fermanaghomagh.com/",
+    "homepage_title": "Fermanagh and Omagh District Council &#8211; Fermanagh &amp; Omagh District Council",
+    "homepage_description": "Fermanagh and Omagh District Council works in partnership to improve the lives and wellbeing of our communities and to provide the best quality experience for those who visit our district.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Folkestone & Hythe District Council",
+    "country": "",
+    "homepage": "https://www.folkestone-hythe.gov.uk/",
+    "homepage_title": "Folkestone &amp; Hythe District Council – Folkestone &amp; Hythe District Council",
+    "homepage_description": "Folkestone &amp; Hythe District Council: How can we help? Planning and building, Council tax, Parking and permits, Bins and waste, Benefits and support, Councillors and meetings, Environmental problems",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Fylde Council",
+    "country": "",
+    "homepage": "http://www.fylde.gov.uk/",
+    "homepage_title": "Fylde Council",
+    "homepage_description": "",
+    "generator_raw_value": "Redux 4.5.13",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Gateshead Council",
+    "country": "",
+    "homepage": "https://www.gateshead.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Gloucestershire County Council",
+    "country": "",
+    "homepage": "https://www.gloucestershire.gov.uk/",
+    "homepage_title": "Home | Gloucestershire County Council",
+    "homepage_description": "We want Gloucestershire to be a county where everyone can live a healthy life, get a good education and job, and feel proud of their area. We aim to make sure everyone is treated fairly, can access opportunities and services easily, and feels welcome in a kind and caring community.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Microsoft Clarity",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Gravesham Borough Council",
+    "country": "",
+    "homepage": "https://www.gravesham.gov.uk/",
+    "homepage_title": "Gravesham Homepage – Gravesham Borough Council",
+    "homepage_description": "Gravesham Borough Council homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Greenwich Council",
+    "country": "",
+    "homepage": "https://www.royalgreenwich.gov.uk/",
+    "homepage_title": "Royal Greenwich | Royal Borough of Greenwich",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hackney Council",
+    "country": "",
+    "homepage": "https://www.hackney.gov.uk/",
+    "homepage_title": "Welcome to Hackney Council | Hackney Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Halton Borough Council",
+    "country": "",
+    "homepage": "https://www3.halton.gov.uk/",
+    "homepage_title": "Halton Borough Council Website: HBC Services Online",
+    "homepage_description": "Information for residents about Halton Borough Council services including council tax, bins and recycling, schools, leisure, streets and parking.",
+    "generator_raw_value": "Microsoft SharePoint",
+    "generator": {
+      "cms": "SharePoint",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google",
+      "provider_variant": "GTM",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hammersmith & Fulham Council",
+    "country": "",
+    "homepage": "https://www.lbhf.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hampshire County Council",
+    "country": "",
+    "homepage": "https://www.hants.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Harlow Council",
+    "country": "",
+    "homepage": "https://www.harlow.gov.uk/",
+    "homepage_title": "Welcome to Harlow Council | Harlow Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Harrow Council",
+    "country": "",
+    "homepage": "http://www.harrow.gov.uk/",
+    "homepage_title": "Home – London Borough of Harrow",
+    "homepage_description": "The official website of the London Borough of Harrow. Find information about Council Tax, Parking, Planning, Licensing, Schools, Recycling and more.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Hotjar",
+      "provider_variant": "6",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hartlepool Borough Council",
+    "country": "",
+    "homepage": "https://www.hartlepool.gov.uk/",
+    "homepage_title": "Hartlepool Borough Council – Hartlepool Borough Council",
+    "homepage_description": "Hartlepool Borough Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Herefordshire Council",
+    "country": "",
+    "homepage": "https://www.herefordshire.gov.uk/",
+    "homepage_title": "Home - Herefordshire Council",
+    "homepage_description": "Herefordshire Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hertfordshire County Council",
+    "country": "",
+    "homepage": "https://www.hertfordshire.gov.uk/",
+    "homepage_title": "Home | Hertfordshire County Council | Hertfordshire County Council",
+    "homepage_description": "Welcome to Hertfordshire County Council. Find out more about the council and the services we provide.",
+    "generator_raw_value": "Contensis CMS Version 17.1",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "17.1"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hillingdon Council",
+    "country": "",
+    "homepage": "https://www.hillingdon.gov.uk/",
+    "homepage_title": "Main homepage – Hillingdon Council",
+    "homepage_description": "Homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hinckley & Bosworth Borough Council",
+    "country": "",
+    "homepage": "https://www.hinckley-bosworth.gov.uk/",
+    "homepage_title": "Hinckley &amp; Bosworth Borough Council Homepage",
+    "homepage_description": "Homepage for Hinckley &amp; Bosworth Borough Council",
+    "generator_raw_value": "http://www.jadu.net",
+    "generator": {
+      "cms": "Jadu",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hounslow Council",
+    "country": "",
+    "homepage": "https://www.hounslow.gov.uk/",
+    "homepage_title": "London Borough of Hounslow Website homepage | London Borough of Hounslow",
+    "homepage_description": "Hounslow Council website main homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hull City Council",
+    "country": "",
+    "homepage": "https://www.hull.gov.uk/",
+    "homepage_title": "Home – Hull",
+    "homepage_description": "Welcome to Hull City Councils website. Get involved and help shape the city, council services, and influence decisions made on local issues.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Insites Cookie Consent",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Hyndburn Borough Council",
+    "country": "",
+    "homepage": "https://www.hyndburnbc.gov.uk/",
+    "homepage_title": "Hyndburn Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "CookieYes",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Isle of Wight Council",
+    "country": "",
+    "homepage": "https://www.iow.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Isles of Scilly Council",
+    "country": "",
+    "homepage": "https://www.scilly.gov.uk/",
+    "homepage_title": "Council of the ISLES OF SCILLY | ...a strong and sustainable island community",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 7 (http://drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "7"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Kensington & Chelsea London Borough Council",
+    "country": "",
+    "homepage": "https://www.rbkc.gov.uk/",
+    "homepage_title": "Homepage | Royal Borough of Kensington and Chelsea",
+    "homepage_description": "Welcome to the Royal Borough of Kensington and Chelsea",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Kent County Council",
+    "country": "",
+    "homepage": "https://www.kent.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "King's Lynn & West Norfolk Borough Council",
+    "country": "",
+    "homepage": "https://www.west-norfolk.gov.uk/",
+    "homepage_title": "Borough Council of King&#039;s Lynn &amp; West Norfolk Homepage",
+    "homepage_description": "Providing information on planning and development, housing, Council Tax, benefits, bins and recycling, and other services in the borough",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Kingston upon Thames Royal Borough Council",
+    "country": "",
+    "homepage": "https://www.kingston.gov.uk/",
+    "homepage_title": "Homepage | Royal Borough of Kingston upon Thames",
+    "homepage_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Kirklees Council",
+    "country": "",
+    "homepage": "https://www.kirklees.gov.uk/",
+    "homepage_title": "Kirklees Council | Home Page",
+    "homepage_description": "Delivering information for individuals, businesses and organisations about this area in the Yorkshire Pennines area of England",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Knowsley Metropolitan Borough Council",
+    "country": "",
+    "homepage": "https://www.knowsley.gov.uk/",
+    "homepage_title": "Home | Knowsley Council",
+    "homepage_description": "Knowsley.gov.uk is the easiest way to find information and online services relating to services delivered by Knowsley Council.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lancashire County Council",
+    "country": "",
+    "homepage": "https://www.lancashire.gov.uk/",
+    "homepage_title": "Home - Lancashire County Council",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Insites Cookie Consent",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lancaster City Council",
+    "country": "",
+    "homepage": "https://www.lancaster.gov.uk/",
+    "homepage_title": "Home - Lancaster City Council",
+    "homepage_description": "Lancaster City Council",
+    "generator_raw_value": "Web Labs Bridge (https://www.web-labs.co.uk/products/bridge)",
+    "generator": {
+      "cms": "Web-labs",
+      "cms_variant": "Bridge",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Leicester City Council",
+    "country": "",
+    "homepage": "https://www.leicester.gov.uk/",
+    "homepage_title": "Homepage | Leicester City Council",
+    "homepage_description": "Leicester City Council is the unitary authority serving the people, communities and businesses of Leicester, the biggest city in the East Midlands.",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Leicestershire County Council",
+    "country": "",
+    "homepage": "https://www.leicestershire.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lewes & Eastbourne Councils",
+    "country": "",
+    "homepage": "https://www.lewes-eastbourne.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Limerick City & County Council",
+    "country": "",
+    "homepage": "https://www.limerick.ie/",
+    "homepage_title": "This is Limerick | Limerick.ie",
+    "homepage_description": "Limerick - Atlantic Edge, European Embrace. Limerick offers energy, excitement, grit and limitless possibilities from its Atlantic location, combined with the timeless, creative and hospitable character of Europe.",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "OneTrust / CookiePro",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lincoln Council",
+    "country": "",
+    "homepage": "https://www.lincoln.gov.uk/",
+    "homepage_title": "Homepage – City of Lincoln Council",
+    "homepage_description": "Welcome to the City of Lincoln Council homepage, providing information on council services for residents, businesses and visitors.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookie Information",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lincolnshire County Council",
+    "country": "",
+    "homepage": "https://www.lincolnshire.gov.uk/",
+    "homepage_title": "Homepage – Lincolnshire County Council",
+    "homepage_description": "Information from Lincolnshire County Council about schools, roads, jobs, registrars, recycling, childcare, adult care, libraries, planning and business.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Lisburn & Castlereagh City Council",
+    "country": "",
+    "homepage": "https://www.lisburncastlereagh.gov.uk/",
+    "homepage_title": "Home - lisburncastlereagh.gov.uk",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Luton Borough Council",
+    "country": "",
+    "homepage": "https://www.luton.gov.uk/",
+    "homepage_title": "Luton Borough Council | Luton Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 11 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Medway Council",
+    "country": "",
+    "homepage": "https://www.medway.gov.uk/",
+    "homepage_title": "Medway Council Homepage",
+    "homepage_description": "Information on all the services Medway Council provides.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Merton Council",
+    "country": "",
+    "homepage": "https://www.merton.gov.uk/",
+    "homepage_title": "Welcome to Merton | Merton Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 11 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "11"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Mid & East Antrim Borough Council",
+    "country": "",
+    "homepage": "https://www.midandeastantrim.gov.uk/",
+    "homepage_title": "Mid and East Antrim Borough Council | Mid and East Antrim Borough Council",
+    "homepage_description": "The Mid and East Antrim Borough Council area benefits from its strategic location within Northern Ireland. Our close proximity to both major airports, the Port of Belfast and, of course, the Port of Larne itself, make the area ideally suited for commerce.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "CookieYes",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Mid Ulster District Council",
+    "country": "",
+    "homepage": "https://www.midulstercouncil.org/",
+    "homepage_title": "Mid Ulster District Council | Mid Ulster District Council",
+    "homepage_description": "Information for residents about Mid Ulster District Council services including bins and recycling, business, leisure, events and tourism.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Middlesbrough Council",
+    "country": "",
+    "homepage": "https://www.middlesbrough.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Milton Keynes City Council",
+    "country": "",
+    "homepage": "https://www.milton-keynes.gov.uk/",
+    "homepage_title": "Milton Keynes City Council",
+    "homepage_description": "Milton Keynes City Council",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Newark & Sherwood District Council",
+    "country": "",
+    "homepage": "https://www.newark-sherwooddc.gov.uk/",
+    "homepage_title": "Homepage | Newark &amp; Sherwood District Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Newcastle-under-Lyme Borough Council",
+    "country": "",
+    "homepage": "https://www.newcastle-staffs.gov.uk/",
+    "homepage_title": "Newcastle-under-Lyme Borough Council Homepage – Newcastle-under-Lyme Borough Council",
+    "homepage_description": "Welcome to the website for Newcastle-under-Lyme Borough Council.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Newry, Mourne & Down District Council",
+    "country": "",
+    "homepage": "https://www.newrymournedown.org/",
+    "homepage_title": "Home - Newry, Mourne and Down District Council",
+    "homepage_description": "Newry, Mourne and Down District Council, one of 11 new super councils, was created. It is made up of the former Newry and Mourne and Down District Council areas.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Norfolk County Council",
+    "country": "",
+    "homepage": "https://www.norfolk.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North East Derbyshire District Council",
+    "country": "",
+    "homepage": "http://www.ne-derbyshire.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North East Lincolnshire Council",
+    "country": "",
+    "homepage": "https://www.nelincs.gov.uk/",
+    "homepage_title": "Welcome to North East Lincolnshire Council",
+    "homepage_description": "A range of services offered by the North East Lincolnshire Council including leisure, business, traffic and travel.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Lincolnshire Council",
+    "country": "",
+    "homepage": "https://www.northlincs.gov.uk/",
+    "homepage_title": "Home - North Lincolnshire Council",
+    "homepage_description": "",
+    "generator_raw_value": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Northamptonshire Council",
+    "country": "",
+    "homepage": "https://www.northnorthants.gov.uk/",
+    "homepage_title": "North Northamptonshire Council",
+    "homepage_description": "This is the main homepage for North Northamptonshire linking to our main services and functions",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Somerset Council",
+    "country": "",
+    "homepage": "https://www.n-somerset.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Tyneside Council",
+    "country": "",
+    "homepage": "https://my.northtyneside.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Warwickshire Council",
+    "country": "",
+    "homepage": "https://www.northwarks.gov.uk/",
+    "homepage_title": "Home – North Warwickshire Borough Council",
+    "homepage_description": "Atherstone Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "North Yorkshire County Council",
+    "country": "",
+    "homepage": "https://www.northyorks.gov.uk/",
+    "homepage_title": "Home | North Yorkshire Council",
+    "homepage_description": "Apply, book, pay, report 24/7 – do it online! Jobs, school admissions, libraries, tips, roads, park and ride, births, marriages, blue badge, planning and more.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Northumberland County Council",
+    "country": "",
+    "homepage": "https://www.northumberland.gov.uk/",
+    "homepage_title": "Northumberland County Council | Northumberland County Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Nottingham City Council",
+    "country": "",
+    "homepage": "http://www.nottinghamcity.gov.uk/",
+    "homepage_title": "Homepage - Nottingham City Council",
+    "homepage_description": "Nottingham City Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "CookieYes",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Nottinghamshire County Council",
+    "country": "",
+    "homepage": "https://www.nottinghamshire.gov.uk/",
+    "homepage_title": "Home | Nottinghamshire County Council",
+    "homepage_description": "Information from Nottinghamshire County Council on local services, latest news, job vacancies, tourism and Robin Hood.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Nuneaton & Bedworth Borough Council",
+    "country": "",
+    "homepage": "https://www.nuneatonandbedworth.gov.uk/",
+    "homepage_title": "Homepage – Nuneaton and Bedworth Borough Council",
+    "homepage_description": "Nuneaton and Bedworth Borough Council homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Oadby & Wigston Borough Council",
+    "country": "",
+    "homepage": "https://www.oadby-wigston.gov.uk/",
+    "homepage_title": "Oadby and Wigston Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "ccms/2.0.0 (Cuttlefish CMS: http://cuttlefish.com)",
+    "generator": {
+      "cms": "Cuttlefish CMS",
+      "cms_variant": "ccms",
+      "cms_version": "2.0.0"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Oldham Council",
+    "country": "",
+    "homepage": "https://www.oldham.gov.uk/",
+    "homepage_title": "Main Homepage",
+    "homepage_description": "Homepage for Oldham Council website",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Perth & Kinross Council",
+    "country": "",
+    "homepage": "https://www.pkc.gov.uk/",
+    "homepage_title": "Perth and Kinross Council - Perth &amp; Kinross Council",
+    "homepage_description": "Offers information and online services for residents, visitors and businesses in the Perth and Kinross area",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Peterborough City Council",
+    "country": "",
+    "homepage": "https://www.peterborough.gov.uk/",
+    "homepage_title": "Peterborough City Council | Peterborough City Council",
+    "homepage_description": "Providing information on bins and recycling, council tax, planning and development, term dates and other services in Peterborough.",
+    "generator_raw_value": "Contensis",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Plymouth City Council",
+    "country": "",
+    "homepage": "https://www.plymouth.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Portsmouth City Council",
+    "country": "",
+    "homepage": "https://www.portsmouth.gov.uk/",
+    "homepage_title": "Home - Portsmouth City Council",
+    "homepage_description": "Access Council services, information, and support in Portsmouth.",
+    "generator_raw_value": "WordPress 7.1",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": "7.1"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Reading Borough Council",
+    "country": "",
+    "homepage": "https://www.reading.gov.uk/",
+    "homepage_title": "Reading Borough Council",
+    "homepage_description": "Reading Borough Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Microsoft Clarity",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Redcar & Cleveland Borough Council",
+    "country": "",
+    "homepage": "https://www.redcar-cleveland.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Reigate & Banstead Borough Council",
+    "country": "",
+    "homepage": "http://www.reigate-banstead.gov.uk/",
+    "homepage_title": "Reigate and Banstead Homepage",
+    "homepage_description": "Reigate and Banstead Borough Council is a local government district in east Surrey, England. Includes the towns of Reigate, Redhill, Horley and Banstead.",
+    "generator_raw_value": "http://www.jadu.net",
+    "generator": {
+      "cms": "Jadu",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Rhondda Cynon Taf Borough Council",
+    "country": "",
+    "homepage": "https://www.rctcbc.gov.uk/",
+    "homepage_title": "Welcome to Rhondda Cynon Taf County Borough Council",
+    "homepage_description": "Information and services for residence, businesses and tourists. Online services and information on Council Tax, Planning, Rubbish Waste &amp;amp; Recycling, Leisure Facilities, Pest Control, Licensing and much more.",
+    "generator_raw_value": "Contensis CMS Version 15.3",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "15.3"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Richmond upon Thames Council",
+    "country": "",
+    "homepage": "https://www.richmond.gov.uk/",
+    "homepage_title": "Home - London Borough of Richmond upon Thames",
+    "homepage_description": "Welcome to the London Borough of Richmond upon Thames",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Rochdale Borough Council",
+    "country": "",
+    "homepage": "http://www.rochdale.gov.uk/",
+    "homepage_title": "Homepage – Rochdale Borough Council",
+    "homepage_description": "Rochdale Borough Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Rotherham Metropolitan Borough Council",
+    "country": "",
+    "homepage": "https://www.rotherham.gov.uk/",
+    "homepage_title": "Homepage – Rotherham Metropolitan Borough Council",
+    "homepage_description": "We provide local government services to residents, businesses and visitors. Rotherham Metropolitan Borough Council: Riverside House, Main Street Rotherham S60 1AE.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Rutland County Council",
+    "country": "",
+    "homepage": "https://www.rutland.gov.uk/",
+    "homepage_title": "Homepage | Rutland County Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Salford City Council",
+    "country": "",
+    "homepage": "https://www.salford.gov.uk/",
+    "homepage_title": "Salford City Council",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Sandwell Metropolitan Borough Council",
+    "country": "",
+    "homepage": "http://www.sandwell.gov.uk/",
+    "homepage_title": "Main Homepage – Sandwell Council",
+    "homepage_description": "Sandwell Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Sefton Council",
+    "country": "",
+    "homepage": "https://www.sefton.gov.uk/",
+    "homepage_title": "Sefton Home",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Shropshire Council",
+    "country": "",
+    "homepage": "https://www.shropshire.gov.uk/",
+    "homepage_title": "Shropshire Council",
+    "homepage_description": "Explore Shropshire Council&#x27;s website, giving you the tools and information you need for the services we provide.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Slough Borough Council",
+    "country": "",
+    "homepage": "https://www.slough.gov.uk/",
+    "homepage_title": "Homepage – Slough Borough Council",
+    "homepage_description": "Slough Borough council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Solihull Metropolitan Borough Council",
+    "country": "",
+    "homepage": "https://www.solihull.gov.uk/",
+    "homepage_title": "Homepage | Solihull Metropolitan Borough Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Somerset Council",
+    "country": "",
+    "homepage": "https://www.somerset.gov.uk/",
+    "homepage_title": "Somerset Council",
+    "homepage_description": "Find and access your council services",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "South Gloucestershire Council",
+    "country": "",
+    "homepage": "http://www.southglos.gov.uk/",
+    "homepage_title": "South Gloucestershire Council",
+    "homepage_description": "Information and services provided by the council for residents, businesses and visitors.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "South Staffordshire Council",
+    "country": "",
+    "homepage": "https://www.sstaffs.gov.uk/",
+    "homepage_title": "Welcome to South Staffordshire Council - Homepage | South Staffordshire District Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "South Tyneside Council",
+    "country": "",
+    "homepage": "https://www.southtyneside.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Southampton City Council",
+    "country": "",
+    "homepage": "https://www.southampton.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Southend-on-Sea Borough Council",
+    "country": "",
+    "homepage": "https://www.southend.gov.uk/",
+    "homepage_title": "The Homepage – Southend-on-Sea City Council",
+    "homepage_description": "Southend-on-Sea City Council",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Southwark Council",
+    "country": "",
+    "homepage": "https://www.southwark.gov.uk/",
+    "homepage_title": "Hello, welcome to Southwark | Southwark Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "St Albans City & District Council",
+    "country": "",
+    "homepage": "https://www.stalbans.gov.uk/",
+    "homepage_title": "St Albans City and District Council",
+    "homepage_description": "This is the website for St Albans City &amp; District Council, Hertfordshire, UK.",
+    "generator_raw_value": "Drupal 11 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "11"
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "St Helens Council",
+    "country": "",
+    "homepage": "https://www.sthelens.gov.uk/",
+    "homepage_title": "St Helens Borough Council - St Helens Borough Council",
+    "homepage_description": "Online services for residents, businesses and visitors to St Helens Borough.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "Universal Analytics",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Staffordshire County Council",
+    "country": "",
+    "homepage": "https://www.staffordshire.gov.uk/",
+    "homepage_title": "Home | Staffordshire County Council",
+    "homepage_description": "Information and services from Staffordshire County Council.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Stockport Metropolitan Borough Council",
+    "country": "",
+    "homepage": "https://www.stockport.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Stockton-on-Tees Borough Council",
+    "country": "",
+    "homepage": "https://www.stockton.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Stoke-on-Trent City Council",
+    "country": "",
+    "homepage": "https://www.stoke.gov.uk/",
+    "homepage_title": "SoTCC homepage",
+    "homepage_description": "Stoke-on-Trent City Council homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Suffolk County Council",
+    "country": "",
+    "homepage": "https://www.suffolk.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Sunderland City Council",
+    "country": "",
+    "homepage": "https://www.sunderland.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Surrey County Council",
+    "country": "",
+    "homepage": "https://www.surreycc.gov.uk/",
+    "homepage_title": "Surrey County Council",
+    "homepage_description": "Access a council service and get it done online – renew a book, report a pothole, register a birth, search for a job, apply for a Blue Badge, and much more.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Sutton Council",
+    "country": "",
+    "homepage": "https://www.sutton.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Swindon Borough Council",
+    "country": "",
+    "homepage": "https://www.swindon.gov.uk/",
+    "homepage_title": "Swindon Borough Council",
+    "homepage_description": "Make reports, request council services and pay online at your convenience, without having to phone or visit. Use the search bar or links to quickly get to the page you need.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Tameside Metroplitan Borough Council",
+    "country": "",
+    "homepage": "https://www.tameside.gov.uk/",
+    "homepage_title": "Tameside Metropolitan Borough Council - Tameside Metropolitan Borough Council",
+    "homepage_description": "Do business with Tameside Metropolitan Borough Council online, including paying your Council Tax, renewing your library books and many others.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Placecube CookieConsent",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Telford & Wrekin Council",
+    "country": "",
+    "homepage": "http://www.telford.gov.uk/",
+    "homepage_title": "Telford &amp; Wrekin Council | Home",
+    "homepage_description": "Telford &amp; Wrekin Homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Thanet District Council",
+    "country": "",
+    "homepage": "https://www.thanet.gov.uk/",
+    "homepage_title": "Thanet District Council - Thanet",
+    "homepage_description": "",
+    "generator_raw_value": "Site Kit by Google 1.185.0",
+    "generator": {
+      "cms": "WordPress",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Cookiebot",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Thurrock Council",
+    "country": "",
+    "homepage": "https://www.thurrock.gov.uk/",
+    "homepage_title": "Thurrock Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Tonbridge & Malling Borough Council",
+    "country": "",
+    "homepage": "https://www.tmbc.gov.uk/",
+    "homepage_title": "Tonbridge and Malling Borough Council – Tonbridge and Malling Borough Council",
+    "homepage_description": "Tonbridge and Malling Borough Council Homepage",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Torbay Council",
+    "country": "",
+    "homepage": "https://www.torbay.gov.uk/",
+    "homepage_title": "Home - Torbay Council",
+    "homepage_description": "Your local authority delivering services to visitors and residents of Brixham, Paignton and Torquay.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Tower Hamlets Council",
+    "country": "",
+    "homepage": "https://www.towerhamlets.gov.uk/",
+    "homepage_title": "Home",
+    "homepage_description": "Homepage",
+    "generator_raw_value": "Contensis CMS Version 17.2",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "17.2"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Trafford Council",
+    "country": "",
+    "homepage": "https://www.trafford.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wakefield Council",
+    "country": "",
+    "homepage": "http://www.wakefield.gov.uk/",
+    "homepage_title": "Home - Wakefield Council",
+    "homepage_description": "Wakefield Council provides information on local services including education, social care, culture, leisure, waste, planning, transport, and roads to Wakefield, Castleford, Pontefract, Ossett, Normanton, Knottingley, Featherstone, South Elmsall, Hemsworth, and other localities in West Yorkshire, England.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Walsall Council",
+    "country": "",
+    "homepage": "https://go.walsall.gov.uk/",
+    "homepage_title": "Homepage | Walsall Council",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Waltham Forest Council",
+    "country": "",
+    "homepage": "https://www.walthamforest.gov.uk/",
+    "homepage_title": "Home | London Borough of Waltham Forest",
+    "homepage_description": "",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wandsworth Council",
+    "country": "",
+    "homepage": "http://www.wandsworth.gov.uk/",
+    "homepage_title": "Home - Wandsworth Borough Council",
+    "homepage_description": "Welcome to the London Borough of Wandsworth.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Civic Cookie Control",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Warrington Borough Council",
+    "country": "",
+    "homepage": "https://www.warrington.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Warwickshire County Council",
+    "country": "",
+    "homepage": "https://www.warwickshire.gov.uk/",
+    "homepage_title": "Homepage – Warwickshire County Council",
+    "homepage_description": "Warwickshire",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Waterford City & County Council",
+    "country": "",
+    "homepage": "https://www.waterfordcouncil.ie/",
+    "homepage_title": "Waterford City &amp; County Council &#8211; Comhairle Cathrach &amp; Contae Phort Láirge",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "CookieYes",
+    "analytics": {
+      "provider": "Matomo",
+      "provider_variant": "Piwik / Matomo",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "West Berkshire Council",
+    "country": "",
+    "homepage": "https://www.westberks.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "West Northamptonshire Council",
+    "country": "",
+    "homepage": "https://www.westnorthants.gov.uk/",
+    "homepage_title": "West Northamptonshire Council",
+    "homepage_description": "Welcome to West Northamptonshire Council, the single unitary council covering the areas of Northampton, Daventry and South Northamptonshire",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "West Suffolk Council",
+    "country": "",
+    "homepage": "https://www.westsuffolk.gov.uk/",
+    "homepage_title": "West Suffolk Council homepage",
+    "homepage_description": "West Suffolk Council deliver services while finding improved ways of supporting communities, businesses and the local economy.",
+    "generator_raw_value": "CommonSpot Build 11.0.0.670",
+    "generator": {
+      "cms": "CommonSpot",
+      "cms_variant": "",
+      "cms_version": "11.0.0.670"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "West Sussex County Council",
+    "country": "",
+    "homepage": "https://www.westsussex.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Westmorland & Furness Council",
+    "country": "",
+    "homepage": "https://www.westmorlandandfurness.gov.uk/",
+    "homepage_title": "Welcome to Westmorland and Furness | Westmorland and Furness Council",
+    "homepage_description": "Access Westmorland and Furness Council services. Find information about council tax, bins and recycling, housing, planning, schools, benefits and local support.",
+    "generator_raw_value": "Drupal 10 (LocalGov Drupal | https://localgovdrupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wigan Council",
+    "country": "",
+    "homepage": "https://www.wigan.gov.uk/",
+    "homepage_title": "Wigan Council - Residents",
+    "homepage_description": "Information for local residents, visitors and local businesses",
+    "generator_raw_value": "Contensis CMS Version 11.3",
+    "generator": {
+      "cms": "Contensis",
+      "cms_variant": "",
+      "cms_version": "11.3"
+    },
+    "cookie_consent_manager": "OneTrust / CookiePro",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wiltshire Council",
+    "country": "",
+    "homepage": "http://www.wiltshire.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Windsor & Maidenhead Council",
+    "country": "",
+    "homepage": "https://www.rbwm.gov.uk/",
+    "homepage_title": "Homepage | Royal Borough of Windsor and Maidenhead",
+    "homepage_description": "Welcome to the Royal Borough of Windsor &amp; Maidenhead",
+    "generator_raw_value": "Drupal 10 | LocalGov Drupal powered by Big Blue Door | https://www.bigbluedoor.net/localgov-drupal",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "LocalGov Drupal",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wirral Council",
+    "country": "",
+    "homepage": "https://www.wirral.gov.uk/",
+    "homepage_title": "",
+    "homepage_description": "",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wolverhampton Council",
+    "country": "",
+    "homepage": "https://www.wolverhampton.gov.uk/",
+    "homepage_title": "Homepage | City Of Wolverhampton Council",
+    "homepage_description": "Providing online services &amp; information about the City of Wolverhampton Council for residents, visitors and the business community.",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Hotjar",
+      "provider_variant": "",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Worcestershire County Council",
+    "country": "",
+    "homepage": "http://www.worcestershire.gov.uk/",
+    "homepage_title": "Welcome to Worcestershire | Worcestershire County Council",
+    "homepage_description": "Welcome to Worcestershire",
+    "generator_raw_value": "Drupal 10 (https://www.drupal.org)",
+    "generator": {
+      "cms": "Drupal",
+      "cms_variant": "",
+      "cms_version": "10"
+    },
+    "cookie_consent_manager": "Drupal EU Cookie Compliance",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "Wyre Council",
+    "country": "",
+    "homepage": "http://www.wyre.gov.uk/",
+    "homepage_title": "Homepage – Wyre Council",
+    "homepage_description": "The main homepage for Wyre Council.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
+      "provider_version": ""
+    }
+  },
+  {
+    "name": "York Council",
+    "country": "",
+    "homepage": "https://www.york.gov.uk/",
+    "homepage_title": "City of York Council website home page – City of York Council",
+    "homepage_description": "We provide local government services to around 200,000 people in an area covering approximately 105 square miles. City of York Council: West Offices, Station Rise, York, YO1 6GA. Telephone: 01904 551550.",
+    "generator_raw_value": "",
+    "generator": {
+      "cms": "",
+      "cms_variant": "",
+      "cms_version": ""
+    },
+    "cookie_consent_manager": "Silktide Consent Manager",
+    "analytics": {
+      "provider": "Google Analytics",
+      "provider_variant": "GA4",
       "provider_version": ""
     }
   }
